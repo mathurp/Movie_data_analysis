@@ -1,0 +1,666 @@
+"X","movie","total_gross","Critic_Pick","BoxOffice_Hit"
+"67","Avengers: Infinity War",453107350,0,1
+"105","Black Panther",403613257,1,1
+"343","Jurassic World",402800095,0,1
+"312","Incredibles 2",349794341,1,1
+"87","Beauty and the Beast",319032604,1,1
+"131","Captain America: Civil War",295966220,0,1
+"230","Finding Dory",286277856,1,1
+"558","Rogue One: A Star Wars Story",286033442,0,1
+"344","Jurassic World: Fallen Kingdom",265699530,0,1
+"246","Furious 7",251516400,0,1
+"169","Deadpool",236865054,0,1
+"621","Suicide Squad",222640741,0,1
+"322","It",218813729,0,1
+"432","Minions",215766440,0,1
+"801","Thor: Ragnarok",212068013,0,1
+"170","Deadpool 2",208170395,0,1
+"604","Spider-Man: Homecoming",207275524,0,1
+"867","Wonder Woman",206343175,1,1
+"770","The Secret Life of Pets",203426220,0,1
+"719","The Jungle Book",192213247,0,1
+"318","Inside Out",185140364,1,1
+"346","Justice League",171903874,0,1
+"691","The Fate of the Furious",163304635,0,1
+"191","Doctor Strange",152952234,1,1
+"389","Logan",152919158,0,1
+"596","Solo: A Star Wars Story",148989574,0,1
+"182","Despicable Me 3",148771085,0,1
+"879","Zootopia",143955013,1,1
+"585","Sing",140522140,0,1
+"340","Jumanji: Welcome to the Jungle",136614486,0,1
+"60","Ant-Man and the Wasp",133083084,0,1
+"229","Fifty Shades of Grey",129161540,0,1
+"603","Spectre",128981285,0,1
+"148","Cinderella",122516793,0,1
+"526","Pitch Perfect 2",118298395,0,1
+"871","X-Men: Apocalypse",116998716,0,1
+"362","Kong: Skull Island",109107436,0,1
+"738","The Martian",108715595,1,1
+"609","Star Trek Beyond",106474717,0,1
+"59","Ant-Man",106219861,0,1
+"329","Jason Bourne",103111145,0,1
+"200","Dunkirk",101317350,1,1
+"22","A Quiet Place",100005934,1,1
+"137","Cars 3",98782390,1,1
+"565","San Andreas",98465426,0,1
+"845","War for the Planet of the Apes",98235137,1,1
+"441","Moana",98059973,0,1
+"725","The Lego Batman Movie",97221428,0,1
+"292","Home",95241397,0,1
+"817","Trolls",93943892,0,1
+"298","Hotel Transylvania 2",90734361,0,1
+"815","Transformers: The Last Knight",89978528,0,1
+"548","Ready Player One",89702828,0,1
+"658","The Boss Baby",89436806,0,1
+"226","Fifty Shades Darker",88972715,0,1
+"150","Coco",88859723,0,1
+"404","Mad Max: Fury Road",88069541,1,1
+"257","Ghostbusters",86266570,0,1
+"751","The Nun",85114588,0,1
+"740","The Meg",83760074,0,1
+"756","The Peanuts Movie",82303394,1,1
+"724","The Legend of Tarzan",81804174,0,1
+"254","Get Out",78079925,1,1
+"606","Split",77385530,0,1
+"227","Fifty Shades Freed",76499000,0,1
+"313","Independence Day: Resurgence",72876039,0,1
+"622","Sully",70194368,1,1
+"865","Wonder",69807297,1,1
+"366","Kung Fu Panda 3",69293138,0,1
+"139","Central Intelligence",69173874,0,1
+"361","Kingsman: The Secret Service",67926972,0,1
+"360","Kingsman: The Golden Circle",66637153,0,1
+"645","The Angry Birds Movie",66422800,0,1
+"544","Rampage",65694360,0,1
+"568","Sausage Party",65486596,1,1
+"259","Girls Trip",65085525,0,1
+"534","Power Rangers",64762477,0,1
+"689","The Equalizer 2",64251362,0,1
+"56","Annabelle: Creation",64156901,0,1
+"702","The Good Dinosaur",63826024,1,1
+"810","Tomorrowland",63689330,0,1
+"632","Taken 3",63502735,0,1
+"527","Pitch Perfect 3",63300605,0,1
+"734","The Magnificent Seven",61532784,0,1
+"814","Trainwreck",61526975,1,1
+"109","Blade Runner 2049",60970631,0,1
+"27","A Wrinkle in Time",60751533,0,1
+"638","Terminator: Genisys",59024288,0,1
+"159","Crazy Rich Asians",58829051,0,1
+"762","The Purge: Election Year",58798720,0,1
+"552","Ride Along 2",58606090,0,1
+"635","Ted 2",58500630,0,1
+"37","Alien: Covenant",57436720,0,1
+"253","Get Hard",57215636,0,1
+"745","The Mummy",57121660,0,1
+"160","Creed",54139678,1,1
+"417","Maze Runner: The Scorch Trials",51957349,0,1
+"457","Murder on the Orient Express",51735924,0,1
+"193","Don’t Breathe",51257175,0,1
+"72","Bad Moms",50850836,0,1
+"509","Passengers",50737933,0,1
+"147","Christopher Robin",50549374,0,1
+"688","The Emoji Movie",49107113,0,1
+"518","Peter Rabbit",48478749,0,1
+"71","Baby Driver",48054362,1,1
+"643","The Accountant",47538513,0,1
+"589","Skyscraper",47149150,0,1
+"699","The Girl on the Train",46831435,0,1
+"528","Pixels",45714520,0,1
+"1","10 Cloverfield Lane",45183178,1,1
+"270","Goosebumps",43738043,0,1
+"63","Arrival",43709470,1,1
+"693","The First Purge",43399745,0,1
+"513","Paul Blart: Mall Cop 2",43224910,0,1
+"384","Lights Out",42870363,0,1
+"308","Ice Age: Collision Course",42598462,0,1
+"785","The Visit",42564720,0,1
+"406","Magic Mike XXL",42341976,1,1
+"219","Fantastic Four",42129974,0,1
+"103","Black Mass",42129394,0,1
+"757","The Perfect Guy",41462273,0,1
+"808","Tomb Raider",41420724,0,1
+"477","Now You See Me 2",41085908,0,1
+"760","The Predator",40911581,0,1
+"279","Happy Death Day",40672780,0,1
+"657","The Boss",40140765,0,1
+"416","Maze Runner: The Death Cure",40035094,0,1
+"497","Paddington",39937717,0,1
+"325","Jack Reacher: Never Go Back",39769924,0,1
+"82","Baywatch",39496491,0,1
+"791","The Wedding Ringer",39385881,0,1
+"391","London Has Fallen",39018130,0,1
+"651","The BFG",38944146,0,1
+"704","The Greatest Showman",38864648,0,1
+"38","All Eyez on Me",38599294,0,1
+"466","Neighbors 2: Sorority Rising",38590960,0,1
+"530","Poltergeist",38525772,1,1
+"337","Joy",38521065,0,1
+"615","Storks",38487415,0,1
+"847","Warcraft",38432955,0,1
+"175","Deepwater Horizon",38295415,0,1
+"588","Sisters",37455995,0,1
+"114","Blockers",37403980,0,1
+"421","Me Before You",36650841,0,1
+"718","The Intern",36588956,0,1
+"458","My Big Fat Greek Wedding 2",36581785,0,1
+"78","Barbershop: The Next Cut",35719746,1,1
+"583","Sicario: Day of the Soldado",35626570,0,1
+"726","The Lego Ninjago Movie",35200302,0,1
+"773","The Shallows",35028837,0,1
+"703","The Great Wall",34831600,0,1
+"858","Why Him?",34607232,0,1
+"239","Focus",34560772,0,1
+"674","The Dark Tower",34250918,0,1
+"715","The Huntsman: Winter’s War",34215325,0,1
+"64","Assassin’s Creed",34151741,0,1
+"66","Atomic Blonde",34037930,0,1
+"872","xXx: Return of Xander Cage",33839608,0,1
+"247","Game Night",33240262,0,1
+"594","Snatched",33015117,0,1
+"14","A Dog’s Purpose",32610435,0,1
+"11","A Bad Moms Christmas",32459292,0,1
+"24","A Simple Favor",32414620,0,1
+"342","Jupiter Ascending",32375165,0,1
+"115","Book Club",32279691,0,1
+"772","The Shack",32226242,0,1
+"275","Hacksaw Ridge",32120194,0,1
+"301","How to be Single",31746063,0,1
+"599","Southpaw",31675168,0,1
+"481","Office Christmas Party",31655795,0,1
+"256","Ghost in the Shell",31529863,0,1
+"549","Red Sparrow",31471006,1,1
+"382","Life of the Party",30915357,0,1
+"839","Vacation",30864106,1,1
+"52","American Made",30818675,0,1
+"631","Tag",30418775,0,1
+"821","Truth or Dare",30268840,0,1
+"829","Uncle Drew",29930263,0,1
+"3","12 Strong",29810676,0,1
+"305","I Feel Pretty",29620318,0,1
+"495","Overboard",29358392,0,1
+"119","Breaking In",29106095,0,1
+"708","The Hateful Eight",29045855,0,1
+"178","Den of Thieves",28775253,0,1
+"333","Jigsaw",28694617,0,1
+"363","Krampus",28564085,0,1
+"433","Miracles from Heaven",27937876,0,1
+"844","War Dogs",27524944,1,1
+"444","Money Monster",27040531,0,1
+"287","Hereditary",27016183,1,1
+"225","Ferdinand",26799630,0,1
+"735","The Man From U.N.C.L.E.",26534214,0,1
+"50","American Assassin",26185076,0,1
+"315","Inferno",25973917,0,1
+"501","Pan",25741311,0,1
+"44","Almost Christmas",25637690,1,1
+"671","The Commuter",25627371,0,1
+"431","Mile 22",25506996,0,1
+"414","Max",25378166,0,1
+"640","The 15:17 to Paris",25333732,0,1
+"156","Concussion",25266650,0,1
+"834","Unfriended",25075475,0,1
+"365","Kubo and the Two Strings",24856200,1,1
+"498","Paddington 2",24810362,1,1
+"491","Ouija: Origin of Evil",24678810,1,1
+"661","The Boy Next Door",24672380,0,1
+"779","The Spy Who Dumped Me",24422997,0,1
+"831","Underworld: Blood Wars",24322217,0,1
+"749","The Night Before",24278827,0,1
+"516","Peppermint",24180031,0,1
+"43","Allied",24045139,1,1
+"6","47 Meters Down",23914194,0,1
+"174","Death Wish",23856431,0,1
+"505","Paper Towns",23854333,0,1
+"252","Geostorm",23781796,0,1
+"731","The Longest Ride",23681298,0,1
+"878","Zoolander 2",23673355,0,1
+"468","Nerve",23592198,0,1
+"698","The Gift",23586927,1,1
+"398","Love, Simon",23503052,0,1
+"295","Hot Pursuit",23446781,0,1
+"234","Fist Fight",23446175,0,1
+"108","BlacKkKlansman",23392685,1,1
+"644","The Age of Adaline",23377371,0,1
+"265","Going in Style",23318880,0,1
+"141","Chappie",23316696,0,1
+"210","Everest",23282700,0,1
+"695","The Foreigner",23181700,0,1
+"264","Gods of Egypt",23046411,0,1
+"208","Entourage",22927918,0,1
+"188","Dirty Grandpa",22837059,0,1
+"578","Sherlock Gnomes",22822216,0,1
+"453","Mother’s Day",22806766,0,1
+"447","Monster Trucks",22684156,1,1
+"853","When the Bough Breaks",22655858,0,1
+"163","Crimson Peak",22557300,0,1
+"554","Risen",22518768,0,1
+"529","Point Break",22402176,0,1
+"380","Life",22296006,0,1
+"626","Super Troopers 2",22214216,1,1
+"780","The Star",22088115,0,1
+"418","McFarland, USA",22019186,0,1
+"33","Adrift",21962065,0,1
+"748","The Nice Guys",21879906,0,1
+"214","Everything, Everything",21371949,0,1
+"553","Rings",21321861,0,1
+"696","The Forest",21311375,0,1
+"659","The Boy",21185304,0,1
+"276","Hail, Caesar!",21160515,0,1
+"636","Teen Titans Go! To The Movies",20701332,0,1
+"744","The Mountain Between Us",20603873,0,1
+"57","Annihilation",20594644,0,1
+"592","Slender Man",20578291,0,1
+"47","Alpha",20562933,0,1
+"300","How to Be a Latin Lover",20548224,0,1
+"642","The 5th Wave",20330975,0,1
+"664","The Bye Bye Man",19990285,0,1
+"686","The DUFF",19769077,0,1
+"562","Run All Night",19639211,0,1
+"94","Ben-Hur",19583702,0,1
+"356","Kidnap",19266106,0,1
+"722","The Last Witch Hunter",19025259,0,1
+"354","Kevin Hart: What Now?",18949900,1,1
+"310","In the Heart of the Sea",18619365,0,1
+"711","The House",18593950,0,1
+"587","Sinister 2",18526943,0,1
+"781","The Strangers: Prey at Night",18503141,0,1
+"692","The Finest Hours",18491899,0,1
+"697","The Gallows",18012685,0,1
+"752","The Nut Job 2: Nutty by Nature",17675989,0,1
+"723","The Lazarus Effect",17376740,0,1
+"861","Winchester",17338575,0,1
+"856","White Boy Rick",17268023,0,1
+"197","Downsizing",17160674,0,1
+"707","The Happytime Murders",16998475,0,1
+"293","Home Again",16984088,0,1
+"541","Proud Mary",16850600,0,1
+"793","The Witch",16675437,1,1
+"560","Rough Night",16638208,0,1
+"46","Aloha",16282116,0,1
+"110","Blair Witch",16232480,0,1
+"41","All the Money in the World",15987175,1,1
+"540","Project Almanac",15661312,0,1
+"670","The Circle",15654158,0,1
+"291","Hitman: Agent 47",15645177,0,1
+"352","Keanu",15308421,0,1
+"152","Collateral Beauty",15287687,0,1
+"242","Free State of Jones",15206221,1,1
+"396","Love the Coopers",15128355,0,1
+"595","Snowden",15050455,0,1
+"590","Sleepless",14940116,0,1
+"390","Logan Lucky",14908962,1,1
+"551","Ricki and the Flash",14641971,0,1
+"855","Whiskey Tango Foxtrot",14636916,0,1
+"422","Mechanic: Resurrection",14583107,0,1
+"237","Florence Foster Jenkins",14490254,0,1
+"471","No Escape",14336889,0,1
+"144","CHiPS",14270554,0,1
+"475","Norm of the North",14024290,0,1
+"571","Secret in Their Eyes",13952579,0,1
+"543","Race",13692912,0,1
+"470","Nine Lives",13576991,0,1
+"783","The Transporter Refueled",13467643,0,1
+"452","mother!",13459798,0,1
+"669","The Choice",13230490,0,1
+"104","Black or White",13139951,0,1
+"627","Superfly",12885779,0,1
+"223","Father Figures",12885287,0,1
+"413","Masterminds",12767040,0,1
+"236","Flatliners",12504623,0,1
+"654","The Birth of a Nation",12275735,0,1
+"487","Only the Brave",11992152,1,1
+"74","Bad Santa 2",11962031,0,1
+"489","Operation Finale",11895036,0,1
+"196","Dope",11697218,0,1
+"376","Leap!",11340596,0,1
+"323","It Comes at Night",11124631,1,1
+"140","Chappaquiddick",11040943,0,1
+"675","The Darkest Minds",10988197,0,1
+"204","Eddie the Eagle",10889947,0,1
+"162","Criminal",10881263,0,1
+"580","Show Dogs",10861890,0,1
+"353","Keeping Up with the Joneses",10794420,0,1
+"54","American Ultra",10540025,0,1
+"816","Triple 9",10374702,0,1
+"572","Self/Less",10331633,0,1
+"296","Hot Tub Time Machine 2",10311071,0,1
+"687","The Edge of Seventeen",10272453,1,1
+"445","Monkey Kingdom",10148952,0,1
+"125","Burnt",10095316,0,1
+"641","The 33",10002722,0,1
+"717","The Infiltrator",9829270,0,1
+"617","Strange Magic",9819784,0,1
+"701","The Glass Castle",9705840,0,1
+"728","The Light Between Oceans",9460503,1,1
+"228","Fifty Shades of Black",9371544,0,1
+"838","Upgrade",9346020,0,1
+"240","Forever My Girl",9129049,0,1
+"833","Unforgettable",8950960,0,1
+"89","Before I Fall",8929594,0,1
+"116","Born in China",8819843,0,1
+"706","The Gunman",8800854,0,1
+"832","Unfinished Business",8693708,0,1
+"425","Megan Leavey",8378502,1,1
+"280","Hardcore Henry",8117998,0,1
+"683","The Disaster Artist",7963017,0,0
+"166","Dangal",7803730,0,1
+"429","Midnight Sun",7671529,0,1
+"650","The Belko Experiment",7648935,0,1
+"184","Detroit",7641083,0,0
+"13","A Cure for Wellness",7496644,0,1
+"758","The Perfect Match",7380235,0,1
+"835","Unfriended: Dark Web",7364340,1,1
+"639","Thank You for Your Service",7302585,0,1
+"107","Blackhat",7097125,1,1
+"761","The Promise",7067064,0,1
+"742","The Miracle Season",7042043,0,1
+"823","Tully",6992005,0,1
+"224","Fences",6879620,1,0
+"451","Mortdecai",6858533,0,1
+"201","Early Man",6853385,1,1
+"836","Unsane",6832037,0,1
+"792","The Wild Life",6785712,0,1
+"556","Rock Dog",6735271,0,1
+"570","Searching",6574943,0,0
+"777","The Space Between Us",6511522,0,1
+"455","Mr. Holmes",6456762,0,0
+"559","Roman J. Israel, Esq.",6201114,0,0
+"266","Gold",6146705,0,1
+"321","Isle of Dogs",6057822,1,0
+"581","Shut In",6042293,0,1
+"705","The Green Inferno",5956222,0,1
+"663","The Brothers Grimsby",5932951,0,1
+"492","Our Brand is Crisis",5924665,0,1
+"297","Hotel Artemis",5821628,0,1
+"776","The Snowman",5799535,0,1
+"345","Just Getting Started",5493590,0,1
+"410","Marshall",5434374,0,1
+"797","The Young Messiah",5401589,0,1
+"101","Birth of the Dragon",5396465,0,1
+"368","La La Land",5342257,1,0
+"357","Kin",5318012,0,1
+"192","Dog Days",5298331,0,1
+"598","Sorry to Bother You",5273833,1,0
+"863","Woman in Gold",5265089,0,0
+"211","Every Day",5253998,0,1
+"216","Fahrenheit 11/9",5180428,1,1
+"619","Suburbicon",5081606,0,1
+"600","Southside with You",4981396,0,1
+"395","Love & Mercy",4680936,1,0
+"842","Victor Frankenstein",4589980,0,1
+"273","Gringo",4522102,0,1
+"32","Action Point",4520031,0,0
+"258","Gifted",4460655,0,0
+"386","Little Boy",4248030,0,0
+"112","Bleed for This",4224263,1,0
+"400","Lowriders",4211985,0,0
+"81","Battle of the Sexes",4085327,0,0
+"786","The Walk",3875299,1,0
+"819","True Story",3807508,0,0
+"535","Prem Ratan Dhan Payo",3759582,0,0
+"9","90 Minutes in Heaven",3748011,0,0
+"278","Hands of Stone",3680867,0,0
+"381","Life Itself",3641320,0,0
+"449","Morgan",3598379,0,0
+"285","Hell or High Water",3570498,1,0
+"649","The Beguiled",3482920,0,0
+"30","Absolutely Fabulous: The Movie",3396822,0,0
+"271","Gotti",3245759,0,0
+"618","Stronger",3165489,0,0
+"849","We Are Your Friends",3152112,0,0
+"92","Beirut",3133712,0,0
+"656","The Book of Henry",3105724,0,0
+"73","Bad Samaritan",3088522,0,0
+"630","Table 19",2978103,0,0
+"561","Rules Don’t Apply",2938437,1,0
+"8","7 Days in Entebbe",2900330,0,0
+"288","Hidden Figures",2770464,0,0
+"601","Spare Parts",2615073,0,0
+"16","A Hologram for the King",2565189,1,0
+"737","The Man Who Invented Christmas",2555236,0,0
+"557","Rock the Kasbah",2430726,0,0
+"155","Compadres",2393033,0,0
+"857","Whitney",2369573,0,0
+"61","Anthropoid",2345025,1,0
+"788","The Water Diviner",2337257,0,0
+"582","Sicario",2297895,0,0
+"802","Thoroughbreds",2294050,0,0
+"134","Captive",2288046,0,0
+"732","The Lost City of Z",2270953,1,0
+"575","Sgt. Stubby: An American Hero",2258152,0,0
+"493","Our Kind of Traitor",2225293,0,0
+"613","Steve Jobs",2223174,1,0
+"653","The Big Sick",2208448,1,0
+"142","Chi-raq",2110079,1,0
+"290","Hillsong: Let Hope Rise",2097944,0,0
+"374","LBJ",2062231,0,0
+"741","The Mermaid",2048863,1,0
+"330","Jem and the Holograms",2028755,0,0
+"459","My Cousin Rachel",1975140,0,0
+"506","Papillon",1957611,0,0
+"822","Tulip Fever",1937937,0,0
+"176","Demolition",1822315,0,0
+"607","Spotlight",1800400,1,0
+"759","The Post",1760121,1,0
+"579","Shin Godzilla",1756305,0,0
+"113","Blindspotting",1750532,1,0
+"633","Tamasha",1737471,0,0
+"65","Assassination Nation",1732024,0,0
+"370","Lady Bird",1731828,1,0
+"474","Nocturnal Animals",1689808,0,0
+"241","Free Fire",1662023,1,0
+"212","Everybody Loves Somebody",1634969,0,0
+"130","Cake",1620918,0,0
+"402","M.S. Dhoni: The Untold Story",1617351,0,0
+"75","Badrinath Ki Dulhania",1584711,0,0
+"787","The Wall",1582798,0,0
+"628","Swiss Army Man",1569039,1,0
+"784","The Vatican Tapes",1527837,0,0
+"448","Moonlight",1420907,1,0
+"328","Jane Got a Gun",1397284,0,0
+"727","The Letters",1389764,0,0
+"774","The Shape of Water",1372554,1,0
+"128","Café Society",1352316,0,0
+"766","The Revenant",1320348,0,0
+"652","The Big Short",1319689,1,0
+"843","Victoria and Abdul",1312549,0,0
+"205","Eighth Grade",1226974,1,0
+"442","Mohenjo Daro",1164785,0,0
+"537","Priceless",1158392,0,0
+"181","Desierto",1145083,0,0
+"681","The Dinner",1141007,0,0
+"286","Hello, My Name is Doris",1115909,0,0
+"747","The Neon Demon",1098797,0,0
+"143","Child 44",1086376,0,0
+"437","Miss You Already",1053040,0,0
+"220","Far from the Madding Crowd",1016528,0,0
+"805","Three Identical Strangers",1009720,1,0
+"85","Beatriz at Dinner",906100,0,0
+"207","Elvis & Nixon",898695,0,0
+"504","Papa: Hemingway in Cuba",858155,0,0
+"326","Jackie",857080,1,0
+"862","Wind River",850785,1,0
+"678","The Death of Stalin",801066,1,0
+"282","He Named Me Malala",797689,0,0
+"377","Leave No Trace",781675,1,0
+"394","Love & Friendship",758157,1,0
+"399","Loving",721033,1,0
+"521","Phantom Thread",681415,1,0
+"729","The Little Stranger",675393,0,0
+"420","Me and Earl and the Dying Girl",657451,0,0
+"189","Disobedience",634364,0,0
+"515","Pawn Sacrifice",622268,1,0
+"154","Colossal",607733,0,0
+"151","Colette",606970,1,0
+"694","The Florida Project",590957,1,0
+"860","Wilson",585059,0,0
+"135","Carol",583021,1,0
+"215","Eye in the Sky",574728,1,0
+"324","It Follows",565537,1,0
+"314","Indignation",560488,1,0
+"306","I, Tonya",548644,0,0
+"332","Jeremy",548603,0,0
+"771","The Sense of an Ending",533003,0,0
+"511","Patriots Day",529831,0,0
+"378","Legend",525735,0,0
+"232","Fireworks",519582,0,0
+"874","You Were Never Really Here",512782,0,0
+"106","Black Sea",508797,0,0
+"235","Fitoor",506806,0,0
+"7","5 Flights Up",503619,0,0
+"123","Brooklyn",482175,1,0
+"612","Step",466734,0,0
+"799","Their Finest",460569,0,0
+"519","Phantom",443692,0,0
+"317","Ingrid Goes West",440503,0,0
+"249","Genius",434830,0,0
+"233","First Reformed",434822,1,0
+"132","Captain Fantastic",417708,1,0
+"49","American Animals",417311,0,0
+"522","Phillauri",417308,0,0
+"102","Bitter Harvest",402216,0,0
+"720","The Killing of a Sacred Deer",396092,0,0
+"775","The Sisters Brothers",394081,1,0
+"19","A Little Chaos",386406,1,0
+"124","Brotherly Love",379185,0,0
+"68","Baaghi",376982,0,0
+"440","Mistress America",375323,1,0
+"303","I'll See You in My Dreams",365252,0,0
+"428","Midnight Special",361197,0,0
+"26","A United Kingdom",357321,1,0
+"403","Macbeth",354973,0,0
+"673","The Danish Girl",350086,0,0
+"179","Denial",347148,0,0
+"267","Good Time",341404,0,0
+"58","Anomalisa",336749,1,0
+"339","Juliet, Naked",334979,0,0
+"388","Lizzie",327872,1,0
+"168","Darkest Hour",327817,0,0
+"127","By the Sea",320627,0,0
+"866","Wonder Wheel",316323,0,0
+"167","Danny Collins",316206,0,0
+"584","Silence",310680,0,0
+"53","American Pastoral",296630,0,0
+"666","The Catcher Was A Spy",296044,0,0
+"15","A Ghost Story",277737,1,0
+"385","Lion",275702,0,0
+"620","Suffragette",274590,0,0
+"409","Maps to the Stars",264607,0,0
+"820","Trumbo",262594,0,0
+"359","Kings",258363,0,0
+"302","Hunt for the Wilderpeople",255687,1,0
+"419","McQueen",246783,1,0
+"424","Meet the Patels",246685,0,0
+"260","Gleason",246601,1,0
+"372","Last Flag Flying",243337,0,0
+"478","Oasis: Supersonic",236582,1,0
+"12","A Bigger Splash",234311,1,0
+"268","Goodbye Christopher Robin",232877,0,0
+"231","Finding Your Feet",228575,0,0
+"371","Lady Macbeth",221646,0,0
+"868","Wonderstruck",219055,1,0
+"875","Youth",217983,0,0
+"39","All I See is You",214210,0,0
+"733","The Lovers",214078,0,0
+"586","Sing Street",209399,0,0
+"790","The Wedding Plan",207075,1,0
+"23","A Royal Night Out",197973,0,0
+"709","The Hero",196477,1,0
+"512","Patti Cake$",194652,0,0
+"120","Breathe",190717,0,0
+"238","Flower",183430,1,0
+"84","Beast",181101,1,0
+"209","Escobar: Paradise Lost",177097,0,0
+"426","Menashe",175779,1,0
+"51","American Honey",174500,1,0
+"614","Stonewall",174289,0,0
+"510","Paterson",172093,1,0
+"25","A Tale of Love and Darkness",166265,0,0
+"755","The Party",151976,0,0
+"484","On Chesil Beach",149489,1,0
+"555","Risk",145122,0,0
+"243","Freeheld",144419,0,0
+"648","The Bad Batch",144418,0,0
+"269","Goodnight Mommy",141444,1,0
+"375","Lean on Pete",139567,1,0
+"851","We The Animals",134516,1,0
+"387","Live by Night",130001,0,0
+"436","Miss Sloane",123889,0,0
+"248","Gemini",123537,0,0
+"171","Dean",122849,0,0
+"83","Beach Rats",112740,1,0
+"355","Kicks",105459,1,0
+"434","Miss Hokusai",103128,1,0
+"111","Blaze",100768,1,0
+"876","Z for Zachariah",100101,1,0
+"401","Lu Over The Wall",96863,0,0
+"811","Touched With Fire",95232,1,0
+"158","Cop Car",86165,0,0
+"180","Desert Dancer",86153,0,0
+"294","Hostiles",85745,0,0
+"852","When Marnie Was There",84542,0,0
+"547","Raw",83630,1,0
+"461","My Life as a Zucchini",83062,0,0
+"467","Neruda",79243,0,0
+"668","The Children Act",79082,0,0
+"34","Adult Beginners",73949,0,0
+"20","A Monster Calls",72618,0,0
+"524","Pick of the Litter",71972,0,0
+"347","Kahlil Gibran's The Prophet",71311,0,0
+"634","Tea with the Dames",65583,1,0
+"841","Victor",63943,0,0
+"490","Other People",62630,0,0
+"203","Eating Animals",61534,0,0
+"796","The Young Karl Marx",56679,1,0
+"662","The Breadwinner",54429,1,0
+"393","Louder Than Bombs",54402,0,0
+"146","Christine",53834,0,0
+"383","Life, Animated",52690,0,0
+"149","Clown",51809,0,0
+"309","In a Valley of Violence",50381,0,0
+"494","Outside In",44811,1,0
+"576","Shanghai",44689,0,0
+"690","The Exception",43648,0,0
+"221","Far From the Tree",39817,0,0
+"392","Lost River",37477,1,0
+"177","Demon",37108,1,0
+"476","Nostalgia",36442,0,0
+"412","Mary Shelley",35708,0,0
+"450","Morris from America",35488,1,0
+"90","Before We Go",33562,0,0
+"488","Only Yesterday",32879,0,0
+"283","Heaven Knows What",31458,1,0
+"625","Super Dark Times",29759,0,0
+"870","Woodshock",29268,0,0
+"472","No Greater Love",29057,0,0
+"91","Before We Vanish",26699,0,0
+"800","Thelma",24729,0,0
+"96","Big Sonia",24695,0,0
+"117","BPM (Beats per Minute)",23357,1,0
+"503","Panic",21042,0,0
+"721","The Last Dalai Lama?",20618,0,0
+"485","On the Beach at Night Alone",19540,0,0
+"667","The Challenger",19003,0,0
+"136","Carrie Pilby",18743,0,0
+"187","Dina",18730,0,0
+"364","Ktown Cowboys",18400,0,0
+"17","A Kid Like Jake",17725,0,0
+"545","Rat Film",17613,1,0
+"195","Donald Cried",16000,1,0
+"660","The Boy and the World",15991,1,0
+"479","Ocean Waves",15823,1,0
+"161","Crime + Punishment",14574,1,0
+"680","The Devil and Father Amorth",13117,0,0
+"877","Zombeavers",12721,0,0
+"743","The Monster",12133,0,0
+"854","When You Read This Letter",12109,0,0
+"42","All These Sleepless Nights",11153,0,0
+"679","The Departure",9950,0,0
+"341","Junction 48",9083,1,0
+"520","Phantom Boy",8907,0,0
+"45","Almost Holy",6957,0,0
+"818","Trophy",6739,1,0
+"199","Duck Butter",6293,0,0
+"700","The Girl Without Hands",6183,1,0
