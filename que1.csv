@@ -1,729 +1,729 @@
-X,movie,total_gross,Critic_Pick,BoxOffice_Hit,Review_url
-327,Black Panther,403613257,1,1,http://www.nytimes.com/2018/02/06/movies/black-panther-review-movie.html
-2242,The Avengers,373071647,0,1,http://www.nytimes.com/2012/05/04/movies/robert-downey-jr-in-the-avengers-directed-by-joss-whedon.html
-1899,Rogue One: A Star Wars Story,286033442,0,1,http://www.nytimes.com/2016/12/13/movies/star-wars-rogue-one-review.html
-1145,Iron Man 3,284946699,0,1,http://www.nytimes.com/2013/05/03/movies/iron-man-3-with-robert-downey-jr.html
-1225,Jurassic World: Fallen Kingdom,265699530,0,1,http://www.nytimes.com/2018/06/20/movies/jurassic-world-fallen-kingdom-review-chris-pratt.html
-848,Furious 7,251516400,0,1,http://www.nytimes.com/2015/04/03/movies/review-in-furious-7-a-franchise-continues-to-roar.html
-570,Deadpool,236865054,0,1,http://www.nytimes.com/2016/02/12/movies/deadpool-movie-review-ryan-reynolds.html
-2759,The Twilight Saga: New Moon,230947696,0,1,http://www.nytimes.com/2009/11/20/movies/20twilightnewmoon.html
-2845,Toy Story 3,226889351,1,1,http://www.nytimes.com/2010/06/18/movies/18toy.html
-2154,Suicide Squad,222640741,0,1,http://www.nytimes.com/2016/08/05/movies/suicide-squad-review-dc-comics.html
-1149,It,218813729,0,1,http://www.nytimes.com/2017/09/06/movies/it-review-stephen-king.html
-223,Avatar,212711184,1,1,http://www.nytimes.com/2009/12/18/movies/18avatar.html
-1144,Iron Man 2,211200876,0,1,http://www.nytimes.com/2010/05/07/movies/07iron.html
-128,Alice in Wonderland,209339432,0,1,http://www.nytimes.com/2010/03/05/movies/05alice.html
-3047,Wonder Woman,206343175,1,1,http://www.nytimes.com/2017/05/31/movies/wonder-woman-review-gal-gadot.html
-2855,Transformers,186981682,0,1,http://www.nytimes.com/2007/07/02/movies/02tran.html
-2441,The Hangover Part II,177870031,0,1,http://www.nytimes.com/2011/05/26/movies/the-hangover-part-ii-3-men-and-a-monkey-baby.html
-935,Guardians of the Galaxy,176515761,0,1,http://www.nytimes.com/2014/08/01/movies/chris-pratt-stars-in-guardians-of-the-galaxy.html
-3063,X-Men: The Last Stand,175348409,0,1,http://www.nytimes.com/2006/05/26/movies/26xmen.html
-2628,The Passion of the Christ,1.74E+08,0,1,http://www.nytimes.com/movie/review?res=9A07EFD6143CF936A15751C0A9629C8B63
-1233,Justice League,171903874,0,1,http://www.nytimes.com/2017/11/15/movies/justice-league-review-wonder-woman-batman-dc-comics.html
-2044,Skyfall,149776859,1,1,http://www.nytimes.com/2012/11/08/movies/skyfall-with-daniel-craig-as-james-bond.html
-2066,Solo: A Star Wars Story,148989574,0,1,http://www.nytimes.com/2018/05/15/movies/solo-a-star-wars-story-review.html
-1114,Inception,142883424,0,1,http://www.nytimes.com/2010/07/16/movies/16inception.html
-950,Hancock,142391181,0,1,http://www.nytimes.com/2008/07/02/movies/02hanc.html
-761,Fast Five,139779285,0,1,http://www.nytimes.com/2011/04/29/movies/fast-five-with-vin-diesel-review.html
-1917,Rush Hour 2,133525381,0,1,http://www.nytimes.com/movie/review?res=9A01E0D9143CF930A3575BC0A9679C8B63
-192,Ant-Man and the Wasp,133083084,0,1,http://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html
-3053,World War Z,123696919,0,1,http://www.nytimes.com/2013/06/21/movies/world-war-z-stars-brad-pitt-battling-zombies.html
-472,Cinderella,122516793,0,1,http://www.nytimes.com/2015/03/13/movies/review-in-cinderella-disney-polishes-its-glass-slippers.html
-924,Gravity,122323175,0,1,http://www.nytimes.com/2015/05/22/movies/review-sunshine-superman-about-the-high-flying-daredevil-carl-boenish.html
-1733,Pearl Harbor,118853000,0,1,http://www.nytimes.com/movie/review?res=9A00E6D7113DF936A15756C0A9679C8B63
-2591,The Mummy Returns,118035540,0,1,http://www.nytimes.com/movie/review?res=9F03E2D71238F937A35756C0A9679C8B63
-2026,Signs,117717838,0,1,http://www.nytimes.com/movie/review?res=9D05E4DA113BF931A3575BC0A9649C8B63
-1401,Madagascar: Escape 2 Africa,116905195,0,1,http://www.nytimes.com/2008/11/07/movies/07mada.html
-759,Fast & Furious,116497095,0,1,http://www.nytimes.com/2009/04/03/movies/03fast.html
-1504,Mission: Impossible 2,111140363,0,1,http://www.nytimes.com/movie/review?res=9C04E2DE163DF937A15756C0A9669C8B63
-1280,Kong: Skull Island,109107436,0,1,http://www.nytimes.com/2017/03/09/movies/kong-skull-island-review-brie-larson.html
-191,Ant-Man,106219861,0,1,http://www.nytimes.com/2015/07/17/movies/review-ant-man-with-paul-rudd-adds-to-a-superhero-infestation.html
-1885,Rise of the Planet of the Apes,105208226,0,1,http://www.nytimes.com/2011/08/05/movies/rise-of-the-planet-of-the-apes-stars-james-franco-review.html
-1172,Jason Bourne,103111145,0,1,http://www.nytimes.com/2016/07/29/movies/jason-bourne-matt-damon-review.html
-680,Dunkirk,101317350,1,1,http://www.nytimes.com/2017/07/20/movies/dunkirk-review-christopher-nolan.html
-429,Cast Away,100628594,1,1,http://www.nytimes.com/movie/review?res=9C0CE4D81F39F931A15751C1A9669C8B63
-2267,The Blind Side,100238841,0,1,http://www.nytimes.com/2009/11/20/movies/20blindside.html
-1088,"I, Robot",95123749,0,1,http://www.nytimes.com/movie/review?res=9A06E6DC143AF935A25754C0A9629C8B63
-428,Casino Royale,94053658,0,1,http://www.nytimes.com/2006/11/17/movies/17roya.html
-1058,How to Train Your Dragon,92135916,0,1,http://www.nytimes.com/2010/03/26/movies/26howto.html
-2859,Transformers: The Last Knight,89978528,0,1,http://www.nytimes.com/2017/06/20/movies/transformers-the-last-knight-review.html
-1843,Ready Player One,89702828,0,1,http://www.nytimes.com/2018/03/28/movies/ready-player-one-review-steven-spielberg.html
-1804,Prometheus,89370301,0,1,http://www.nytimes.com/2012/06/08/movies/prometheus-by-ridley-scott-with-noomi-rapace.html
-1950,Scary Movie,89096449,0,1,http://www.nytimes.com/movie/review?res=9C02EFDB1F39F934A35754C0A9669C8B63
-771,Fifty Shades Darker,88972715,0,1,http://www.nytimes.com/2017/02/09/movies/review-fifty-shades-darker-dakota-johnson.html
-2935,Valentine's Day,86927385,0,1,http://www.nytimes.com/2010/02/12/movies/12valentine.html
-1163,Jackass 3D,86861041,0,1,http://www.nytimes.com/2010/10/15/movies/15jackass.html
-1139,Into the Woods,86557147,1,1,http://www.nytimes.com/2014/12/25/movies/into-the-woods-disneys-take-on-the-sondheim-lapine-classic.html
-628,Django Unchained,86269377,1,1,http://www.nytimes.com/2012/12/25/movies/quentin-tarantinos-django-unchained-stars-jamie-foxx.html
-2187,Taken 2,86131979,0,1,http://www.nytimes.com/2012/10/05/movies/taken-2-directed-by-olivier-megaton.html
-2765,The Village,85612284,0,1,http://www.nytimes.com/movie/review?res=9D0DE1D7103DF933A05754C0A9629C8B63
-2611,The Nun,85114588,0,1,http://www.nytimes.com/2018/09/05/movies/the-nun-review.html
-2769,The Vow,84991914,0,1,http://www.nytimes.com/2012/02/10/movies/the-vow-with-rachel-mcadams-and-channing-tatum.html
-430,Catch Me if You Can,82891511,1,1,http://www.nytimes.com/movie/review?res=9C00E1D7123CF936A15751C1A9649C8B63
-179,Angels & Demons,81832529,0,1,http://www.nytimes.com/2009/05/15/movies/15ange.html
-2196,Tangled,80108319,1,1,http://www.nytimes.com/2010/11/24/movies/24tangled.html
-482,Click,78436992,0,1,http://www.nytimes.com/2006/06/23/movies/23clic.html
-1924,Safe House,77911190,0,1,http://www.nytimes.com/2012/02/10/movies/safe-house-with-denzel-washington-and-ryan-reynolds.html
-2384,The Fast and the Furious,77869960,0,1,http://www.nytimes.com/movie/review?res=9401E2D61630F931A15755C0A9679C8B63
-772,Fifty Shades Freed,76499000,0,1,http://www.nytimes.com/2018/02/08/movies/fifty-shades-freed-review-jamie-dornan-dakota-johnson.html
-1685,Over the Hedge,76119386,0,1,http://www.nytimes.com/2006/05/19/movies/19hedg.html
-2298,The Cat in the Hat,75830805,0,1,http://www.nytimes.com/movie/review?res=9F02E7DB143BF932A15752C1A9659C8B63
-1813,Puss in Boots,75527682,0,1,http://www.nytimes.com/2011/10/28/movies/puss-in-boots-with-antonio-banderas-review.html
-1538,Mr. Deeds,73613421,0,1,http://www.nytimes.com/movie/review?res=9C0DE3D7123EF93BA15755C0A9649C8B63
-1407,Magic Mike,72829107,1,1,http://www.nytimes.com/2012/06/29/movies/magic-mike-by-steven-soderbergh-with-channing-tatum.html
-625,District 9,72804317,1,1,http://www.nytimes.com/2009/08/14/movies/14district.html
-1617,Noah,72386905,0,1,http://www.nytimes.com/2014/03/28/movies/russell-crowe-confronts-lifes-nasty-weather-in-noah.html
-1641,Ocean's Eleven,72310000,1,1,http://www.nytimes.com/movie/review?res=9F03E5D8123CF934A35751C1A9679C8B63
-287,Bee Movie,71779597,0,1,http://www.nytimes.com/2007/11/02/movies/02bee.html
-2155,Sully,70194368,1,1,http://www.nytimes.com/2016/09/09/movies/sully-review.html
-3045,Wonder,69807297,1,1,http://www.nytimes.com/2017/11/16/movies/wonder-review-jacob-tremblay-julia-roberts-owen-wilson.html
-1286,Kung Fu Panda 3,69293138,0,1,http://www.nytimes.com/2016/01/29/movies/bryan-cranston-jack-black-kung-fu-panda-3-review.html
-2104,Spy Kids 3-D: Game Over,68505515,0,1,http://www.nytimes.com/movie/review?res=9F02E1DD123FF936A15754C0A9659C8B63
-2236,The Angry Birds Movie,66422800,0,1,http://www.nytimes.com/2016/05/20/movies/-the-angry-birds-movie-review.html
-1832,Rampage,65694360,0,1,http://www.nytimes.com/2018/04/11/movies/rampage-review-dwayne-johnson.html
-1709,Paranormal Activity 2,65665972,0,1,http://www.nytimes.com/2010/10/23/movies/23para.html
-716,Epic,65377491,0,1,http://www.nytimes.com/2013/05/24/movies/epic-directed-by-chris-wedge.html
-2375,The Expendables,65357117,0,1,http://www.nytimes.com/2010/08/13/movies/13expendables.html
-2174,Sweet Home Alabama,65334029,0,1,http://www.nytimes.com/movie/review?res=9E0DE6D71139F934A1575AC0A9649C8B63
-888,Girls Trip,65085525,0,1,http://www.nytimes.com/2017/07/19/movies/girls-trip-review-dargis-queen-latifah-regina-hall-tiffany-haddish-jada-pinkett-smith.html
-1406,Madea Goes To Jail,64525548,0,1,http://www.nytimes.com/2009/02/21/movies/21made.html
-2419,The Good Dinosaur,63826024,1,1,http://www.nytimes.com/2015/11/25/movies/review-the-good-dinosaur-pixar-human-and-apatosaurus.html
-2351,The Devil Wears Prada,63110544,0,1,http://www.nytimes.com/2006/06/30/movies/30devi.html
-2431,The Green Hornet,63018808,0,1,http://www.nytimes.com/2011/01/14/movies/14green.html
-522,Couples Retreat,62617735,0,1,http://www.nytimes.com/2009/10/09/movies/09couples.html
-2731,The Sum of All Fears,62314003,0,1,http://www.nytimes.com/movie/review?res=9D05E6DF163AF932A05756C0A9649C8B63
-1164,Jackass Presents: Bad Grandpa,61568639,0,1,http://www.nytimes.com/2013/10/25/movies/jackass-presents-bad-grandpa-with-more-pranks.html
-2559,The Magnificent Seven,61532784,0,1,http://www.nytimes.com/2016/09/23/movies/magnificent-seven-review-denzel-washington.html
-2687,The Scorpion King,61313785,0,1,http://www.nytimes.com/movie/review?res=9C05E5DE143FF93AA25757C0A9649C8B63
-380,Bringing Down the House,61287160,0,1,http://www.nytimes.com/movie/review?res=9E0CE0DD133FF934A35750C0A9659C8B63
-334,Blade Runner 2049,60970631,0,1,http://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html
-2269,The Book of Eli,60735686,0,1,http://www.nytimes.com/2010/01/15/movies/15eli.html
-1033,Horrible Bosses,60149603,0,1,http://www.nytimes.com/2011/07/08/movies/horrible-bosses-with-jason-bateman-review.html
-242,Bad Teacher,59952563,0,1,http://www.nytimes.com/2011/06/24/movies/cameron-diaz-in-bad-teacher-review.html
-373,Bridesmaids,59341310,1,1,http://www.nytimes.com/2011/05/13/movies/bridesmaids-with-kristen-wiig-maya-rudolph-review.html
-2211,Terminator: Genisys,59024288,0,1,http://www.nytimes.com/2015/07/01/movies/review-terminator-genisys-shows-that-arnold-schwarzenegger-is-most-assuredly-back.html
-675,Due Date,58897308,0,1,http://www.nytimes.com/2010/11/05/movies/05due.html
-1621,Norbit,58858009,0,1,http://www.nytimes.com/2007/02/09/movies/09norb.html
-531,Crazy Rich Asians,58829051,0,1,http://www.nytimes.com/2018/08/14/movies/crazy-rich-asians-review.html
-3054,Wrath of the Titans,58614212,0,1,http://www.nytimes.com/2012/03/30/movies/wrath-of-the-titans-starring-sam-worthington.html
-1878,Ride Along 2,58606090,0,1,http://www.nytimes.com/2016/01/15/movies/review-ride-along-2-reloads-twin-barrels-of-ice-cube-and-kevin-hart.html
-2203,Ted 2,58500630,0,1,http://www.nytimes.com/2015/06/26/movies/review-in-ted-2-the-foulmouthed-bear-tries-to-prove-hes-human.html
-2451,The Help,57160712,0,1,http://www.nytimes.com/2011/08/10/movies/the-help-spans-two-worlds-white-and-black-review.html
-693,Edge of Tomorrow,57001698,0,1,http://www.nytimes.com/2014/06/06/movies/tom-cruise-battles-invaders-in-edge-of-tomorrow.html
-2344,The Departed,56985185,1,1,http://www.nytimes.com/2006/10/06/movies/06depa.html
-300,Beowulf,56633821,0,1,http://www.nytimes.com/2007/11/16/movies/16beow.html
-719,Erin Brockovich,55854440,0,1,http://www.nytimes.com/movie/review?res=9805EED8163AF934A25750C0A9669C8B63
-979,He's Just Not That Into You,54986933,0,1,http://www.nytimes.com/2009/02/06/movies/06into.html
-2653,The Pursuit of Happyness,53300000,0,1,http://www.nytimes.com/2006/12/15/movies/15happ.html
-1193,John Carter,53227248,0,1,http://www.nytimes.com/2012/03/09/movies/john-carter-with-taylor-kitsch-and-lynn-collins.html
-1620,Non-Stop,52568530,0,1,http://www.nytimes.com/2014/02/28/movies/non-stop-with-liam-neeson-lives-up-to-its-title.html
-495,Collateral,52560520,1,1,http://www.nytimes.com/movie/review?res=9800E4DE123CF935A3575BC0A9629C8B63
-301,Beverly Hills Chihuahua,52532310,0,1,http://www.nytimes.com/2008/10/03/movies/03chih.html
-2645,The Princess Diaries,52092481,0,1,http://www.nytimes.com/movie/review?res=9E04E4D9143CF930A3575BC0A9679C8B63
-2651,The Purge: Anarchy,51858905,0,1,http://www.nytimes.com/2014/07/18/movies/the-purge-anarchy-with-zach-gilford.html
-1553,Murder on the Orient Express,51735924,0,1,http://www.nytimes.com/2017/11/08/movies/murder-on-the-orient-express-review-kenneth-branagh.html
-2296,The Campaign,51435826,0,1,http://www.nytimes.com/2012/08/10/movies/the-campaign-starring-will-ferrell-and-zach-galifianakis.html
-432,Cats & Dogs,50701500,0,1,http://www.nytimes.com/movie/review?res=9803E4DC1E39F937A35754C0A9679C8B63
-470,Christopher Robin,50549374,0,1,http://www.nytimes.com/2018/08/02/movies/christopher-robin-review-ewan-mcgregor.html
-2225,The A-Team,50427588,0,1,http://www.nytimes.com/2010/06/11/movies/11ateam.html
-1947,Saw IV,50398835,0,1,http://www.nytimes.com/2007/10/27/movies/27saw.html
-2257,The Best Man Holiday,50360510,0,1,http://www.nytimes.com/2013/11/15/movies/the-best-man-holiday-a-sequel-about-former-college-friends.html
-390,Brüno,49533475,0,1,http://www.nytimes.com/2009/07/10/movies/10bruno.html
-62,A Good Day to Die Hard,49354464,0,1,http://www.nytimes.com/2013/02/14/movies/a-good-day-to-die-hard-with-bruce-willis.html
-1451,"Me, Myself & Irene",49190000,0,1,http://www.nytimes.com/movie/review?res=9406E6DF1F31F930A15755C0A9669C8B63
-2368,The Emoji Movie,49107113,0,1,http://www.nytimes.com/2017/07/27/movies/the-emoji-movie-review.html
-563,Date Night,48666799,0,1,http://www.nytimes.com/2010/04/09/movies/09date.html
-2195,Tammy,48512069,0,1,http://www.nytimes.com/2014/07/02/movies/in-tammy-melissa-mccarthy-hits-the-road.html
-77,A Nightmare on Elm Street,48479560,0,1,http://www.nytimes.com/2010/04/30/movies/30nightmare.html
-1746,Peter Rabbit,48478749,0,1,http://www.nytimes.com/2018/02/08/movies/peter-rabbit-review.html
-2810,Think Like a Man Too,48084757,0,1,http://www.nytimes.com/2014/06/20/movies/think-like-a-man-too-the-wedding-full-of-partying.html
-1405,Madea's Family Reunion,47748243,0,1,http://www.nytimes.com/2006/02/25/movies/25made.html
-2624,The Other Woman,47552736,0,1,http://www.nytimes.com/2014/04/25/movies/the-other-woman-stars-cameron-diaz-and-leslie-mann.html
-2046,Skyscraper,47149150,0,1,http://www.nytimes.com/2018/07/11/movies/skyscraper-review-dwayne-johnson.html
-1640,Obsessed,46854785,0,1,http://www.nytimes.com/2009/04/25/movies/25obse.html
-375,Bridge to Terabithia,46805679,1,1,http://www.nytimes.com/2007/02/16/movies/16tera.html
-618,Dinner for Schmucks,46620949,0,1,http://www.nytimes.com/2010/07/30/movies/30dinner.html
-1940,Save the Last Dance,46238231,0,1,http://www.nytimes.com/movie/review?res=9901E7DC1F3AF931A25752C0A9679C8B63
-1278,Knowing,46217199,0,1,http://www.nytimes.com/2009/03/20/movies/20know.html
-2714,The Social Network,46021161,1,1,http://www.nytimes.com/2010/09/24/movies/24nyffsocial.html
-1765,Pixels,45714520,0,1,http://www.nytimes.com/2015/07/24/movies/review-in-pixels-attack-of-the-retro-video-games.html
-2973,War Horse,45656074,1,1,http://www.nytimes.com/2011/12/23/movies/war-horse-directed-by-steven-spielberg-review.html
-3,10 Cloverfield Lane,45183178,1,1,http://www.nytimes.com/2016/03/11/movies/10-cloverfield-lane-review.html
-105,Act of Valor,45111924,0,1,http://www.nytimes.com/2012/02/24/movies/act-of-valor-starring-navy-seal-members.html
-564,Dawn of the Dead,44220945,0,1,http://www.nytimes.com/movie/review?res=9A06EED61231F93AA25750C0A9629C8B63
-2586,The Monuments Men,44144157,0,1,http://www.nytimes.com/2014/02/07/movies/clooney-and-company-hunt-for-treasures-in-monuments-men.html
-2839,Total Recall,44101432,0,1,http://www.nytimes.com/2012/08/03/movies/movie-review-total-recall-with-colin-farrell.html
-2734,The Taking of Pelham 123,44067224,1,1,http://www.nytimes.com/2009/06/12/movies/12pelham.html
-1516,Monster House,44035290,1,1,http://www.nytimes.com/2006/07/21/movies/21mons.html
-205,Arrival,43709470,1,1,http://www.nytimes.com/2016/11/11/movies/arrival-review-amy-adams-jeremy-renner.html
-2393,The First Purge,43399745,0,1,http://www.nytimes.com/2018/07/03/movies/the-first-purge-review.html
-1728,Paul Blart: Mall Cop 2,43224910,0,1,http://www.nytimes.com/2015/04/18/movies/review-paul-blart-mall-cop-2-starring-kevin-james-heads-to-las-vegas.html
-2409,The Game Plan,43158823,0,1,http://www.nytimes.com/2007/09/28/movies/28game.html
-2886,Two Weeks Notice,43044430,0,1,http://www.nytimes.com/movie/review?res=9A00E2D6103DF933A15751C1A9649C8B63
-203,Argo,43011964,1,1,http://www.nytimes.com/2012/10/12/movies/argo-directed-by-ben-affleck.html
-984,Heaven is for Real,42167023,0,1,http://www.nytimes.com/2014/04/16/movies/heaven-is-for-real-stars-greg-kinnear.html
-1166,Jackass: The Movie,42121857,0,1,http://www.nytimes.com/movie/review?res=9C0CEFD6113CF935A15753C1A9649C8B63
-2616,The Omen,41547205,0,1,http://www.nytimes.com/2006/06/06/movies/06omen.html
-2643,The Predator,40911581,0,1,http://www.nytimes.com/2018/09/13/movies/the-predator-review.html
-1404,Madea's Big Happy Family,40891043,0,1,http://www.nytimes.com/2011/04/25/movies/madea-big-happy-family-with-tyler-perry-review.html
-2944,Vantage Point,40823745,0,1,http://www.nytimes.com/2008/02/22/movies/22vant.html
-2990,We Were Soldiers,40552286,0,1,http://www.nytimes.com/movie/review?res=9900E6DD1331F932A35750C0A9649C8B63
-2230,The Adventures of Tintin,40444234,0,1,http://www.nytimes.com/2011/12/21/movies/the-adventures-of-tintin-by-steven-spielberg-review.html
-2273,The Boss,40140765,0,1,http://www.nytimes.com/2016/04/08/movies/the-boss-review-melissa-mccarthy.html
-471,Chronicle,39959856,0,1,http://www.nytimes.com/2012/02/03/movies/dane-dehaan-in-chronicle-directed-by-josh-trank.html
-2746,The Time Machine,39936148,0,1,http://www.nytimes.com/movie/review?res=9E07E3D91330F93BA35750C0A9649C8B63
-16,17 Again,39823333,0,1,http://www.nytimes.com/2009/04/17/movies/17seve.html
-1194,John Q,39804238,0,1,http://www.nytimes.com/movie/review?res=9803EED7143FF936A25751C0A9649C8B63
-1160,Jack Reacher: Never Go Back,39769924,0,1,http://www.nytimes.com/2016/10/21/movies/jack-reacher-never-go-back-review-tom-cruise.html
-1801,Project X,39717098,1,1,http://www.nytimes.com/2012/03/02/movies/project-x-from-nima-nourizadeh.html
-1337,Life of Pi,39683510,0,1,http://www.nytimes.com/2012/11/21/movies/life-of-pi-directed-by-ang-lee.html
-1616,No Strings Attached,39502304,0,1,http://www.nytimes.com/2011/01/21/movies/21nostringsattached.html
-269,Baywatch,39496491,0,1,http://www.nytimes.com/2017/05/24/movies/baywatch-review-zac-efron-dwayne-johnson.html
-2381,The Family Man,39170330,0,1,http://www.nytimes.com/movie/review?res=9400E2D71F39F931A15751C1A9669C8B63
-2726,The Stepford Wives,39016446,0,1,http://www.nytimes.com/movie/review?res=9A0DE2DA1430F932A25755C0A9629C8B63
-2259,The BFG,38944146,0,1,http://www.nytimes.com/2016/07/01/movies/the-bfg-review-steven-spielberg-mark-rylance.html
-739,Exodus: Gods and Kings,38942192,0,1,http://www.nytimes.com/2014/12/12/movies/exodus-gods-and-kings-ridley-scotts-biblical-drama.html
-2059,Snow Dogs,38811967,0,1,http://www.nytimes.com/movie/review?res=9400EFDF1E38F93BA25752C0A9649C8B63
-2227,The Adjustment Bureau,38589595,1,1,http://www.nytimes.com/2011/03/04/movies/04adjust.html
-1797,Prisoners,38549194,0,1,http://www.nytimes.com/2013/09/20/movies/prisoners-stars-hugh-jackman-and-jake-gyllenhaal.html
-2275,The Bounty Hunter,38418433,0,1,http://www.nytimes.com/2010/03/19/movies/19bounty.html
-1884,Rise of the Guardians,38418097,0,1,http://www.nytimes.com/2012/11/21/movies/in-rise-of-the-guardians-childhood-naivete-wins.html
-1072,I Can Do Bad All By Myself,37749545,0,1,http://www.nytimes.com/2009/09/12/movies/12tyler.html
-1046,Hotel for Dogs,37455759,0,1,http://www.nytimes.com/2009/01/16/movies/16dogs.html
-342,Blockers,37403980,0,1,http://www.nytimes.com/2018/04/05/movies/blockers-review.html
-2189,Takers,37327557,0,1,http://www.nytimes.com/2010/08/27/movies/27takers.html
-2728,The Strangers,37298770,1,1,http://www.nytimes.com/2008/05/30/movies/30stra.html
-2446,The Haunting in Connecticut,37171280,0,1,http://www.nytimes.com/2009/03/27/movies/27haun.html
-2747,The Time Traveler's Wife,37165676,0,1,http://www.nytimes.com/2009/08/14/movies/14time.html
-1450,Me Before You,36650841,0,1,http://www.nytimes.com/2016/06/03/movies/me-before-you-review.html
-587,Déjà Vu,36505755,0,1,http://www.nytimes.com/2006/11/22/movies/22deja.html
-2977,Warm Bodies,36481172,0,1,http://www.nytimes.com/2013/02/01/movies/warm-bodies-written-and-directed-by-jonathan-levine.html
-2814,This is 40,36431350,0,1,http://www.nytimes.com/2012/12/21/movies/this-is-40-from-judd-apatow-and-starring-paul-rudd.html
-1021,Holes,36378174,1,1,http://www.nytimes.com/movie/review?res=9B0CEFD7163AF93BA25757C0A9659C8B63
-2701,The Shaggy Dog,35635419,0,1,http://www.nytimes.com/movie/review?res=9A05E3DB1038EF3BBC4851DFB5668382649EDE
-814,Forgetting Sarah Marshall,35090955,0,1,http://www.nytimes.com/2008/04/18/movies/18forg.html
-2422,The Good Shepherd,35066495,0,1,http://www.nytimes.com/2006/12/22/movies/22shep.html
-519,Coraline,35019078,1,1,http://www.nytimes.com/2009/02/06/movies/06cora.html
-2148,Stuart Little 2,34724638,1,1,http://www.nytimes.com/movie/review?res=9802EED91039F93AA25754C0A9649C8B63
-1253,Kick-Ass,34708222,0,1,http://www.nytimes.com/2010/04/16/movies/16kick.html
-210,Assassin’s Creed,34151741,0,1,http://www.nytimes.com/2016/12/20/movies/assassins-creed-review-michael-fassbender.html
-148,Along Came a Spider,33901508,0,1,http://www.nytimes.com/movie/review?res=9A0CEFD7143EF935A35757C0A9679C8B63
-1308,Last Vegas,33467006,0,1,http://www.nytimes.com/2013/11/01/movies/last-vegas-stars-de-niro-freeman-douglas-and-kline.html
-1230,Just Married,33428852,0,1,http://www.nytimes.com/movie/review?res=9D05E1D6113EF933A25752C0A9659C8B63
-1741,Percy Jackson: Sea of Monsters,33079089,0,1,http://www.nytimes.com/2013/08/07/movies/percy-jackson-sea-of-monsters-with-logan-lerman.html
-1969,Secret Window,32775496,0,1,http://www.nytimes.com/movie/review?res=9A07E5DB133EF931A25750C0A9629C8B63
-443,Changing Lanes,32761402,0,1,http://www.nytimes.com/movie/review?res=9D02EEDB163CF931A25757C0A9649C8B63
-3069,Year One,32529560,1,1,http://www.nytimes.com/2009/06/19/movies/19year.html
-2981,Water for Elephants,32480214,0,1,http://www.nytimes.com/2011/04/22/movies/reese-witherspoon-in-water-for-elephants-review.html
-2700,The Shack,32226242,0,1,http://www.nytimes.com/2017/03/02/movies/the-shack-review-sam-worthington-octavia-spencer.html
-2625,The Others,32168706,0,1,http://www.nytimes.com/movie/review?res=9C0DE7DF153FF933A2575BC0A9679C8B63
-2281,The Boxtrolls,32093796,0,1,http://www.nytimes.com/2014/09/26/movies/the-boxtrolls-is-an-adaptation-of-here-be-monsters.html
-2617,The One,31910000,0,1,http://www.nytimes.com/2011/10/07/movies/the-one-a-coming-out-film-by-caytha-jentis-review.html
-1630,Notorious,31874538,0,1,http://www.nytimes.com/2009/01/16/movies/16noto.html
-2081,Southpaw,31675168,0,1,http://www.nytimes.com/2015/07/24/movies/review-in-southpaw-jake-gyllenhaal-tries-to-box-his-way-back-from-tragedy.html
-1787,Premonition,31653484,0,1,http://www.nytimes.com/2007/03/16/movies/16prem.html
-1237,K-PAX,31530000,0,1,http://www.nytimes.com/movie/review?res=9E07E2DB1331F935A15753C1A9679C8B63
-877,Ghost in the Shell,31529863,0,1,http://www.nytimes.com/2017/03/30/movies/ghost-in-the-shell-review-scarlett-johansson.html
-1511,Mona Lisa Smile,31226270,0,1,http://www.nytimes.com/movie/review?res=9C0CE0DD173FF93AA25751C1A9659C8B63
-2492,The Internship,31099912,0,1,http://www.nytimes.com/2013/06/07/movies/the-internship-with-vince-vaughn-and-owen-wilson.html
-1338,Life of the Party,30915357,0,1,http://www.nytimes.com/2018/05/10/movies/life-of-the-party-review-melissa-mccarthy.html
-164,American Made,30818675,0,1,http://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html
-812,For Colored Girls,30687468,1,1,http://www.nytimes.com/2010/11/05/movies/05for.html
-1098,Identity,30187230,0,1,http://www.nytimes.com/movie/review?res=9907E5DB163DF936A15757C0A9659C8B63
-2901,Uncle Drew,29930263,0,1,http://www.nytimes.com/2018/06/28/movies/uncle-drew-review-kyrie-irving.html
-1830,Rambo,29918795,0,1,http://www.nytimes.com/2008/01/25/movies/25ramb.html
-855,Gangs of New York,29873147,1,1,http://www.nytimes.com/movie/review?res=9E06E4D8103DF933A15751C1A9649C8B63
-2661,The Recruit,29822115,0,1,http://www.nytimes.com/movie/review?res=9A07E3D71F39F932A05752C0A9659C8B63
-2152,Sucker Punch,29811118,0,1,http://www.nytimes.com/2011/03/25/movies/sucker-punch-from-zack-snyder-review.html
-434,Catwoman,29776003,0,1,http://www.nytimes.com/movie/review?res=9804EEDD1E3AF931A15754C0A9629C8B63
-1075,I Feel Pretty,29620318,0,1,http://www.nytimes.com/2018/04/19/movies/i-feel-pretty-review-amy-schumer.html
-1668,Open Range,29317253,0,1,http://www.nytimes.com/movie/review?res=9F02E1D71630F936A2575BC0A9659C8B63
-1856,Reign of Fire,29246331,0,1,http://www.nytimes.com/movie/review?res=9C06E4D81330F931A25754C0A9649C8B63
-2644,The Prestige,28780742,1,1,http://www.nytimes.com/2006/10/20/movies/20pres.html
-2992,Welcome Home Roscoe Jenkins,28738605,0,1,http://www.nytimes.com/2008/02/08/movies/08rosc.html
-1281,Krampus,28564085,0,1,http://www.nytimes.com/2015/12/04/movies/review-in-krampus-the-holiday-involves-a-demonic-santa.html
-1880,Righteous Kill,28534233,0,1,http://www.nytimes.com/2008/09/12/movies/12righ.html
-2786,The Whole Nine Yards,28444377,0,1,http://www.nytimes.com/movie/review?res=9404EEDC1131F93BA25751C0A9669C8B63
-1894,Rock of Ages,28418621,0,1,http://www.nytimes.com/2012/06/15/movies/review-rock-of-ages-a-musical-starring-tom-cruise.html
-194,Apocalypto,28209532,0,1,http://www.nytimes.com/2006/12/08/movies/08apoc.html
-1488,Miracles from Heaven,27937876,0,1,http://www.nytimes.com/2016/03/16/movies/review-miracles-from-heaven-starring-jennifer-garner-as-the-mother-of-a-sick-child.html
-779,Final Destination 2,27876495,0,1,http://www.nytimes.com/movie/review?res=9903E4D81F39F932A05752C0A9659C8B63
-2251,The Beach,27663000,0,1,http://www.nytimes.com/movie/review?res=9C00EFDE103EF932A25751C0A9669C8B63
-1196,John Wick,27533170,1,1,http://www.nytimes.com/2014/10/24/movies/in-john-wick-keanu-reeves-as-an-avenger.html
-2326,The Crazies,27472164,0,1,http://www.nytimes.com/2010/02/26/movies/26crazies.html
-2735,The Tale of Despereaux,27448085,0,1,http://www.nytimes.com/2008/12/19/movies/19tale.html
-1183,Jersey Boys,27444750,0,1,http://www.nytimes.com/2014/06/20/movies/jersey-boys-eastwoods-take-on-showbiz-myth.html
-1177,Jeepers Creepers II,27282853,0,1,http://www.nytimes.com/movie/review?res=9C07EED81E39F93AA1575BC0A9659C8B63
-1745,Peter Pan: Return to Neverland,27266300,0,1,http://www.nytimes.com/movie/review?res=980DE3D7143FF936A25751C0A9649C8B63
-712,Enough,27148463,0,1,http://www.nytimes.com/movie/review?res=9D00E0DB1F38F937A15756C0A9649C8B63
-1512,Money Monster,27040531,0,1,http://www.nytimes.com/2016/05/13/movies/review-in-money-monster-review-george-clooney-julia-roberts-jodie-foster.html
-2015,Showtime,26803761,0,1,http://www.nytimes.com/movie/review?res=9A05EFD81039F936A25750C0A9649C8B63
-1128,Insidious,26728357,0,0,http://www.nytimes.com/2011/04/01/movies/insidious-directed-by-james-wan-review.html
-1979,Serendipity,26400000,0,1,http://www.nytimes.com/movie/review?res=9903E7DD163CF936A35753C1A9679C8B63
-1598,Next Friday,26202000,0,1,http://www.nytimes.com/movie/review?res=9A0CEFDF163AF931A25752C0A9669C8B63
-160,American Assassin,26185076,0,1,http://www.nytimes.com/2017/09/14/movies/american-assassin-review-michael-keaton.html
-636,Domestic Disturbance,26180000,0,1,http://www.nytimes.com/movie/review?res=9B05E5DD1130F931A35752C1A9679C8B63
-221,Australia,26117522,0,1,http://www.nytimes.com/2008/11/26/movies/26aust.html
-708,End of Watch,25980710,0,1,http://www.nytimes.com/2012/09/21/movies/end-of-watch-with-jake-gyllenhaal-and-michael-pena.html
-346,Blow,25913942,0,1,http://www.nytimes.com/movie/review?res=9D01E1DE153EF935A35757C0A9679C8B63
-2677,The Roommate,25778926,0,1,http://www.nytimes.com/2011/02/04/movies/roundup2.html
-1219,Jumping the Broom,25760004,0,1,http://www.nytimes.com/2011/05/06/movies/jumping-the-broom-with-angela-bassett-review.html
-681,Duplicity,25754865,1,1,http://www.nytimes.com/2009/03/20/movies/20dupl.html
-911,Good Boy!,25713653,0,1,http://www.nytimes.com/movie/review?res=9D01E0DC143FF933A25753C1A9659C8B63
-1297,Lakeview Terrace,25667507,0,1,http://www.nytimes.com/2008/09/19/movies/19terr.html
-2774,The Watch,25541118,0,1,http://www.nytimes.com/2012/07/27/movies/the-watch-with-ben-stiller-and-vince-vaughn.html
-1440,Max,25378166,0,1,http://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html
-2221,The 15:17 to Paris,25333732,0,1,http://www.nytimes.com/2018/02/07/movies/the-1517-to-paris-review-clint-eastwood.html
-376,Bridget Jones's Diary,25316000,1,1,http://www.nytimes.com/movie/review?res=9F04E2DB1531F930A25757C0A9679C8B63
-505,Concussion,25266650,0,1,http://www.nytimes.com/2015/12/25/movies/review-in-concussion-a-doctors-cri-de-coeur-against-footballs-risks.html
-981,Head of State,25160246,0,1,http://www.nytimes.com/movie/review?res=9C0DE5D81E30F93BA15750C0A9659C8B63
-2462,The Holiday,25125052,0,1,http://www.nytimes.com/2006/12/08/movies/08holi.html
-2123,Stealth,24581921,0,1,http://www.nytimes.com/2005/07/29/movies/traveling-to-exotic-places-and-blowing-things-to-bits.html
-2722,The Spy Who Dumped Me,24422997,0,1,http://www.nytimes.com/2018/08/01/movies/the-spy-who-dumped-me-review.html
-2649,The Punisher,24167233,0,1,http://www.nytimes.com/movie/review?res=9E0CE7DD153BF935A25757C0A9629C8B63
-1828,Raising Helen,24064716,0,1,http://www.nytimes.com/movie/review?res=980DE4D6133EF93BA15756C0A9629C8B63
-1914,Runaway Jury,24057433,0,1,http://www.nytimes.com/movie/review?res=9A06E2D6173EF934A25753C1A9659C8B63
-2521,The Last House on the Left,23902420,1,1,http://www.nytimes.com/2009/03/13/movies/13left.html
-581,Death Wish,23856431,0,1,http://www.nytimes.com/2018/03/01/movies/review-death-wish-eli-roth-bruce-willis.html
-1412,Malibu's Most Wanted,23840528,0,1,http://www.nytimes.com/movie/review?res=9A01EFD7163AF93BA25757C0A9659C8B63
-1793,Priest,23833169,0,1,http://www.nytimes.com/2011/05/14/movies/priest-review.html
-1908,Rugrats Go Wild,23800967,0,1,http://www.nytimes.com/movie/review?res=9C06E4D81F39F930A25755C0A9659C8B63
-2470,The Hundred-Foot Journey,23686223,0,1,http://www.nytimes.com/2014/08/08/movies/in-the-hundred-foot-journey-kitchen-wars-break-out.html
-3088,Zodiac,23595973,1,1,http://www.nytimes.com/2007/03/02/movies/02zodi.html
-1589,Nerve,23592198,0,1,http://www.nytimes.com/2016/07/27/movies/nerve-review-emma-roberts.html
-1384,"Love, Simon",23503052,0,1,http://www.nytimes.com/2018/03/15/movies/love-simon-review.html
-450,Charlie St. Cloud,23496620,0,1,http://www.nytimes.com/2010/07/30/movies/30charlie.html
-2513,The Ladykillers,23482792,0,1,http://www.nytimes.com/movie/review?res=9401E2DB1230F935A15750C0A9629C8B63
-2867,Trouble with the Curve,23473347,0,1,http://www.nytimes.com/2012/09/21/movies/trouble-with-the-curve-with-clint-eastwood-and-amy-adams.html
-794,Fist Fight,23446175,0,1,http://www.nytimes.com/2017/02/16/movies/fist-fight-review-ice-cube-charlie-day.html
-332,BlacKkKlansman,23392685,1,1,http://www.nytimes.com/2018/08/09/movies/blackkklansman-review-spike-lee.html
-2231,The Age of Adaline,23377371,0,1,http://www.nytimes.com/2015/04/24/movies/review-the-age-of-adaline-coasts-through-the-decades.html
-953,Hanna,23282858,0,1,http://www.nytimes.com/2011/04/08/movies/hanna-with-eric-bana-and-saoirse-ronan-review.html
-578,Death Race,23154165,1,1,http://www.nytimes.com/2008/08/22/movies/22race.html
-998,Here Comes the Boom,23131529,0,1,http://www.nytimes.com/2012/10/12/movies/kevin-james-in-here-comes-the-boom.html
-1333,License to Wed,23068452,0,1,http://www.nytimes.com/2007/07/03/movies/03wed.html
-901,Gods of Egypt,23046411,0,1,http://www.nytimes.com/2016/02/26/movies/gods-of-egypt-review.html
-2577,The Men Who Stare at Goats,23038050,0,1,http://www.nytimes.com/2009/11/06/movies/06themen.html
-714,Entourage,22927918,0,1,http://www.nytimes.com/2015/06/03/movies/review-entourage-the-screen-is-bigger-but-nothing-is-better.html
-38,40 Days and 40 Nights,22825390,0,1,http://www.nytimes.com/movie/review?res=9504E7DE1331F932A35750C0A9649C8B63
-1530,Mother’s Day,22806766,0,0,http://www.nytimes.com/2016/04/29/movies/mothers-day-review.html
-1954,Scary Movie 5,22798176,0,1,http://www.nytimes.com/2013/04/13/movies/scary-movie-v-starring-ashley-tisdale.html
-551,Dan in Real Life,22695653,0,1,http://www.nytimes.com/2007/10/26/movies/26dan.html
-3005,When the Bough Breaks,22655858,0,1,http://www.nytimes.com/2016/09/10/movies/review-when-the-bough-breaks-blame-a-scary-pregnancy-surrogate.html
-536,Crimson Peak,22557300,0,1,http://www.nytimes.com/2015/10/16/movies/crimson-peak-a-guillermo-del-toro-gothic-romance-in-high-bloody-style.html
-1346,Lincoln,22468242,1,0,http://www.nytimes.com/2012/11/09/movies/lincoln-by-steven-spielberg-stars-daniel-day-lewis.html
-1770,Point Break,22402176,0,1,http://www.nytimes.com/2015/12/26/movies/review-point-break-an-x-games-remake.html
-1334,Life,22296006,0,1,http://www.nytimes.com/2017/03/23/movies/life-review-jake-gyllenhaal-ryan-reynolds.html
-1429,Marmaduke,22285540,0,1,http://www.nytimes.com/2010/06/04/movies/04marmaduke.html
-1051,House at the End of the Street,22193316,0,1,http://www.nytimes.com/2012/09/22/movies/the-house-at-the-end-of-the-street-with-jennifer-lawrence.html
-206,Arthur,22163757,0,1,http://www.nytimes.com/2011/04/08/movies/arthur-with-russell-brand-helen-mirren-review.html
-2724,The Star,22088115,0,1,http://www.nytimes.com/movie/review?res=940DE7DC1F3AE53ABC4151DFB7668388649EDE
-957,Hannibal Rising,22080446,0,1,http://www.nytimes.com/2007/02/09/movies/09hann.html
-1446,"McFarland, USA",22019186,0,1,http://www.nytimes.com/2015/02/20/movies/review-in-mcfarland-usa-kevin-costner-coaches-cross-country-runners.html
-1762,Pitch Perfect,21693038,0,0,http://www.nytimes.com/2012/09/28/movies/pitch-perfect-starring-anna-kendrick.html
-1023,Hollywood Homicide,21562893,0,1,http://www.nytimes.com/movie/review?res=9D04E5D81E39F930A25755C0A9659C8B63
-2379,The Eye,21418982,0,1,http://www.nytimes.com/2008/02/02/movies/02eye.html
-669,Drive,21417373,0,1,http://www.nytimes.com/2011/09/16/movies/drive-with-ryan-gosling-review.html
-982,Heartbreakers,21390000,1,1,http://www.nytimes.com/movie/review?res=980DE5DB173CF930A15750C0A9679C8B63
-2588,The Mothman Prophecies,21221640,0,1,http://www.nytimes.com/movie/review?res=9502E1DC1F3BF936A15752C0A9649C8B63
-2282,The Boy,21185304,0,1,http://www.nytimes.com/2016/01/23/movies/the-boy-review.html
-1647,Oculus,21146271,0,1,http://www.nytimes.com/2014/04/11/movies/in-oculus-from-mike-flanagan-a-mirror-holds-secrets.html
-103,Accepted,20986355,0,1,http://www.nytimes.com/2006/08/18/movies/18acce.html
-1394,Machete,20916709,0,1,http://www.nytimes.com/2010/09/03/movies/03machete.html
-28,3 Days to Kill,20751696,0,1,http://www.nytimes.com/2014/02/21/movies/3-days-to-kill-stars-kevin-costner.html
-3085,Zack and Miri Make a Porno,20686907,0,1,http://www.nytimes.com/2008/10/31/movies/31zack.html
-586,"Definitely, Maybe",20626755,0,1,http://www.nytimes.com/2008/02/14/movies/14maybe.html
-1174,Jay and Silent Bob Strike Back,20625847,0,1,http://www.nytimes.com/movie/review?res=9500E1D71531F937A1575BC0A9679C8B63
-2589,The Mountain Between Us,20603873,0,1,http://www.nytimes.com/2017/10/05/movies/the-mountain-between-us-review-kate-winslet-idris-elba.html
-1055,How to Be a Latin Lover,20548224,0,1,http://www.nytimes.com/2017/04/28/movies/how-to-be-a-latin-lover-review-eugenio-derbez.html
-1482,Million Dollar Arm,20503785,0,1,http://www.nytimes.com/2014/05/16/movies/in-million-dollar-arm-baseball-talent-from-overseas.html
-1665,One Missed Call,20493337,0,1,http://www.nytimes.com/2008/01/05/movies/05miss.html
-364,Breach,20304675,0,1,http://www.nytimes.com/2007/02/16/movies/16brea.html
-1491,Mirrors,20211066,0,1,http://www.nytimes.com/2008/08/16/movies/16mirr.html
-583,Deck the Halls,20147406,0,1,http://www.nytimes.com/2006/11/22/movies/22deck.html
-2390,The Fighting Temptations,20116473,0,1,http://www.nytimes.com/movie/review?res=9403E1DC123AF93AA2575AC0A9659C8B63
-259,Basic,20011679,0,1,http://www.nytimes.com/movie/review?res=9507E7D61E30F93BA15750C0A9659C8B63
-2293,The Bye Bye Man,19990285,0,1,http://www.nytimes.com/2017/01/12/movies/the-bye-bye-man-review.html
-2078,Soul Surfer,19865129,0,1,http://www.nytimes.com/2011/04/08/movies/soul-surfer-is-bethany-hamiltons-shark-tale-review.html
-1029,Honey,19776370,0,1,http://www.nytimes.com/2011/03/25/movies/a-sons-quest-with-nature-as-a-guide.html
-2363,The DUFF,19769077,0,1,http://www.nytimes.com/2015/02/20/movies/in-the-duff-a-wounded-teenage-girl-combats-mockery.html
-2241,The Art of War,19710000,0,1,http://www.nytimes.com/movie/review?res=9B0CE5D71431F936A1575BC0A9669C8B63
-2987,We Own the Night,19704516,0,1,http://www.nytimes.com/2007/10/12/movies/12nigh.html
-1912,Run All Night,19639211,0,1,http://www.nytimes.com/2015/03/13/movies/review-in-run-all-night-liam-neeson-sticks-to-what-works.html
-1664,One for the Money,19624266,0,1,http://www.nytimes.com/2012/01/28/movies/katherine-heigl-in-film-based-on-janet-evanovich-novel.html
-657,Dracula 2000,19593350,0,0,http://www.nytimes.com/movie/review?res=9B05EFD91738F930A15751C1A9669C8B63
-1061,Hugo,19556746,1,1,http://www.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html
-1310,Lawless,19315863,1,1,http://www.nytimes.com/2017/03/16/movies/song-to-song-review-terrence-malick.html
-964,Hardball,19280569,0,0,http://www.nytimes.com/movie/review?res=9402E0D71E38F936A2575AC0A9679C8B63
-1257,Kidnap,19266106,0,1,http://www.nytimes.com/2017/08/03/movies/kidnap-review-halle-berry.html
-552,Dance Flick,19084907,0,1,http://www.nytimes.com/2009/05/22/movies/22flic.html
-1252,Kevin Hart: What Now?,18949900,1,1,http://www.nytimes.com/2016/10/14/movies/kevin-hart-what-now-review.html
-2583,The Missing,18900000,0,1,http://www.nytimes.com/movie/review?res=940DEFDB1F3BF935A15752C1A9659C8B63
-323,Black Knight,18883000,0,1,http://www.nytimes.com/movie/review?res=9B01EEDF1F3BF932A15752C1A9679C8B63
-343,Blood Diamond,18637257,0,0,http://www.nytimes.com/2006/12/08/movies/08diam.html
-1248,Keeping the Faith,18636000,0,0,http://www.nytimes.com/movie/review?res=9C0CE3DE113EF937A25757C0A9669C8B63
-2721,The Spy Next Door,18544639,0,1,http://www.nytimes.com/2010/01/15/movies/15spy.html
-2343,The Debt,18530443,0,0,http://www.nytimes.com/2016/07/08/movies/the-debt-review.html
-2039,Sinister 2,18526943,0,1,http://www.nytimes.com/2015/08/21/movies/review-in-sinister-2-a-murderous-being-returns-for-more-mayhem.html
-2729,The Strangers: Prey at Night,18503141,0,1,http://www.nytimes.com/2018/03/08/movies/strangers-prey-at-night-review.html
-1552,Murder by Numbers,18362833,0,0,http://www.nytimes.com/movie/review?res=9404E5DE143FF93AA25757C0A9649C8B63
-1755,Piranha 3D,18266889,0,1,http://www.nytimes.com/2010/08/23/movies/23piranha.html
-1972,See Spot Run,17979000,0,0,http://www.nytimes.com/movie/review?res=9E01E0DC163BF931A35750C0A9679C8B63
-14,15 Minutes,17898000,0,1,http://www.nytimes.com/movie/review?res=9E05E1D8163AF93AA35750C0A9679C8B63
-830,Frequency,17854723,1,0,http://www.nytimes.com/movie/review?res=940CE6DA1E30F93BA15757C0A9669C8B63
-2775,The Watcher,17376895,0,0,http://www.nytimes.com/movie/review?res=9A03E3D71539F93BA3575AC0A9669C8B63
-2529,The Lazarus Effect,17376740,0,0,http://www.nytimes.com/2015/02/27/movies/review-in-the-lazarus-effect-young-scientists-play-god.html
-775,Fighting,17344805,0,1,http://www.nytimes.com/2009/04/24/movies/24figh.html
-3033,Winchester,17338575,0,0,http://www.nytimes.com/2018/02/02/movies/winchester-review-helen-mirren.html
-178,Angel Eyes,17252509,0,0,http://www.nytimes.com/movie/review?res=9A0CE7DF113AF93BA25756C0A9679C8B63
-2491,The International,17031200,0,0,http://www.nytimes.com/2009/02/13/movies/13inte.html
-2969,War,17023846,0,0,http://www.nytimes.com/2007/08/25/movies/25WAR.html
-2443,The Happytime Murders,16998475,0,0,http://www.nytimes.com/2018/08/22/movies/the-happytime-murders-review-melissa-mccarthy.html
-1577,Nanny McPhee Returns,16991285,0,0,http://www.nytimes.com/2010/08/20/movies/20nanny.html
-275,Beastly,16911633,0,0,http://www.nytimes.com/2011/03/04/movies/04beast.html
-21,21 and Over,16875359,0,0,http://www.nytimes.com/2013/03/02/movies/21-over-directed-by-jon-lucas-and-scott-moore.html
-1807,Proud Mary,16850600,0,1,http://www.nytimes.com/2018/01/12/movies/proud-mary-review-taraji-p-henson.html
-504,Conan the Barbarian,16660669,0,1,http://www.nytimes.com/2011/08/19/movies/conan-the-barbarian-with-jason-momoa-review.html
-3073,You Again,16607633,0,0,http://www.nytimes.com/2010/09/24/movies/24you.html
-2437,The Guilt Trip,16574475,0,0,http://www.nytimes.com/2012/12/19/movies/the-guilt-trip-with-barbra-streisand-and-seth-rogen.html
-983,Hearts in Atlantis,16440000,0,0,http://www.nytimes.com/movie/review?res=9904E6DA1E3AF93BA1575AC0A9679C8B63
-1831,Ramona and Beezus,16375681,0,0,http://www.nytimes.com/2010/07/23/movies/23ramona.html
-147,Aloha,16282116,0,0,http://www.nytimes.com/2015/05/29/movies/review-aloha-a-hangout-movie-with-bradley-cooper-and-emma-stone-in-hawaii.html
-854,Gamer,16261653,0,0,http://www.nytimes.com/2009/09/05/movies/05gamer.html
-523,Courageous,16160032,0,0,http://www.nytimes.com/2011/10/03/movies/courageous-directed-by-alex-kendrick-review.html
-315,Biker Boyz,16017600,0,0,http://www.nytimes.com/movie/review?res=9C05E1D61F39F932A05752C0A9659C8B63
-2325,The Covenant,15791085,0,0,http://www.nytimes.com/2006/09/09/movies/09cove.html
-209,"As Above, So Below",15707170,0,0,http://www.nytimes.com/2014/08/30/movies/as-above-so-below-stars-perdita-weeks.html
-345,Blood Work,15310030,0,0,http://www.nytimes.com/movie/review?res=9904E6DF173AF93AA3575BC0A9649C8B63
-2956,Waist Deep,15300000,0,0,http://www.nytimes.com/2006/06/23/movies/23wais.html
-977,Haywire,15281962,0,0,http://www.nytimes.com/2012/01/20/movies/steven-soderberghs-haywire-with-gina-carano-review.html
-825,Free State of Jones,15206221,1,0,http://www.nytimes.com/2016/06/24/movies/free-state-of-jones-review-matthew-mcconaughey.html
-2365,The Eagle,15152683,0,0,http://www.nytimes.com/2011/02/11/movies/11eagle.html
-195,Apollo 18,14939303,0,0,http://www.nytimes.com/2011/09/03/movies/apollo-18-directed-by-gonzalo-lopez-gallego-review.html
-1366,Looney Tunes: Back in Action,14891610,0,0,http://www.nytimes.com/movie/review?res=9D0DE4D91438F937A25752C1A9659C8B63
-2742,The Three Musketeers,14847237,0,0,http://www.nytimes.com/2011/10/22/movies/the-three-musketeers-with-christoph-waltz-review.html
-1349,Little Black Book,14644825,0,0,http://www.nytimes.com/movie/review?res=9900E6D6153CF935A3575BC0A9629C8B63
-492,Cold Creek Manor,14642749,0,0,http://www.nytimes.com/movie/review?res=9A01EFDC123AF93AA2575AC0A9659C8B63
-1556,My Best Friend's Girl,14611423,0,0,http://www.nytimes.com/2008/09/20/movies/20best.html
-459,Chernobyl Diaries,14498221,0,0,http://www.nytimes.com/2012/05/26/movies/chernobyl-diaries-co-produced-by-oren-peli.html
-664,Dream House,14467490,0,0,http://www.nytimes.com/2011/10/01/movies/dream-house-with-daniel-craig-and-rachel-weisz-in-review.html
-2852,Traitor,14295346,0,0,http://www.nytimes.com/2008/08/27/movies/27trai.html
-2262,The Big Wedding,14216422,0,0,http://www.nytimes.com/2013/04/26/movies/the-big-wedding-a-farce-with-keaton-and-de-niro.html
-358,Boys and Girls,14193273,0,0,http://www.nytimes.com/movie/review?res=9C01E2D7113EF935A25755C0A9669C8B63
-65,A Haunted House 2,14183335,0,0,http://www.nytimes.com/2014/04/19/movies/a-haunted-house-2-stars-marlon-wayans.html
-1622,Norm of the North,14024290,0,0,http://www.nytimes.com/2016/01/15/movies/review-in-norm-of-the-north-a-polar-bear-takes-a-stand.html
-1955,School for Scoundrels,13988365,0,0,http://www.nytimes.com/2006/09/29/movies/29scou.html
-905,Going the Distance,13952322,0,0,http://www.nytimes.com/2010/09/03/movies/03going.html
-1859,Remember Me,13918922,0,0,http://www.nytimes.com/2010/03/12/movies/12remember.html
-2465,The Hot Chick,13773388,0,0,http://www.nytimes.com/movie/review?res=9B0CE6D8133AF930A25751C1A9649C8B63
-1579,National Lampoon's Van Wilder,13700813,0,0,http://www.nytimes.com/movie/review?res=9802E7D9163DF936A35757C0A9649C8B63
-701,Ella Enchanted,13579980,1,0,http://www.nytimes.com/movie/review?res=9407E5DB1538F93AA35757C0A9629C8B63
-3072,You're Next,13431530,1,0,http://www.nytimes.com/2013/08/23/movies/youre-next-a-home-invasion-thriller-with-tweaks.html
-2249,The Bank Job,13257949,0,0,http://www.nytimes.com/2008/03/07/movies/07bank.html
-569,Dead Silence,13216140,0,0,http://www.nytimes.com/2007/03/17/movies/17dead.html
-2280,The Box,13179622,0,0,http://www.nytimes.com/2009/11/06/movies/06thebox.html
-322,Black Christmas,13083471,0,0,http://www.nytimes.com/2006/12/27/movies/27blac.html
-652,Down to You,13010648,0,0,http://www.nytimes.com/movie/review?res=9401E6DE103DF931A15752C0A9669C8B63
-606,Devil's Due,12922304,0,0,http://www.nytimes.com/2014/01/18/movies/in-devils-due-the-horned-one-is-up-to-his-old-mischief.html
-2167,Superfly,12885779,0,0,http://www.nytimes.com/2018/06/12/movies/superfly-review.html
-765,Father Figures,12885287,0,0,http://www.nytimes.com/2017/12/21/movies/father-figures-review-ed-helms-owen-wilson.html
-725,Eurotrip,12758176,0,0,http://www.nytimes.com/movie/review?res=9F04E0DD103DF933A15751C0A9629C8B63
-1754,Piglet's Big Movie,12730591,0,0,http://www.nytimes.com/movie/review?res=9401E4DD1E31F932A15750C0A9659C8B63
-2389,The Fighter,12569403,1,0,http://www.nytimes.com/2010/12/10/movies/10fighter.html
-1718,Parker,12527297,0,0,http://www.nytimes.com/2013/01/25/movies/parker-starring-jennifer-lopez-and-jason-statham.html
-1180,Jennifer's Body,12470373,0,0,http://www.nytimes.com/2009/09/18/movies/18jennifer.html
-2405,The Four Feathers,12377402,0,0,http://www.nytimes.com/movie/review?res=9E06E4DA1030F933A1575AC0A9649C8B63
-2496,The Invention of Lying,12295868,0,0,http://www.nytimes.com/2009/10/02/movies/02invention.html
-2658,The Raven,12176125,0,0,http://www.nytimes.com/2012/04/27/movies/the-raven-with-john-cusack-directed-by-james-mcteigue.html
-2519,The Last Exorcism Part II,12129639,0,0,http://www.nytimes.com/2013/03/02/movies/the-last-exorcism-part-ii-starring-ashley-bell.html
-1190,Jobs,12009301,1,0,http://www.nytimes.com/2015/10/09/movies/review-steve-jobs-apples-visionary-ceo-dissected.html
-86,A Thousand Words,11985753,0,0,http://www.nytimes.com/2012/03/09/movies/a-thousand-words-directed-by-brian-robbins.html
-204,Armored,11750895,0,0,http://www.nytimes.com/2009/12/05/movies/05armored.html
-868,Get Carter,11740680,0,0,http://www.nytimes.com/movie/review?res=980CE5DE153CF934A35753C1A9669C8B63
-2063,Solaris,11608000,1,0,http://www.nytimes.com/movie/review?res=9405E1DC1638F934A15752C1A9649C8B63
-2993,Welcome to Mooseport,11539863,0,0,http://www.nytimes.com/movie/review?res=9B0DE2D9113DF933A15751C0A9629C8B63
-112,Adventureland,11370909,1,0,http://www.nytimes.com/2009/04/03/movies/03adve.html
-1359,Lockout,11219620,0,0,http://www.nytimes.com/2012/04/13/movies/guy-pearce-in-lockout.html
-2077,Soul Plane,10986076,0,0,http://www.nytimes.com/movie/review?res=940DE3D9103EF93BA15756C0A9629C8B63
-705,Empire,10883390,0,0,http://www.nytimes.com/movie/review?res=9D06E6D9123BF935A35751C1A9649C8B63
-1595,New York Minute,10783723,0,0,http://www.nytimes.com/movie/review?res=9B01E4DC163CF934A35756C0A9629C8B63
-226,Awake,10743207,0,0,http://www.nytimes.com/2007/12/01/movies/01awak.html
-2030,Silent House,10605544,0,0,http://www.nytimes.com/2012/03/09/movies/silent-house-horror-film-with-elizabeth-olsen.html
-621,Disaster Movie,10602140,0,0,http://www.nytimes.com/2008/08/30/movies/30disa.html
-247,Bait,10576895,0,0,http://www.nytimes.com/movie/review?res=9E03E3D61238F936A2575AC0A9669C8B63
-891,Glee: The 3D Concert Movie,10443883,0,0,http://www.nytimes.com/2011/08/12/movies/glee-the-3d-concert-movie-review.html
-2862,Triple 9,10374702,0,0,http://www.nytimes.com/2016/02/26/movies/triple-9-review.html
-1976,Self/Less,10331633,0,0,http://www.nytimes.com/2015/07/10/movies/review-in-self-less-immortality-at-a-cost.html
-145,Almost Famous,10147759,1,0,http://www.nytimes.com/movie/review?res=950DE5D91738F930A2575AC0A9669C8B63
-1235,Juwanna Mann,10115907,0,0,http://www.nytimes.com/movie/review?res=9C06EEDA113BF932A15755C0A9649C8B63
-398,Burnt,10095316,0,0,http://www.nytimes.com/2015/10/30/movies/review-burnt-with-bradley-cooper-as-a-chef-fresh-from-rehab.html
-2898,Unaccompanied Minors,10093267,0,0,http://www.nytimes.com/2006/12/08/movies/08mino.html
-442,Changeling,10031122,0,0,http://www.nytimes.com/2008/10/24/movies/24chan.html
-2222,The 33,10002722,0,0,http://www.nytimes.com/2015/11/13/movies/review-the-33-recalls-a-chilean-mine-disaster-and-the-men-who-endured-it.html
-141,All the Pretty Horses,9927378,0,0,http://www.nytimes.com/movie/review?res=940CE4D71538F936A15751C1A9669C8B63
-2141,Strange Magic,9819784,0,0,http://www.nytimes.com/2015/01/23/movies/gary-rydstroms-strange-magic-from-a-george-lucas-story.html
-1662,One Day,9789523,0,0,http://www.nytimes.com/2011/08/19/movies/one-day-directed-by-lone-scherfig-review.html
-1454,Meet Dave,9398409,0,0,http://www.nytimes.com/2008/07/11/movies/11dave.html
-2076,Soul Men,9370925,0,0,http://www.nytimes.com/2008/11/07/movies/07soul.html
-7,12 Rounds,8982767,0,0,http://www.nytimes.com/2009/03/28/movies/28roun.html
-2917,Unforgettable,8950960,0,0,http://www.nytimes.com/2017/04/20/movies/unforgettable-review-katherine-heigl-rosario-dawson.html
-288,Before I Fall,8929594,0,0,http://www.nytimes.com/2017/03/01/movies/before-i-fall-review-zoey-deutch.html
-2074,Sorority Row,8880742,0,0,http://www.nytimes.com/2009/09/12/movies/12sorority.html
-2438,The Gunman,8800854,0,0,http://www.nytimes.com/2015/03/20/movies/review-in-the-gunman-sean-penn-plays-a-remorseful-sniper-on-the-run.html
-3011,Whip It,8793570,0,0,http://www.nytimes.com/2009/10/02/movies/02whip.html
-741,Extract,8601746,0,0,http://www.nytimes.com/2009/09/04/movies/04extract.html
-2523,The Last Kiss,8446291,0,0,http://www.nytimes.com/2006/09/15/movies/15kiss.html
-2327,The Crew,8400000,0,0,http://www.nytimes.com/movie/review?res=980CEFD81431F936A1575BC0A9669C8B63
-94,Abandon,8372197,0,0,http://www.nytimes.com/movie/review?res=980DE3D8153DF93BA25753C1A9649C8B63
-393,Bullet to the Head,8269214,0,0,http://www.nytimes.com/2013/02/01/movies/bullet-to-the-head-stars-sylvester-stallone.html
-2378,The Express,8214570,0,0,http://www.nytimes.com/2008/10/10/movies/10expr.html
-2137,Stop-Loss,8170755,0,0,http://www.nytimes.com/2008/03/28/movies/28stop.html
-1775,Ponyo,8136515,1,0,http://www.nytimes.com/2009/08/14/movies/14ponyo.html
-965,Hardcore Henry,8117998,0,0,http://www.nytimes.com/2016/04/08/movies/review-in-hardcore-henry-a-semi-robotic-soldier-has-a-personal-mission.html
-579,Death Sentence,7983182,0,0,http://www.nytimes.com/2007/08/30/movies/31sent.html
-999,Here on Earth,7978813,0,0,http://www.nytimes.com/movie/review?res=9402EFDD143DF937A15750C0A9669C8B63
-1478,Midnight Sun,7671529,0,0,http://www.nytimes.com/2018/03/23/movies/midnight-sun-review.html
-1597,Next Day Air,7613221,1,0,http://www.nytimes.com/2009/05/08/movies/08next.html
-476,Cirque du Soleil: Worlds Away,7426926,0,0,http://www.nytimes.com/2012/12/21/movies/cirque-du-soleil-worlds-away-in-3-d.html
-2532,The Legend of Drunken Master,7380000,0,0,http://www.nytimes.com/movie/review?res=9C0CEED6123EF933A15753C1A9669C8B63
-580,Death to Smoochy,7286694,0,0,http://www.nytimes.com/movie/review?res=9A0DE2D71E3BF93AA15750C0A9649C8B63
-1393,MacGruber,7216320,0,0,http://www.nytimes.com/2010/05/22/movies/22macgruber.html
-2317,The Conspirator,6889868,0,0,http://www.nytimes.com/2011/04/15/movies/the-conspirator-directed-by-robert-redford-review.html
-1893,Rock Dog,6735271,0,0,http://www.nytimes.com/2017/02/23/movies/rock-dog-review.html
-1965,Searching,6574943,0,0,http://www.nytimes.com/2018/08/23/movies/searching-review-john-cho.html
-2718,The Space Between Us,6511522,0,0,http://www.nytimes.com/2017/02/02/movies/review-the-space-between-us-the-story-of-a-boy-who-fell-to-earth.html
-63,A Good Year,6402072,0,0,http://www.nytimes.com/2006/11/10/movies/10year.html
-1562,My Life in Ruins,6371636,0,0,http://www.nytimes.com/2009/06/05/movies/05ruin.html
-2311,The Collector,6351293,0,0,http://www.nytimes.com/2009/08/01/movies/01collect.html
-100,About Time,6275743,0,0,http://www.nytimes.com/2013/11/01/movies/about-time-a-british-confection-from-richard-curtis.html
-392,Bug,6158052,0,0,http://www.nytimes.com/2007/05/24/movies/25bug.html
-1148,Isle of Dogs,6057822,1,0,http://www.nytimes.com/2018/03/22/movies/isle-of-dogs-review-wes-anderson.html
-2191,Taking Woodstock,6008843,1,0,http://www.nytimes.com/2009/08/26/movies/26woodstock.html
-1677,Our Brand is Crisis,5924665,0,0,http://www.nytimes.com/2015/10/30/movies/review-in-our-brand-is-crisis-the-war-room-goes-to-bolivia.html
-1629,Nothing Like the Holidays,5924513,0,0,http://www.nytimes.com/2008/12/12/movies/12holi.html
-404,Cadillac Records,5909492,1,0,http://www.nytimes.com/2008/12/05/movies/05cadi.html
-1606,Nine,5830585,0,0,http://www.nytimes.com/2009/12/18/movies/18nine.html
-325,Black Nativity,5653299,0,0,http://www.nytimes.com/2013/11/27/movies/black-nativity-with-angela-bassett-and-jennifer-hudson.html
-1227,Just Getting Started,5493590,0,0,http://www.nytimes.com/2017/12/11/movies/just-getting-started-review-morgan-freeman-tommy-lee-jones.html
-2569,The Master,5446975,1,0,http://www.nytimes.com/2012/09/14/movies/review-the-master-from-paul-thomas-anderson.html
-1289,La La Land,5342257,1,0,http://www.nytimes.com/2016/12/08/movies/la-la-land-review-ryan-gosling-emma-stone.html
-1779,Post Grad,5307922,0,0,http://www.nytimes.com/2009/08/21/movies/21post.html
-1497,Miss Pettigrew Lives for a Day,5299639,0,0,http://www.nytimes.com/2008/03/07/movies/07pett.html
-1153,It Runs in the Family,5227195,1,0,http://www.nytimes.com/movie/review?res=9E06E6DA163DF936A15757C0A9659C8B63
-1756,Pirate Radio,5184068,0,0,http://www.nytimes.com/2009/11/13/movies/13pirateradio.html
-2151,Suburbicon,5081606,0,0,http://www.nytimes.com/2017/10/26/movies/suburbicon-review-george-clooney-matt-damon-julianne-moore.html
-2902,Under the Same Moon,4970168,0,0,http://www.nytimes.com/2008/03/19/movies/19moon.html
-252,Bandslam,4435538,0,0,http://www.nytimes.com/2009/08/14/movies/14bandslam.html
-2239,The Apparition,4251121,0,0,http://www.nytimes.com/2018/09/06/movies/the-apparition-review.html
-1350,Little Boy,4248030,0,0,http://www.nytimes.com/2015/04/24/movies/review-little-boy-is-a-fable-about-faith-versus-magical-thinking.html
-264,Battle of the Sexes,4085327,0,0,http://www.nytimes.com/2017/09/21/movies/review-battle-of-the-sexes-billie-jean-king-bobby-riggs.html
-426,Casa de mi Padre,4030195,0,0,http://www.nytimes.com/2012/03/16/movies/will-ferrell-in-casa-de-mi-padre.html
-582,Deception,4000654,0,0,http://www.nytimes.com/2008/04/25/movies/25dece.html
-231,Babies,3881216,1,0,http://www.nytimes.com/2010/05/07/movies/07babies.html
-2871,True Story,3807508,0,0,http://www.nytimes.com/2015/04/17/movies/review-true-story-stars-jonah-hill-and-james-franco.html
-1784,Prem Ratan Dhan Payo,3759582,0,0,http://www.nytimes.com/2015/11/16/movies/review-prem-ratan-dhan-payo-a-bollywood-tale-of-a-prince-and-plebe-double.html
-53,90 Minutes in Heaven,3748011,0,0,http://www.nytimes.com/2015/09/11/movies/review-90-minutes-in-heaven-then-a-long-road-back.html
-2256,The Best Exotic Marigold Hotel,3744656,1,0,http://www.nytimes.com/2012/05/04/movies/the-best-exotic-marigold-hotel-with-judi-dench.html
-990,Hell or High Water,3570498,1,0,http://www.nytimes.com/2016/08/12/movies/hell-or-high-water-review.html
-3041,Witless Protection,3485150,0,0,http://www.nytimes.com/2008/02/23/movies/23witl.html
-102,Absolutely Fabulous: The Movie,3396822,0,0,http://www.nytimes.com/2016/07/22/movies/abfab-absolutely-fabulous-review.html
-2310,The Cold Light of Day,3279550,0,0,http://www.nytimes.com/2012/09/08/movies/bruce-willis-stars-in-the-cold-light-of-day.html
-449,Charlie Bartlett,3254225,0,0,http://www.nytimes.com/2008/02/22/movies/22char.html
-920,Gotti,3245759,0,0,http://www.nytimes.com/2018/06/15/movies/review-gotti-john-travolta.html
-2147,Stronger,3165489,0,0,http://www.nytimes.com/2017/09/21/movies/review-jake-gyllenhaal-as-marathon-victim-in-stronger.html
-2984,We Are Your Friends,3152112,0,0,http://www.nytimes.com/2015/08/28/movies/review-angelenos-long-for-life-beyond-the-valley-in-we-are-your-friends.html
-2748,The To Do List,3094965,1,0,http://www.nytimes.com/2013/07/26/movies/aubrey-plaza-stars-in-the-to-do-list.html
-2,(500) Days of Summer,3009526,0,0,http://www.nytimes.com/2009/07/17/movies/17five.html
-1481,Milk,2954735,1,0,http://www.nytimes.com/2008/11/26/movies/26milk.html
-49,7 Days in Entebbe,2900330,0,0,http://www.nytimes.com/2018/03/14/movies/7-days-in-entebbe-review.html
-2010,Shine a Light,2887430,1,0,http://www.nytimes.com/2008/04/04/movies/04shin.html
-2388,The Fifth Estate,2848356,0,0,http://www.nytimes.com/2013/10/18/movies/the-fifth-estate-with-benedict-cumberbatch-as-julian-assange.html
-2945,Veronica Mars,2832919,0,0,http://www.nytimes.com/2014/03/14/movies/veronica-mars-returns-on-the-big-screen-this-time.html
-2671,The Road,2672812,1,0,http://www.nytimes.com/2012/05/11/movies/the-road-by-the-philippine-director-yam-laranas.html
-2086,Spare Parts,2615073,0,0,http://www.nytimes.com/2015/01/16/movies/george-lopez-helps-students-build-a-robot-in-spare-parts.html
-2478,The Identical,2576495,0,0,http://www.nytimes.com/2014/09/05/movies/the-identical-a-movie-musical-about-separated-twins.html
-66,A Hologram for the King,2565189,1,0,http://www.nytimes.com/2016/04/22/movies/review-a-hologram-for-the-king-is-elevated-by-tom-hankss-portrayal-of-an-american-everyman.html
-922,Gracie,2453515,1,0,http://www.nytimes.com/2007/05/31/movies/01grac.html
-193,Anthropoid,2345025,1,0,http://www.nytimes.com/2016/08/12/movies/anthropoid-review.html
-2268,The Bling Ring,2343144,0,0,http://www.nytimes.com/2013/06/14/movies/a-bling-ring-lusting-after-celebrity-trinkets.html
-467,Choke,2322557,0,0,http://www.nytimes.com/2008/09/26/movies/26chok.html
-2821,Thoroughbreds,2294050,0,0,http://www.nytimes.com/2018/03/08/movies/thoroughbreds-review.html
-1680,Our Kind of Traitor,2225293,0,0,http://www.nytimes.com/2016/07/01/movies/review-a-professor-drawn-to-the-mob-in-our-kind-of-traitor.html
-2778,The Way Back,2174888,0,0,http://www.nytimes.com/2011/01/21/movies/21way.html
-3039,Wish I Was Here,1879788,0,0,http://www.nytimes.com/2014/07/18/movies/zach-braff-directs-and-stars-in-wish-i-was-here.html
-2779,The Way Way Back,1866336,0,0,http://www.nytimes.com/2013/07/05/movies/the-way-way-back-from-nat-faxon-and-jim-rash.html
-592,Demolition,1822315,0,0,http://www.nytimes.com/2016/04/08/movies/demolition-review-jake-gyllenhaal.html
-2506,The Kids Are All Right,1813866,1,0,http://www.nytimes.com/2010/07/09/movies/09kids.html
-2100,Spotlight,1800400,1,0,http://www.nytimes.com/2015/11/06/movies/review-in-spotlight-the-boston-globe-digs-up-the-catholic-churchs-dirt.html
-292,Begin Again,1794832,0,0,http://www.nytimes.com/2014/06/27/movies/begin-again-from-the-once-director-john-carney.html
-1178,Jeff Who Lives at Home,1774267,0,0,http://www.nytimes.com/2012/03/16/movies/jeff-who-lives-at-home-a-duplass-brothers-comedy.html
-211,Assassination Nation,1732024,0,0,http://www.nytimes.com/2018/09/20/movies/assassination-nation-review.html
-912,Good Hair,1727611,0,0,http://www.nytimes.com/2009/10/09/movies/09hair.html
-824,Free Fire,1662023,1,0,http://www.nytimes.com/2017/04/20/movies/free-fire-review.html
-730,Everybody Loves Somebody,1634969,0,0,http://www.nytimes.com/2017/02/16/movies/everybody-loves-somebody-review.html
-2680,The Runaways,1580559,0,0,http://www.nytimes.com/2010/03/19/movies/19runaways.html
-2314,The Company Men,1547510,1,0,http://www.nytimes.com/2010/12/10/movies/10company.html
-351,Bodyguard,1536308,0,0,http://www.nytimes.com/2011/09/01/movies/bodyguard-with-salman-khan-review.html
-263,Battle for Terra,1518011,0,0,http://www.nytimes.com/2009/05/01/movies/01terr.html
-2703,The Shape of Water,1372554,1,0,http://www.nytimes.com/2017/11/30/movies/the-shape-of-water-review-guillermo-del-toro.html
-2240,The Art of Getting By,1351980,0,0,http://www.nytimes.com/2011/06/17/movies/the-art-of-getting-by-by-gavin-wiesen-review.html
-2665,The Revenant,1320348,0,0,http://www.nytimes.com/2015/12/25/movies/review-the-revenant-welcome-to-paradise-now-prepare-to-fall.html
-2951,Victoria and Abdul,1312549,0,0,http://www.nytimes.com/2017/09/21/movies/victoria-and-abdul-review-judi-dench.html
-1508,Mohenjo Daro,1164785,0,0,http://www.nytimes.com/2016/08/15/movies/review-mohenjo-daro-depicts-a-go-to-heros-exertions-in-antiquity.html
-598,Desierto,1145083,0,0,http://www.nytimes.com/2016/10/14/movies/desierto-review-jonas-cuaron-gael-garca-bernal.html
-993,"Hello, My Name is Doris",1115909,0,0,http://www.nytimes.com/2016/03/11/movies/sally-field-hello-my-name-is-doris-review.html
-463,Child 44,1086376,0,0,http://www.nytimes.com/2015/04/17/movies/review-child-44-a-secret-police-thriller-in-soviet-russia.html
-2597,The Namesake,1076544,0,0,http://www.nytimes.com/2007/03/09/movies/09name.html
-2761,The Ultimate Life,1071060,0,0,http://www.nytimes.com/2013/09/06/movies/the-ultimate-life-shows-what-money-can-and-cannot-buy.html
-2410,The Ghost Writer,1048233,1,0,http://www.nytimes.com/2010/02/19/movies/19ghost.html
-456,Chef,991561,0,0,http://www.nytimes.com/2014/05/09/movies/chef-a-culinary-comedy-by-jon-favreau.html
-2160,Sunshine Cleaning,960041,0,0,http://www.nytimes.com/2009/03/13/movies/13suns.html
-713,Enough Said,950101,1,0,http://www.nytimes.com/2013/09/18/movies/enough-said-stars-james-gandolfini-and-julia-louis-dreyfus.html
-2807,There Will Be Blood,901292,1,0,http://www.nytimes.com/2007/12/26/movies/26bloo.html
-702,Elvis & Nixon,898695,0,0,http://www.nytimes.com/2016/04/22/movies/elvis-and-nixon-review.html
-842,Frost/Nixon,873836,0,0,http://www.nytimes.com/2008/12/05/movies/05fros.html
-2362,The Duchess,830007,0,0,http://www.nytimes.com/2008/09/19/movies/19duch.html
-82,A Serious Man,811304,1,0,http://www.nytimes.com/2009/10/02/movies/02serious.html
-980,He Named Me Malala,797689,0,0,http://www.nytimes.com/2015/10/02/movies/review-he-named-me-malala-on-a-taliban-target-and-nobel-laureate.html
-1317,Leave No Trace,781675,1,0,http://www.nytimes.com/2018/06/28/movies/leave-no-trace-review-ben-foster.html
-1374,Love & Friendship,758157,1,0,http://www.nytimes.com/2016/05/13/movies/love-and-friendship-review.html
-227,Away We Go,757635,0,0,http://www.nytimes.com/2009/06/05/movies/05away.html
-2543,The Little Stranger,675393,0,0,http://www.nytimes.com/2018/08/30/movies/the-little-stranger-review.html
-3032,Win Win,672336,1,0,http://www.nytimes.com/2011/03/18/movies/win-win-with-paul-giamatti-review.html
-243,Bad Words,660817,0,0,http://www.nytimes.com/2014/03/14/movies/jason-bateman-stars-in-and-directs-bad-words.html
-2799,The Wrestler,648510,1,0,http://www.nytimes.com/2008/12/17/movies/17wres.html
-349,Blue Valentine,644662,0,0,http://www.nytimes.com/2010/12/29/movies/29blue.html
-624,Disobedience,634364,0,0,http://www.nytimes.com/2018/04/25/movies/disobedience-review-rachel-mcadams.html
-298,Belle,634210,0,0,http://www.nytimes.com/2014/05/02/movies/belle-centers-on-a-biracial-aristocrat-in-the-18th-century.html
-1735,Peepli Live,600627,0,0,http://www.nytimes.com/2010/08/13/movies/13peepli.html
-3029,Wilson,585059,0,0,http://www.nytimes.com/2017/03/22/movies/wilson-review-with-woody-harrelson.html
-2272,The Book Thief,564050,0,0,http://www.nytimes.com/2013/11/08/movies/the-book-thief-world-war-ii-tale-with-geoffrey-rush.html
-755,Fantastic Mr. Fox,562048,1,0,http://www.nytimes.com/2009/11/13/movies/13fantastic.html
-1724,Patriots Day,529831,0,0,http://www.nytimes.com/2016/12/20/movies/patriots-day-boston-marathon-review.html
-1322,Legend,525735,0,0,http://www.nytimes.com/2015/11/20/movies/review-legend-starring-tom-hardy-as-the-gangster-twins-ronnie-and-reggie-kray.html
-1548,Mumbai Diaries,521882,0,0,http://www.nytimes.com/2011/01/21/movies/21roundup-DHOBIGHATMUM_RVW.html
-790,Fireworks,519582,0,0,http://www.nytimes.com/movie/review?res=9A01E5DC173AF934A1575AC0A961958260
-1583,Nebraska,515368,1,0,http://www.nytimes.com/2013/11/15/movies/nebraska-directed-by-alexander-payne-stars-bruce-dern.html
-3076,You Were Never Really Here,512782,0,0,http://www.nytimes.com/2018/04/04/movies/you-were-never-really-here-review-joaquin-phoenix.html
-328,Black Sea,508797,0,0,http://www.nytimes.com/2015/01/23/movies/black-sea-stars-jude-law-as-a-seething-adventurer.html
-276,Beasts of the Southern Wild,478562,1,0,http://www.nytimes.com/2012/06/27/movies/beasts-of-the-southern-wild-directed-by-benh-zeitlin.html
-612,Diary of the Dead,451215,0,0,http://www.nytimes.com/2008/02/15/movies/15dead.html
-1342,Like Crazy,444510,0,0,http://www.nytimes.com/2017/05/04/movies/like-crazy-review.html
-1747,Phantom,443692,0,0,http://www.nytimes.com/2013/03/01/movies/phantom-a-thriller-directed-by-todd-robinson.html
-1122,Ingrid Goes West,440503,0,0,http://www.nytimes.com/2017/08/10/movies/ingrid-goes-west-review.html
-1796,Princess Kaiulani,426512,0,0,http://www.nytimes.com/2010/05/14/movies/14princess.html
-1750,Phillauri,417308,0,0,http://www.nytimes.com/2017/03/26/movies/phillauri-review.html
-1633,Nowhere Boy,412214,0,0,http://www.nytimes.com/2010/10/08/movies/08nowhere.html
-2507,The Killing of a Sacred Deer,396092,0,0,http://www.nytimes.com/2017/10/19/movies/the-killing-of-a-sacred-deer-review-colin-farrell-nicole-kidman.html
-2215,Thank You,392194,0,0,http://www.nytimes.com/2011/04/11/movies/thank-you-bollywood-comedy-with-akshay-kumar-review.html
-228,Baaghi,376982,0,0,http://www.nytimes.com/2016/05/02/movies/baaghi-review.html
-1506,Mistress America,375323,1,0,http://www.nytimes.com/2015/08/14/movies/review-mistress-america-a-noah-baumbach-comedy-on-getting-by-in-a-backbiting-world.html
-1477,Midnight Special,361197,0,0,http://www.nytimes.com/2016/03/18/movies/review-in-midnight-special-on-the-run-with-a-highly-unusual-child.html
-408,Calvary,359631,0,0,http://www.nytimes.com/2014/08/01/movies/calvary-john-michael-mcdonaghs-murder-mystery.html
-1392,Macbeth,354973,0,0,http://www.nytimes.com/2015/12/04/movies/review-macbeth-starring-michael-fassbender-awash-in-gorgeous-carnage.html
-2331,The Danish Girl,350086,0,0,http://www.nytimes.com/2015/11/27/movies/review-the-danish-girl-about-a-transgender-pioneer.html
-595,Denial,347148,0,0,http://www.nytimes.com/2016/09/30/movies/denial-review-rachel-weisz-denial.html
-2135,Stone,343100,0,0,http://www.nytimes.com/2010/10/08/movies/08stone.html
-914,Good Time,341404,0,0,http://www.nytimes.com/2017/08/10/movies/good-time-review-robert-pattinson.html
-2366,The East,336002,0,0,http://www.nytimes.com/2013/05/31/movies/the-east-written-by-zal-batmanglij-and-brit-marling.html
-560,Darkest Hour,327817,0,0,http://www.nytimes.com/2017/11/21/movies/darkest-hour-review-gary-oldman.html
-400,By the Sea,320627,0,0,http://www.nytimes.com/2015/11/13/movies/review-in-angelina-jolie-pitts-by-the-sea-an-unhappy-menage-and-tear-streaked-mascara.html
-554,Danny Collins,316206,0,0,http://www.nytimes.com/2015/03/20/movies/review-al-pacino-in-danny-collins-plays-a-dissolute-pop-star.html
-1897,RocknRolla,308692,0,0,http://www.nytimes.com/2008/10/08/movies/08rock.html
-165,American Pastoral,296630,0,0,http://www.nytimes.com/2016/10/21/movies/american-pastoral-review-ewan-mcgregor.html
-1618,Noah's Arc: Jumping the Broom,287682,0,0,http://www.nytimes.com/2008/10/24/movies/24noah.html
-2768,The Visitor,282400,1,0,http://www.nytimes.com/2008/04/11/movies/11visi.html
-61,A Ghost Story,277737,1,0,http://www.nytimes.com/2017/07/05/movies/review-a-ghost-story.html
-1347,Lion,275702,0,0,http://www.nytimes.com/2016/11/24/movies/lion-review-dev-patel.html
-2153,Suffragette,274590,0,0,http://www.nytimes.com/2015/10/23/movies/review-in-suffragette-feminist-insight-thats-about-more-than-the-vote.html
-1014,Himmatwala,262568,0,0,http://www.nytimes.com/2013/04/01/movies/himmatwala-a-bollywood-disco-remake.html
-1063,Hunt for the Wilderpeople,255687,1,0,http://www.nytimes.com/2016/06/24/movies/hunt-for-the-wilderpeople-review.html
-2657,The Railway Man,252402,0,0,http://www.nytimes.com/2014/04/11/movies/the-railway-man-a-true-tale-of-wartime-torment-and-reconciliation.html
-1461,Meet the Patels,246685,0,0,http://www.nytimes.com/2015/09/11/movies/review-in-meet-the-patels-a-son-submits-to-a-marriage-quest.html
-1304,Last Flag Flying,243337,0,0,http://www.nytimes.com/2017/11/02/movies/last-flag-flying-review-steve-carell-bryan-cranston-laurence-fishburne-richard-linklater.html
-1188,Jimi: All is By My Side,238837,0,0,http://www.nytimes.com/2014/09/26/movies/jimi-all-is-by-my-side-a-jimi-hendrix-biopic.html
-395,Buried,236447,0,0,http://www.nytimes.com/2010/09/24/movies/24buried.html
-785,Finding Your Feet,228575,0,0,http://www.nytimes.com/2018/03/29/movies/finding-your-feet-review.html
-81,A Royal Night Out,197973,0,0,http://www.nytimes.com/2015/12/04/movies/review-after-the-terrors-of-the-blitz-comes-a-royal-night-out.html
-2033,Sin Nombre,185874,0,0,http://www.nytimes.com/2009/03/20/movies/20nomb.html
-804,Flower,183430,1,0,http://www.nytimes.com/2018/03/15/movies/flower-review-zoey-deutch.html
-2456,The History Boys,181689,1,0,http://www.nytimes.com/2006/11/21/movies/21hist.html
-274,Beast,181101,1,0,http://www.nytimes.com/2018/05/10/movies/beast-review.html
-723,Escobar: Paradise Lost,177097,0,0,http://www.nytimes.com/2015/06/26/movies/review-escobar-paradise-lost-stars-benicio-del-toro-as-drug-lord.html
-1820,Rabbit Hole,166770,0,0,http://www.nytimes.com/2010/12/17/movies/17rabbit.html
-107,Adam,165531,0,0,http://www.nytimes.com/2009/07/29/movies/29adam.html
-1865,Reprise,158202,1,0,http://www.nytimes.com/2008/05/16/movies/16repr.html
-2627,The Party,151976,0,0,http://www.nytimes.com/2018/02/15/movies/the-party-review-timothy-spall-kristin-scott-thomas.html
-509,Confetti,145545,0,0,http://www.nytimes.com/2006/09/15/movies/15conf.html
-1887,Risk,145122,0,0,http://www.nytimes.com/2017/05/04/movies/risk-review-julian-assange-laura-poitras.html
-828,Freeheld,144419,0,0,http://www.nytimes.com/2015/10/02/movies/review-in-freeheld-a-dying-detective-fights-for-gay-rights.html
-917,Goodnight Mommy,141444,1,0,http://www.nytimes.com/2015/09/11/movies/review-twin-terrors-haunt-goodnight-mommy.html
-1313,Lean on Pete,139567,1,0,http://www.nytimes.com/2018/04/05/movies/lean-on-pete-review.html
-2880,Turtle: The Incredible Journey,135981,0,0,http://www.nytimes.com/2011/06/24/movies/turtle-the-incredible-journey-a-loggerhead-epic-review.html
-2407,The Future,130271,1,0,http://www.nytimes.com/2013/09/06/movies/two-orphans-wonder-what-now.html
-2684,The Sapphires,126218,0,0,http://www.nytimes.com/2013/03/22/movies/the-sapphires-chronicles-4-australian-singers-in-the-1960s.html
-860,Gemini,123537,0,0,http://www.nytimes.com/2018/03/29/movies/gemini-review-lola-kirke-zoe-kravitz.html
-1449,Me and Orson Welles,120256,1,0,http://www.nytimes.com/2009/11/25/movies/25orson.html
-272,Beach Rats,112740,1,0,http://www.nytimes.com/2017/08/24/movies/beach-rats-review.html
-1290,La Soga,110968,0,0,http://www.nytimes.com/2010/08/13/movies/13soga.html
-1362,Lola Versus,107991,0,0,http://www.nytimes.com/2012/06/08/movies/daryl-weins-lola-versus-with-greta-gerwig.html
-4,10 Years,104861,0,0,http://www.nytimes.com/2012/09/14/movies/10-years-a-comedy-directed-by-jamie-linden.html
-295,Being Flynn,102986,0,0,http://www.nytimes.com/2012/03/02/movies/paul-weitzs-being-flynn-starring-robert-de-niro.html
-338,Blaze,100768,1,0,http://www.nytimes.com/2018/09/06/movies/blaze-review-ethan-hawke.html
-2399,The Foot Fist Way,99392,1,0,http://www.nytimes.com/2008/05/30/movies/30foot.html
-119,After.Life,99101,0,0,http://www.nytimes.com/2010/04/09/movies/09after.html
-1800,Project Nim,87840,1,0,http://www.nytimes.com/2011/07/08/movies/project-nim-about-a-chimpanzee-subjected-to-research-review.html
-3004,When Marnie Was There,84542,0,0,http://www.nytimes.com/2015/05/22/movies/review-when-marnie-was-there-by-studio-ghibli-animates-a-friendship-with-ominous-undertones.html
-2675,The Romantics,81503,0,0,http://www.nytimes.com/2010/09/10/movies/10romantics.html
-938,Gun Hill Road,75409,0,0,http://www.nytimes.com/2011/08/05/movies/a-different-kind-of-bronx-tale.html
-1531,Motherhood,74250,0,0,http://www.nytimes.com/2009/10/23/movies/23mother.html
-76,A Monster Calls,72618,0,0,http://www.nytimes.com/2016/12/22/movies/a-monster-calls-review.html
-2693,The Secret of Kells,67039,1,0,http://www.nytimes.com/2010/03/05/movies/05secret.html
-1083,I Spit on Your Grave,66019,0,0,http://www.nytimes.com/2010/10/08/movies/08spit.html
-2199,Tea with the Dames,65583,1,0,http://www.nytimes.com/2018/09/20/movies/tea-with-the-dames-review.html
-2949,Victor,63943,0,0,http://www.nytimes.com/movie/review?res=9C0CE4D61530F934A15750C0A96F958260
-1674,Other People,62630,0,0,http://www.nytimes.com/2016/09/09/movies/other-people-review.html
-690,Eating Animals,61534,0,0,http://www.nytimes.com/2018/06/14/movies/eating-animals-review.html
-2961,Waking Sleeping Beauty,60996,0,0,http://www.nytimes.com/2010/03/26/movies/26waking.html
-200,Arctic Tale,59491,0,0,http://www.nytimes.com/2007/07/25/movies/25arct.html
-2286,The Breadwinner,54429,1,0,http://www.nytimes.com/2017/11/16/movies/the-breadwinner-review.html
-1373,Louder Than Bombs,54402,0,0,http://www.nytimes.com/2016/04/08/movies/louder-than-bombs-review.html
-468,Christine,53834,0,0,http://www.nytimes.com/2016/10/14/movies/christine-review-rebecca-hall.html
-1339,"Life, Animated",52690,0,0,http://www.nytimes.com/2016/07/01/movies/review-life-animated.html
-361,Bran Nue Dae,51108,0,0,http://www.nytimes.com/2010/09/10/movies/10bran.html
-1106,In a Valley of Violence,50381,0,0,http://www.nytimes.com/2016/10/21/movies/in-a-valley-of-violence-review.html
-1997,Shanghai,44689,0,0,http://www.nytimes.com/2015/10/02/movies/review-in-shanghai-john-cusack-is-a-naval-intelligence-operative-in-a-bind.html
-3027,Wild Target,44259,0,0,http://www.nytimes.com/2010/10/29/movies/29wild.html
-2847,Toys in the Attic,38033,0,0,http://www.nytimes.com/2012/09/07/movies/toys-in-the-attic-directed-by-jiri-barta.html
-1370,Lost River,37477,1,0,http://www.nytimes.com/2015/04/10/movies/review-in-lost-river-by-ryan-gosling-surreal-scenes-of-urban-decline.html
-1689,Paan Singh Tomar,33913,0,0,http://www.nytimes.com/2012/03/02/movies/irrfan-khan-stars-in-paan-singh-tomar.html
-278,Beautiful Boy,29827,0,0,http://www.nytimes.com/2018/10/11/movies/beautiful-boy-review-steve-carell.html
-1612,No Greater Love,29057,0,0,http://www.nytimes.com/movie/review?res=9906E4DE113CE03ABC4D51DFB466838F659EDE
-1424,Margaret,24950,0,0,http://www.nytimes.com/2011/09/30/movies/margaret-directed-by-kenneth-lonergan-review.html
-313,Big Sonia,24695,0,0,http://www.nytimes.com/2017/11/16/movies/review-big-sonia-review-holocaust-survivor.html
-2772,The War of the Buttons,24273,0,0,http://www.nytimes.com/2012/10/12/movies/war-of-the-buttons-directed-by-christophe-barratier.html
-1104,Immigration Tango,23812,0,0,http://www.nytimes.com/2011/02/18/movies/18immigration-tango.html
-359,BPM (Beats per Minute),23357,1,0,http://www.nytimes.com/2017/10/19/movies/bpm-beats-per-minute-review-aids-activism.html
-1700,Panic,21042,0,0,http://www.nytimes.com/movie/review?res=9B02E5D61F3DF93AA25752C0A9679C8B63
-994,Hemingway's Garden of Eden,20952,0,0,http://www.nytimes.com/2010/12/10/movies/10hemingway.html
-2517,The Last Dalai Lama?,20618,0,0,http://www.nytimes.com/2017/07/27/movies/the-last-dalai-lama-review.html
-1657,On the Beach at Night Alone,19540,0,0,http://www.nytimes.com/2017/11/16/movies/on-the-beach-at-night-alone-review-hong-sang-soo.html
-2302,The Challenger,19003,0,0,http://www.nytimes.com/movie/review?res=9E04E4DA1531E633A25755C1A9619C946394D6CF
-617,Dina,18730,0,0,http://www.nytimes.com/2017/10/05/movies/dina-review.html
-67,A Kid Like Jake,17725,0,0,http://www.nytimes.com/2018/05/31/movies/a-kid-like-jake-review-claire-danes-jim-parsons.html
-152,Alphaville,15133,0,0,http://www.nytimes.com/movie/review?res=9D03E6D91F30E23ABC4E51DFB667838E679EDE
-2041,Skateland,14944,0,0,http://www.nytimes.com/2011/05/13/movies/skateland-review.html
-534,Crime + Punishment,14574,1,0,http://www.nytimes.com/2018/08/22/movies/crime-punishment-review.html
-1175,Jayne Mansfield's Car,14277,0,0,http://www.nytimes.com/2013/09/13/movies/billy-bob-thornton-directs-jayne-mansfields-car.html
-2180,Sympathy for Delicious,13114,0,0,http://www.nytimes.com/2011/04/29/movies/sympathy-for-delicious-with-mark-ruffalo-review.html
-3089,Zombeavers,12721,0,0,http://www.nytimes.com/2015/03/20/movies/review-in-zombeavers-the-flesheaters-have-overbites.html
-3007,When You Read This Letter,12109,0,0,http://www.nytimes.com/2018/09/11/movies/when-you-read-this-letter-review.html
-142,All These Sleepless Nights,11153,0,0,http://www.nytimes.com/2017/04/13/movies/all-these-sleepless-nights-review.html
-3018,White Wedding,10908,0,0,http://www.nytimes.com/2010/09/03/movies/03roundup-005.html
-43,5 Days of War,10834,0,0,http://www.nytimes.com/2011/08/19/movies/5-days-of-war-shows-russia-and-georgia-in-conflict.html
-1220,Junction 48,9083,1,0,http://www.nytimes.com/2017/03/02/movies/junction-48-review.html
-2954,Violet Tendencies,8591,0,0,http://www.nytimes.com/2010/11/05/movies/05violet.html
-859,Gayby,8227,0,0,http://www.nytimes.com/2012/10/12/movies/gayby-a-short-extended-by-jonathan-lisecki.html
-2414,The Girl Without Hands,6183,1,0,http://www.nytimes.com/2017/07/20/movies/the-girl-without-hands-review.html
-2197,Tanner Hall,5005,0,0,http://www.nytimes.com/2011/09/09/movies/tanner-hall-starring-rooney-mara-review.html
-2940,Vamps,2964,0,0,http://www.nytimes.com/2012/11/02/movies/vamps-by-amy-heckerling-with-alicia-silverstone.html
+X,movie,total_gross,Critic_Pick,Review_url
+1,Black Panther,403613257,1,http://www.nytimes.com/2018/02/06/movies/black-panther-review-movie.html
+2,The Avengers,373071647,0,http://www.nytimes.com/2012/05/04/movies/robert-downey-jr-in-the-avengers-directed-by-joss-whedon.html
+3,Rogue One: A Star Wars Story,286033442,0,http://www.nytimes.com/2016/12/13/movies/star-wars-rogue-one-review.html
+4,Iron Man 3,284946699,0,http://www.nytimes.com/2013/05/03/movies/iron-man-3-with-robert-downey-jr.html
+5,Jurassic World: Fallen Kingdom,265699530,0,http://www.nytimes.com/2018/06/20/movies/jurassic-world-fallen-kingdom-review-chris-pratt.html
+6,Furious 7,251516400,0,http://www.nytimes.com/2015/04/03/movies/review-in-furious-7-a-franchise-continues-to-roar.html
+7,Deadpool,236865054,0,http://www.nytimes.com/2016/02/12/movies/deadpool-movie-review-ryan-reynolds.html
+8,The Twilight Saga: New Moon,230947696,0,http://www.nytimes.com/2009/11/20/movies/20twilightnewmoon.html
+9,Toy Story 3,226889351,1,http://www.nytimes.com/2010/06/18/movies/18toy.html
+10,Suicide Squad,222640741,0,http://www.nytimes.com/2016/08/05/movies/suicide-squad-review-dc-comics.html
+11,It,218813729,0,http://www.nytimes.com/2017/09/06/movies/it-review-stephen-king.html
+12,Avatar,212711184,1,http://www.nytimes.com/2009/12/18/movies/18avatar.html
+13,Iron Man 2,211200876,0,http://www.nytimes.com/2010/05/07/movies/07iron.html
+14,Alice in Wonderland,209339432,0,http://www.nytimes.com/2010/03/05/movies/05alice.html
+15,Wonder Woman,206343175,1,http://www.nytimes.com/2017/05/31/movies/wonder-woman-review-gal-gadot.html
+16,Transformers,186981682,0,http://www.nytimes.com/2007/07/02/movies/02tran.html
+17,The Hangover Part II,177870031,0,http://www.nytimes.com/2011/05/26/movies/the-hangover-part-ii-3-men-and-a-monkey-baby.html
+18,Guardians of the Galaxy,176515761,0,http://www.nytimes.com/2014/08/01/movies/chris-pratt-stars-in-guardians-of-the-galaxy.html
+19,X-Men: The Last Stand,175348409,0,http://www.nytimes.com/2006/05/26/movies/26xmen.html
+20,The Passion of the Christ,1.74E+08,0,http://www.nytimes.com/movie/review?res=9A07EFD6143CF936A15751C0A9629C8B63
+21,Justice League,171903874,0,http://www.nytimes.com/2017/11/15/movies/justice-league-review-wonder-woman-batman-dc-comics.html
+22,Skyfall,149776859,1,http://www.nytimes.com/2012/11/08/movies/skyfall-with-daniel-craig-as-james-bond.html
+23,Solo: A Star Wars Story,148989574,0,http://www.nytimes.com/2018/05/15/movies/solo-a-star-wars-story-review.html
+24,Inception,142883424,0,http://www.nytimes.com/2010/07/16/movies/16inception.html
+25,Hancock,142391181,0,http://www.nytimes.com/2008/07/02/movies/02hanc.html
+26,Fast Five,139779285,0,http://www.nytimes.com/2011/04/29/movies/fast-five-with-vin-diesel-review.html
+27,Rush Hour 2,133525381,0,http://www.nytimes.com/movie/review?res=9A01E0D9143CF930A3575BC0A9679C8B63
+28,Ant-Man and the Wasp,133083084,0,http://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html
+29,World War Z,123696919,0,http://www.nytimes.com/2013/06/21/movies/world-war-z-stars-brad-pitt-battling-zombies.html
+30,Cinderella,122516793,0,http://www.nytimes.com/2015/03/13/movies/review-in-cinderella-disney-polishes-its-glass-slippers.html
+31,Gravity,122323175,0,http://www.nytimes.com/2015/05/22/movies/review-sunshine-superman-about-the-high-flying-daredevil-carl-boenish.html
+32,Pearl Harbor,118853000,0,http://www.nytimes.com/movie/review?res=9A00E6D7113DF936A15756C0A9679C8B63
+33,The Mummy Returns,118035540,0,http://www.nytimes.com/movie/review?res=9F03E2D71238F937A35756C0A9679C8B63
+34,Signs,117717838,0,http://www.nytimes.com/movie/review?res=9D05E4DA113BF931A3575BC0A9649C8B63
+35,Madagascar: Escape 2 Africa,116905195,0,http://www.nytimes.com/2008/11/07/movies/07mada.html
+36,Fast & Furious,116497095,0,http://www.nytimes.com/2009/04/03/movies/03fast.html
+37,Mission: Impossible 2,111140363,0,http://www.nytimes.com/movie/review?res=9C04E2DE163DF937A15756C0A9669C8B63
+38,Kong: Skull Island,109107436,0,http://www.nytimes.com/2017/03/09/movies/kong-skull-island-review-brie-larson.html
+39,Ant-Man,106219861,0,http://www.nytimes.com/2015/07/17/movies/review-ant-man-with-paul-rudd-adds-to-a-superhero-infestation.html
+40,Rise of the Planet of the Apes,105208226,0,http://www.nytimes.com/2011/08/05/movies/rise-of-the-planet-of-the-apes-stars-james-franco-review.html
+41,Jason Bourne,103111145,0,http://www.nytimes.com/2016/07/29/movies/jason-bourne-matt-damon-review.html
+42,Dunkirk,101317350,1,http://www.nytimes.com/2017/07/20/movies/dunkirk-review-christopher-nolan.html
+43,Cast Away,100628594,1,http://www.nytimes.com/movie/review?res=9C0CE4D81F39F931A15751C1A9669C8B63
+44,The Blind Side,100238841,0,http://www.nytimes.com/2009/11/20/movies/20blindside.html
+45,"I, Robot",95123749,0,http://www.nytimes.com/movie/review?res=9A06E6DC143AF935A25754C0A9629C8B63
+46,Casino Royale,94053658,0,http://www.nytimes.com/2006/11/17/movies/17roya.html
+47,How to Train Your Dragon,92135916,0,http://www.nytimes.com/2010/03/26/movies/26howto.html
+48,Transformers: The Last Knight,89978528,0,http://www.nytimes.com/2017/06/20/movies/transformers-the-last-knight-review.html
+49,Ready Player One,89702828,0,http://www.nytimes.com/2018/03/28/movies/ready-player-one-review-steven-spielberg.html
+50,Prometheus,89370301,0,http://www.nytimes.com/2012/06/08/movies/prometheus-by-ridley-scott-with-noomi-rapace.html
+51,Scary Movie,89096449,0,http://www.nytimes.com/movie/review?res=9C02EFDB1F39F934A35754C0A9669C8B63
+52,Fifty Shades Darker,88972715,0,http://www.nytimes.com/2017/02/09/movies/review-fifty-shades-darker-dakota-johnson.html
+53,Valentine's Day,86927385,0,http://www.nytimes.com/2010/02/12/movies/12valentine.html
+54,Jackass 3D,86861041,0,http://www.nytimes.com/2010/10/15/movies/15jackass.html
+55,Into the Woods,86557147,1,http://www.nytimes.com/2014/12/25/movies/into-the-woods-disneys-take-on-the-sondheim-lapine-classic.html
+56,Django Unchained,86269377,1,http://www.nytimes.com/2012/12/25/movies/quentin-tarantinos-django-unchained-stars-jamie-foxx.html
+57,Taken 2,86131979,0,http://www.nytimes.com/2012/10/05/movies/taken-2-directed-by-olivier-megaton.html
+58,The Village,85612284,0,http://www.nytimes.com/movie/review?res=9D0DE1D7103DF933A05754C0A9629C8B63
+59,The Nun,85114588,0,http://www.nytimes.com/2018/09/05/movies/the-nun-review.html
+60,The Vow,84991914,0,http://www.nytimes.com/2012/02/10/movies/the-vow-with-rachel-mcadams-and-channing-tatum.html
+61,Catch Me if You Can,82891511,1,http://www.nytimes.com/movie/review?res=9C00E1D7123CF936A15751C1A9649C8B63
+62,Angels & Demons,81832529,0,http://www.nytimes.com/2009/05/15/movies/15ange.html
+63,Tangled,80108319,1,http://www.nytimes.com/2010/11/24/movies/24tangled.html
+64,Click,78436992,0,http://www.nytimes.com/2006/06/23/movies/23clic.html
+65,Safe House,77911190,0,http://www.nytimes.com/2012/02/10/movies/safe-house-with-denzel-washington-and-ryan-reynolds.html
+66,The Fast and the Furious,77869960,0,http://www.nytimes.com/movie/review?res=9401E2D61630F931A15755C0A9679C8B63
+67,Fifty Shades Freed,76499000,0,http://www.nytimes.com/2018/02/08/movies/fifty-shades-freed-review-jamie-dornan-dakota-johnson.html
+68,Over the Hedge,76119386,0,http://www.nytimes.com/2006/05/19/movies/19hedg.html
+69,The Cat in the Hat,75830805,0,http://www.nytimes.com/movie/review?res=9F02E7DB143BF932A15752C1A9659C8B63
+70,Puss in Boots,75527682,0,http://www.nytimes.com/2011/10/28/movies/puss-in-boots-with-antonio-banderas-review.html
+71,Mr. Deeds,73613421,0,http://www.nytimes.com/movie/review?res=9C0DE3D7123EF93BA15755C0A9649C8B63
+72,Magic Mike,72829107,1,http://www.nytimes.com/2012/06/29/movies/magic-mike-by-steven-soderbergh-with-channing-tatum.html
+73,District 9,72804317,1,http://www.nytimes.com/2009/08/14/movies/14district.html
+74,Noah,72386905,0,http://www.nytimes.com/2014/03/28/movies/russell-crowe-confronts-lifes-nasty-weather-in-noah.html
+75,Ocean's Eleven,72310000,1,http://www.nytimes.com/movie/review?res=9F03E5D8123CF934A35751C1A9679C8B63
+76,Bee Movie,71779597,0,http://www.nytimes.com/2007/11/02/movies/02bee.html
+77,Sully,70194368,1,http://www.nytimes.com/2016/09/09/movies/sully-review.html
+78,Wonder,69807297,1,http://www.nytimes.com/2017/11/16/movies/wonder-review-jacob-tremblay-julia-roberts-owen-wilson.html
+79,Kung Fu Panda 3,69293138,0,http://www.nytimes.com/2016/01/29/movies/bryan-cranston-jack-black-kung-fu-panda-3-review.html
+80,Spy Kids 3-D: Game Over,68505515,0,http://www.nytimes.com/movie/review?res=9F02E1DD123FF936A15754C0A9659C8B63
+81,The Angry Birds Movie,66422800,0,http://www.nytimes.com/2016/05/20/movies/-the-angry-birds-movie-review.html
+82,Rampage,65694360,0,http://www.nytimes.com/2018/04/11/movies/rampage-review-dwayne-johnson.html
+83,Paranormal Activity 2,65665972,0,http://www.nytimes.com/2010/10/23/movies/23para.html
+84,Epic,65377491,0,http://www.nytimes.com/2013/05/24/movies/epic-directed-by-chris-wedge.html
+85,The Expendables,65357117,0,http://www.nytimes.com/2010/08/13/movies/13expendables.html
+86,Sweet Home Alabama,65334029,0,http://www.nytimes.com/movie/review?res=9E0DE6D71139F934A1575AC0A9649C8B63
+87,Girls Trip,65085525,0,http://www.nytimes.com/2017/07/19/movies/girls-trip-review-dargis-queen-latifah-regina-hall-tiffany-haddish-jada-pinkett-smith.html
+88,Madea Goes To Jail,64525548,0,http://www.nytimes.com/2009/02/21/movies/21made.html
+89,The Good Dinosaur,63826024,1,http://www.nytimes.com/2015/11/25/movies/review-the-good-dinosaur-pixar-human-and-apatosaurus.html
+90,The Devil Wears Prada,63110544,0,http://www.nytimes.com/2006/06/30/movies/30devi.html
+91,The Green Hornet,63018808,0,http://www.nytimes.com/2011/01/14/movies/14green.html
+92,Couples Retreat,62617735,0,http://www.nytimes.com/2009/10/09/movies/09couples.html
+93,The Sum of All Fears,62314003,0,http://www.nytimes.com/movie/review?res=9D05E6DF163AF932A05756C0A9649C8B63
+94,Jackass Presents: Bad Grandpa,61568639,0,http://www.nytimes.com/2013/10/25/movies/jackass-presents-bad-grandpa-with-more-pranks.html
+95,The Magnificent Seven,61532784,0,http://www.nytimes.com/2016/09/23/movies/magnificent-seven-review-denzel-washington.html
+96,The Scorpion King,61313785,0,http://www.nytimes.com/movie/review?res=9C05E5DE143FF93AA25757C0A9649C8B63
+97,Bringing Down the House,61287160,0,http://www.nytimes.com/movie/review?res=9E0CE0DD133FF934A35750C0A9659C8B63
+98,Blade Runner 2049,60970631,0,http://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html
+99,The Book of Eli,60735686,0,http://www.nytimes.com/2010/01/15/movies/15eli.html
+100,Horrible Bosses,60149603,0,http://www.nytimes.com/2011/07/08/movies/horrible-bosses-with-jason-bateman-review.html
+101,Bad Teacher,59952563,0,http://www.nytimes.com/2011/06/24/movies/cameron-diaz-in-bad-teacher-review.html
+102,Bridesmaids,59341310,1,http://www.nytimes.com/2011/05/13/movies/bridesmaids-with-kristen-wiig-maya-rudolph-review.html
+103,Terminator: Genisys,59024288,0,http://www.nytimes.com/2015/07/01/movies/review-terminator-genisys-shows-that-arnold-schwarzenegger-is-most-assuredly-back.html
+104,Due Date,58897308,0,http://www.nytimes.com/2010/11/05/movies/05due.html
+105,Norbit,58858009,0,http://www.nytimes.com/2007/02/09/movies/09norb.html
+106,Crazy Rich Asians,58829051,0,http://www.nytimes.com/2018/08/14/movies/crazy-rich-asians-review.html
+107,Wrath of the Titans,58614212,0,http://www.nytimes.com/2012/03/30/movies/wrath-of-the-titans-starring-sam-worthington.html
+108,Ride Along 2,58606090,0,http://www.nytimes.com/2016/01/15/movies/review-ride-along-2-reloads-twin-barrels-of-ice-cube-and-kevin-hart.html
+109,Ted 2,58500630,0,http://www.nytimes.com/2015/06/26/movies/review-in-ted-2-the-foulmouthed-bear-tries-to-prove-hes-human.html
+110,The Help,57160712,0,http://www.nytimes.com/2011/08/10/movies/the-help-spans-two-worlds-white-and-black-review.html
+111,Edge of Tomorrow,57001698,0,http://www.nytimes.com/2014/06/06/movies/tom-cruise-battles-invaders-in-edge-of-tomorrow.html
+112,The Departed,56985185,1,http://www.nytimes.com/2006/10/06/movies/06depa.html
+113,Beowulf,56633821,0,http://www.nytimes.com/2007/11/16/movies/16beow.html
+114,Erin Brockovich,55854440,0,http://www.nytimes.com/movie/review?res=9805EED8163AF934A25750C0A9669C8B63
+115,He's Just Not That Into You,54986933,0,http://www.nytimes.com/2009/02/06/movies/06into.html
+116,The Pursuit of Happyness,53300000,0,http://www.nytimes.com/2006/12/15/movies/15happ.html
+117,John Carter,53227248,0,http://www.nytimes.com/2012/03/09/movies/john-carter-with-taylor-kitsch-and-lynn-collins.html
+118,Non-Stop,52568530,0,http://www.nytimes.com/2014/02/28/movies/non-stop-with-liam-neeson-lives-up-to-its-title.html
+119,Collateral,52560520,1,http://www.nytimes.com/movie/review?res=9800E4DE123CF935A3575BC0A9629C8B63
+120,Beverly Hills Chihuahua,52532310,0,http://www.nytimes.com/2008/10/03/movies/03chih.html
+121,The Princess Diaries,52092481,0,http://www.nytimes.com/movie/review?res=9E04E4D9143CF930A3575BC0A9679C8B63
+122,The Purge: Anarchy,51858905,0,http://www.nytimes.com/2014/07/18/movies/the-purge-anarchy-with-zach-gilford.html
+123,Murder on the Orient Express,51735924,0,http://www.nytimes.com/2017/11/08/movies/murder-on-the-orient-express-review-kenneth-branagh.html
+124,The Campaign,51435826,0,http://www.nytimes.com/2012/08/10/movies/the-campaign-starring-will-ferrell-and-zach-galifianakis.html
+125,Cats & Dogs,50701500,0,http://www.nytimes.com/movie/review?res=9803E4DC1E39F937A35754C0A9679C8B63
+126,Christopher Robin,50549374,0,http://www.nytimes.com/2018/08/02/movies/christopher-robin-review-ewan-mcgregor.html
+127,The A-Team,50427588,0,http://www.nytimes.com/2010/06/11/movies/11ateam.html
+128,Saw IV,50398835,0,http://www.nytimes.com/2007/10/27/movies/27saw.html
+129,The Best Man Holiday,50360510,0,http://www.nytimes.com/2013/11/15/movies/the-best-man-holiday-a-sequel-about-former-college-friends.html
+130,Brüno,49533475,0,http://www.nytimes.com/2009/07/10/movies/10bruno.html
+131,A Good Day to Die Hard,49354464,0,http://www.nytimes.com/2013/02/14/movies/a-good-day-to-die-hard-with-bruce-willis.html
+132,"Me, Myself & Irene",49190000,0,http://www.nytimes.com/movie/review?res=9406E6DF1F31F930A15755C0A9669C8B63
+133,The Emoji Movie,49107113,0,http://www.nytimes.com/2017/07/27/movies/the-emoji-movie-review.html
+134,Date Night,48666799,0,http://www.nytimes.com/2010/04/09/movies/09date.html
+135,Tammy,48512069,0,http://www.nytimes.com/2014/07/02/movies/in-tammy-melissa-mccarthy-hits-the-road.html
+136,A Nightmare on Elm Street,48479560,0,http://www.nytimes.com/2010/04/30/movies/30nightmare.html
+137,Peter Rabbit,48478749,0,http://www.nytimes.com/2018/02/08/movies/peter-rabbit-review.html
+138,Think Like a Man Too,48084757,0,http://www.nytimes.com/2014/06/20/movies/think-like-a-man-too-the-wedding-full-of-partying.html
+139,Madea's Family Reunion,47748243,0,http://www.nytimes.com/2006/02/25/movies/25made.html
+140,The Other Woman,47552736,0,http://www.nytimes.com/2014/04/25/movies/the-other-woman-stars-cameron-diaz-and-leslie-mann.html
+141,Skyscraper,47149150,0,http://www.nytimes.com/2018/07/11/movies/skyscraper-review-dwayne-johnson.html
+142,Obsessed,46854785,0,http://www.nytimes.com/2009/04/25/movies/25obse.html
+143,Bridge to Terabithia,46805679,1,http://www.nytimes.com/2007/02/16/movies/16tera.html
+144,Dinner for Schmucks,46620949,0,http://www.nytimes.com/2010/07/30/movies/30dinner.html
+145,Save the Last Dance,46238231,0,http://www.nytimes.com/movie/review?res=9901E7DC1F3AF931A25752C0A9679C8B63
+146,Knowing,46217199,0,http://www.nytimes.com/2009/03/20/movies/20know.html
+147,The Social Network,46021161,1,http://www.nytimes.com/2010/09/24/movies/24nyffsocial.html
+148,Pixels,45714520,0,http://www.nytimes.com/2015/07/24/movies/review-in-pixels-attack-of-the-retro-video-games.html
+149,War Horse,45656074,1,http://www.nytimes.com/2011/12/23/movies/war-horse-directed-by-steven-spielberg-review.html
+150,10 Cloverfield Lane,45183178,1,http://www.nytimes.com/2016/03/11/movies/10-cloverfield-lane-review.html
+151,Act of Valor,45111924,0,http://www.nytimes.com/2012/02/24/movies/act-of-valor-starring-navy-seal-members.html
+152,Dawn of the Dead,44220945,0,http://www.nytimes.com/movie/review?res=9A06EED61231F93AA25750C0A9629C8B63
+153,The Monuments Men,44144157,0,http://www.nytimes.com/2014/02/07/movies/clooney-and-company-hunt-for-treasures-in-monuments-men.html
+154,Total Recall,44101432,0,http://www.nytimes.com/2012/08/03/movies/movie-review-total-recall-with-colin-farrell.html
+155,The Taking of Pelham 123,44067224,1,http://www.nytimes.com/2009/06/12/movies/12pelham.html
+156,Monster House,44035290,1,http://www.nytimes.com/2006/07/21/movies/21mons.html
+157,Arrival,43709470,1,http://www.nytimes.com/2016/11/11/movies/arrival-review-amy-adams-jeremy-renner.html
+158,The First Purge,43399745,0,http://www.nytimes.com/2018/07/03/movies/the-first-purge-review.html
+159,Paul Blart: Mall Cop 2,43224910,0,http://www.nytimes.com/2015/04/18/movies/review-paul-blart-mall-cop-2-starring-kevin-james-heads-to-las-vegas.html
+160,The Game Plan,43158823,0,http://www.nytimes.com/2007/09/28/movies/28game.html
+161,Two Weeks Notice,43044430,0,http://www.nytimes.com/movie/review?res=9A00E2D6103DF933A15751C1A9649C8B63
+162,Argo,43011964,1,http://www.nytimes.com/2012/10/12/movies/argo-directed-by-ben-affleck.html
+163,Heaven is for Real,42167023,0,http://www.nytimes.com/2014/04/16/movies/heaven-is-for-real-stars-greg-kinnear.html
+164,Jackass: The Movie,42121857,0,http://www.nytimes.com/movie/review?res=9C0CEFD6113CF935A15753C1A9649C8B63
+165,The Omen,41547205,0,http://www.nytimes.com/2006/06/06/movies/06omen.html
+166,The Predator,40911581,0,http://www.nytimes.com/2018/09/13/movies/the-predator-review.html
+167,Madea's Big Happy Family,40891043,0,http://www.nytimes.com/2011/04/25/movies/madea-big-happy-family-with-tyler-perry-review.html
+168,Vantage Point,40823745,0,http://www.nytimes.com/2008/02/22/movies/22vant.html
+169,We Were Soldiers,40552286,0,http://www.nytimes.com/movie/review?res=9900E6DD1331F932A35750C0A9649C8B63
+170,The Adventures of Tintin,40444234,0,http://www.nytimes.com/2011/12/21/movies/the-adventures-of-tintin-by-steven-spielberg-review.html
+171,The Boss,40140765,0,http://www.nytimes.com/2016/04/08/movies/the-boss-review-melissa-mccarthy.html
+172,Chronicle,39959856,0,http://www.nytimes.com/2012/02/03/movies/dane-dehaan-in-chronicle-directed-by-josh-trank.html
+173,The Time Machine,39936148,0,http://www.nytimes.com/movie/review?res=9E07E3D91330F93BA35750C0A9649C8B63
+174,17 Again,39823333,0,http://www.nytimes.com/2009/04/17/movies/17seve.html
+175,John Q,39804238,0,http://www.nytimes.com/movie/review?res=9803EED7143FF936A25751C0A9649C8B63
+176,Jack Reacher: Never Go Back,39769924,0,http://www.nytimes.com/2016/10/21/movies/jack-reacher-never-go-back-review-tom-cruise.html
+177,Project X,39717098,1,http://www.nytimes.com/2012/03/02/movies/project-x-from-nima-nourizadeh.html
+178,Life of Pi,39683510,0,http://www.nytimes.com/2012/11/21/movies/life-of-pi-directed-by-ang-lee.html
+179,No Strings Attached,39502304,0,http://www.nytimes.com/2011/01/21/movies/21nostringsattached.html
+180,Baywatch,39496491,0,http://www.nytimes.com/2017/05/24/movies/baywatch-review-zac-efron-dwayne-johnson.html
+181,The Family Man,39170330,0,http://www.nytimes.com/movie/review?res=9400E2D71F39F931A15751C1A9669C8B63
+182,The Stepford Wives,39016446,0,http://www.nytimes.com/movie/review?res=9A0DE2DA1430F932A25755C0A9629C8B63
+183,The BFG,38944146,0,http://www.nytimes.com/2016/07/01/movies/the-bfg-review-steven-spielberg-mark-rylance.html
+184,Exodus: Gods and Kings,38942192,0,http://www.nytimes.com/2014/12/12/movies/exodus-gods-and-kings-ridley-scotts-biblical-drama.html
+185,Snow Dogs,38811967,0,http://www.nytimes.com/movie/review?res=9400EFDF1E38F93BA25752C0A9649C8B63
+186,The Adjustment Bureau,38589595,1,http://www.nytimes.com/2011/03/04/movies/04adjust.html
+187,Prisoners,38549194,0,http://www.nytimes.com/2013/09/20/movies/prisoners-stars-hugh-jackman-and-jake-gyllenhaal.html
+188,The Bounty Hunter,38418433,0,http://www.nytimes.com/2010/03/19/movies/19bounty.html
+189,Rise of the Guardians,38418097,0,http://www.nytimes.com/2012/11/21/movies/in-rise-of-the-guardians-childhood-naivete-wins.html
+190,I Can Do Bad All By Myself,37749545,0,http://www.nytimes.com/2009/09/12/movies/12tyler.html
+191,Hotel for Dogs,37455759,0,http://www.nytimes.com/2009/01/16/movies/16dogs.html
+192,Blockers,37403980,0,http://www.nytimes.com/2018/04/05/movies/blockers-review.html
+193,Takers,37327557,0,http://www.nytimes.com/2010/08/27/movies/27takers.html
+194,The Strangers,37298770,1,http://www.nytimes.com/2008/05/30/movies/30stra.html
+195,The Haunting in Connecticut,37171280,0,http://www.nytimes.com/2009/03/27/movies/27haun.html
+196,The Time Traveler's Wife,37165676,0,http://www.nytimes.com/2009/08/14/movies/14time.html
+197,Me Before You,36650841,0,http://www.nytimes.com/2016/06/03/movies/me-before-you-review.html
+198,Déjà Vu,36505755,0,http://www.nytimes.com/2006/11/22/movies/22deja.html
+199,Warm Bodies,36481172,0,http://www.nytimes.com/2013/02/01/movies/warm-bodies-written-and-directed-by-jonathan-levine.html
+200,This is 40,36431350,0,http://www.nytimes.com/2012/12/21/movies/this-is-40-from-judd-apatow-and-starring-paul-rudd.html
+201,Holes,36378174,1,http://www.nytimes.com/movie/review?res=9B0CEFD7163AF93BA25757C0A9659C8B63
+202,The Shaggy Dog,35635419,0,http://www.nytimes.com/movie/review?res=9A05E3DB1038EF3BBC4851DFB5668382649EDE
+203,Forgetting Sarah Marshall,35090955,0,http://www.nytimes.com/2008/04/18/movies/18forg.html
+204,The Good Shepherd,35066495,0,http://www.nytimes.com/2006/12/22/movies/22shep.html
+205,Coraline,35019078,1,http://www.nytimes.com/2009/02/06/movies/06cora.html
+206,Stuart Little 2,34724638,1,http://www.nytimes.com/movie/review?res=9802EED91039F93AA25754C0A9649C8B63
+207,Kick-Ass,34708222,0,http://www.nytimes.com/2010/04/16/movies/16kick.html
+208,Assassin’s Creed,34151741,0,http://www.nytimes.com/2016/12/20/movies/assassins-creed-review-michael-fassbender.html
+209,Along Came a Spider,33901508,0,http://www.nytimes.com/movie/review?res=9A0CEFD7143EF935A35757C0A9679C8B63
+210,Last Vegas,33467006,0,http://www.nytimes.com/2013/11/01/movies/last-vegas-stars-de-niro-freeman-douglas-and-kline.html
+211,Just Married,33428852,0,http://www.nytimes.com/movie/review?res=9D05E1D6113EF933A25752C0A9659C8B63
+212,Percy Jackson: Sea of Monsters,33079089,0,http://www.nytimes.com/2013/08/07/movies/percy-jackson-sea-of-monsters-with-logan-lerman.html
+213,Secret Window,32775496,0,http://www.nytimes.com/movie/review?res=9A07E5DB133EF931A25750C0A9629C8B63
+214,Changing Lanes,32761402,0,http://www.nytimes.com/movie/review?res=9D02EEDB163CF931A25757C0A9649C8B63
+215,Year One,32529560,1,http://www.nytimes.com/2009/06/19/movies/19year.html
+216,Water for Elephants,32480214,0,http://www.nytimes.com/2011/04/22/movies/reese-witherspoon-in-water-for-elephants-review.html
+217,The Shack,32226242,0,http://www.nytimes.com/2017/03/02/movies/the-shack-review-sam-worthington-octavia-spencer.html
+218,The Others,32168706,0,http://www.nytimes.com/movie/review?res=9C0DE7DF153FF933A2575BC0A9679C8B63
+219,The Boxtrolls,32093796,0,http://www.nytimes.com/2014/09/26/movies/the-boxtrolls-is-an-adaptation-of-here-be-monsters.html
+220,The One,31910000,0,http://www.nytimes.com/2011/10/07/movies/the-one-a-coming-out-film-by-caytha-jentis-review.html
+221,Notorious,31874538,0,http://www.nytimes.com/2009/01/16/movies/16noto.html
+222,Southpaw,31675168,0,http://www.nytimes.com/2015/07/24/movies/review-in-southpaw-jake-gyllenhaal-tries-to-box-his-way-back-from-tragedy.html
+223,Premonition,31653484,0,http://www.nytimes.com/2007/03/16/movies/16prem.html
+224,K-PAX,31530000,0,http://www.nytimes.com/movie/review?res=9E07E2DB1331F935A15753C1A9679C8B63
+225,Ghost in the Shell,31529863,0,http://www.nytimes.com/2017/03/30/movies/ghost-in-the-shell-review-scarlett-johansson.html
+226,Mona Lisa Smile,31226270,0,http://www.nytimes.com/movie/review?res=9C0CE0DD173FF93AA25751C1A9659C8B63
+227,The Internship,31099912,0,http://www.nytimes.com/2013/06/07/movies/the-internship-with-vince-vaughn-and-owen-wilson.html
+228,Life of the Party,30915357,0,http://www.nytimes.com/2018/05/10/movies/life-of-the-party-review-melissa-mccarthy.html
+229,American Made,30818675,0,http://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html
+230,For Colored Girls,30687468,1,http://www.nytimes.com/2010/11/05/movies/05for.html
+231,Identity,30187230,0,http://www.nytimes.com/movie/review?res=9907E5DB163DF936A15757C0A9659C8B63
+232,Uncle Drew,29930263,0,http://www.nytimes.com/2018/06/28/movies/uncle-drew-review-kyrie-irving.html
+233,Rambo,29918795,0,http://www.nytimes.com/2008/01/25/movies/25ramb.html
+234,Gangs of New York,29873147,1,http://www.nytimes.com/movie/review?res=9E06E4D8103DF933A15751C1A9649C8B63
+235,The Recruit,29822115,0,http://www.nytimes.com/movie/review?res=9A07E3D71F39F932A05752C0A9659C8B63
+236,Sucker Punch,29811118,0,http://www.nytimes.com/2011/03/25/movies/sucker-punch-from-zack-snyder-review.html
+237,Catwoman,29776003,0,http://www.nytimes.com/movie/review?res=9804EEDD1E3AF931A15754C0A9629C8B63
+238,I Feel Pretty,29620318,0,http://www.nytimes.com/2018/04/19/movies/i-feel-pretty-review-amy-schumer.html
+239,Open Range,29317253,0,http://www.nytimes.com/movie/review?res=9F02E1D71630F936A2575BC0A9659C8B63
+240,Reign of Fire,29246331,0,http://www.nytimes.com/movie/review?res=9C06E4D81330F931A25754C0A9649C8B63
+241,The Prestige,28780742,1,http://www.nytimes.com/2006/10/20/movies/20pres.html
+242,Welcome Home Roscoe Jenkins,28738605,0,http://www.nytimes.com/2008/02/08/movies/08rosc.html
+243,Krampus,28564085,0,http://www.nytimes.com/2015/12/04/movies/review-in-krampus-the-holiday-involves-a-demonic-santa.html
+244,Righteous Kill,28534233,0,http://www.nytimes.com/2008/09/12/movies/12righ.html
+245,The Whole Nine Yards,28444377,0,http://www.nytimes.com/movie/review?res=9404EEDC1131F93BA25751C0A9669C8B63
+246,Rock of Ages,28418621,0,http://www.nytimes.com/2012/06/15/movies/review-rock-of-ages-a-musical-starring-tom-cruise.html
+247,Apocalypto,28209532,0,http://www.nytimes.com/2006/12/08/movies/08apoc.html
+248,Miracles from Heaven,27937876,0,http://www.nytimes.com/2016/03/16/movies/review-miracles-from-heaven-starring-jennifer-garner-as-the-mother-of-a-sick-child.html
+249,Final Destination 2,27876495,0,http://www.nytimes.com/movie/review?res=9903E4D81F39F932A05752C0A9659C8B63
+250,The Beach,27663000,0,http://www.nytimes.com/movie/review?res=9C00EFDE103EF932A25751C0A9669C8B63
+251,John Wick,27533170,1,http://www.nytimes.com/2014/10/24/movies/in-john-wick-keanu-reeves-as-an-avenger.html
+252,The Crazies,27472164,0,http://www.nytimes.com/2010/02/26/movies/26crazies.html
+253,The Tale of Despereaux,27448085,0,http://www.nytimes.com/2008/12/19/movies/19tale.html
+254,Jersey Boys,27444750,0,http://www.nytimes.com/2014/06/20/movies/jersey-boys-eastwoods-take-on-showbiz-myth.html
+255,Jeepers Creepers II,27282853,0,http://www.nytimes.com/movie/review?res=9C07EED81E39F93AA1575BC0A9659C8B63
+256,Peter Pan: Return to Neverland,27266300,0,http://www.nytimes.com/movie/review?res=980DE3D7143FF936A25751C0A9649C8B63
+257,Enough,27148463,0,http://www.nytimes.com/movie/review?res=9D00E0DB1F38F937A15756C0A9649C8B63
+258,Money Monster,27040531,0,http://www.nytimes.com/2016/05/13/movies/review-in-money-monster-review-george-clooney-julia-roberts-jodie-foster.html
+259,Showtime,26803761,0,http://www.nytimes.com/movie/review?res=9A05EFD81039F936A25750C0A9649C8B63
+260,Insidious,26728357,0,http://www.nytimes.com/2011/04/01/movies/insidious-directed-by-james-wan-review.html
+261,Serendipity,26400000,0,http://www.nytimes.com/movie/review?res=9903E7DD163CF936A35753C1A9679C8B63
+262,Next Friday,26202000,0,http://www.nytimes.com/movie/review?res=9A0CEFDF163AF931A25752C0A9669C8B63
+263,American Assassin,26185076,0,http://www.nytimes.com/2017/09/14/movies/american-assassin-review-michael-keaton.html
+264,Domestic Disturbance,26180000,0,http://www.nytimes.com/movie/review?res=9B05E5DD1130F931A35752C1A9679C8B63
+265,Australia,26117522,0,http://www.nytimes.com/2008/11/26/movies/26aust.html
+266,End of Watch,25980710,0,http://www.nytimes.com/2012/09/21/movies/end-of-watch-with-jake-gyllenhaal-and-michael-pena.html
+267,Blow,25913942,0,http://www.nytimes.com/movie/review?res=9D01E1DE153EF935A35757C0A9679C8B63
+268,The Roommate,25778926,0,http://www.nytimes.com/2011/02/04/movies/roundup2.html
+269,Jumping the Broom,25760004,0,http://www.nytimes.com/2011/05/06/movies/jumping-the-broom-with-angela-bassett-review.html
+270,Duplicity,25754865,1,http://www.nytimes.com/2009/03/20/movies/20dupl.html
+271,Good Boy!,25713653,0,http://www.nytimes.com/movie/review?res=9D01E0DC143FF933A25753C1A9659C8B63
+272,Lakeview Terrace,25667507,0,http://www.nytimes.com/2008/09/19/movies/19terr.html
+273,The Watch,25541118,0,http://www.nytimes.com/2012/07/27/movies/the-watch-with-ben-stiller-and-vince-vaughn.html
+274,Max,25378166,0,http://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html
+275,The 15:17 to Paris,25333732,0,http://www.nytimes.com/2018/02/07/movies/the-1517-to-paris-review-clint-eastwood.html
+276,Bridget Jones's Diary,25316000,1,http://www.nytimes.com/movie/review?res=9F04E2DB1531F930A25757C0A9679C8B63
+277,Concussion,25266650,0,http://www.nytimes.com/2015/12/25/movies/review-in-concussion-a-doctors-cri-de-coeur-against-footballs-risks.html
+278,Head of State,25160246,0,http://www.nytimes.com/movie/review?res=9C0DE5D81E30F93BA15750C0A9659C8B63
+279,The Holiday,25125052,0,http://www.nytimes.com/2006/12/08/movies/08holi.html
+280,Stealth,24581921,0,http://www.nytimes.com/2005/07/29/movies/traveling-to-exotic-places-and-blowing-things-to-bits.html
+281,The Spy Who Dumped Me,24422997,0,http://www.nytimes.com/2018/08/01/movies/the-spy-who-dumped-me-review.html
+282,The Punisher,24167233,0,http://www.nytimes.com/movie/review?res=9E0CE7DD153BF935A25757C0A9629C8B63
+283,Raising Helen,24064716,0,http://www.nytimes.com/movie/review?res=980DE4D6133EF93BA15756C0A9629C8B63
+284,Runaway Jury,24057433,0,http://www.nytimes.com/movie/review?res=9A06E2D6173EF934A25753C1A9659C8B63
+285,The Last House on the Left,23902420,1,http://www.nytimes.com/2009/03/13/movies/13left.html
+286,Death Wish,23856431,0,http://www.nytimes.com/2018/03/01/movies/review-death-wish-eli-roth-bruce-willis.html
+287,Malibu's Most Wanted,23840528,0,http://www.nytimes.com/movie/review?res=9A01EFD7163AF93BA25757C0A9659C8B63
+288,Priest,23833169,0,http://www.nytimes.com/2011/05/14/movies/priest-review.html
+289,Rugrats Go Wild,23800967,0,http://www.nytimes.com/movie/review?res=9C06E4D81F39F930A25755C0A9659C8B63
+290,The Hundred-Foot Journey,23686223,0,http://www.nytimes.com/2014/08/08/movies/in-the-hundred-foot-journey-kitchen-wars-break-out.html
+291,Zodiac,23595973,1,http://www.nytimes.com/2007/03/02/movies/02zodi.html
+292,Nerve,23592198,0,http://www.nytimes.com/2016/07/27/movies/nerve-review-emma-roberts.html
+293,"Love, Simon",23503052,0,http://www.nytimes.com/2018/03/15/movies/love-simon-review.html
+294,Charlie St. Cloud,23496620,0,http://www.nytimes.com/2010/07/30/movies/30charlie.html
+295,The Ladykillers,23482792,0,http://www.nytimes.com/movie/review?res=9401E2DB1230F935A15750C0A9629C8B63
+296,Trouble with the Curve,23473347,0,http://www.nytimes.com/2012/09/21/movies/trouble-with-the-curve-with-clint-eastwood-and-amy-adams.html
+297,Fist Fight,23446175,0,http://www.nytimes.com/2017/02/16/movies/fist-fight-review-ice-cube-charlie-day.html
+298,BlacKkKlansman,23392685,1,http://www.nytimes.com/2018/08/09/movies/blackkklansman-review-spike-lee.html
+299,The Age of Adaline,23377371,0,http://www.nytimes.com/2015/04/24/movies/review-the-age-of-adaline-coasts-through-the-decades.html
+300,Hanna,23282858,0,http://www.nytimes.com/2011/04/08/movies/hanna-with-eric-bana-and-saoirse-ronan-review.html
+301,Death Race,23154165,1,http://www.nytimes.com/2008/08/22/movies/22race.html
+302,Here Comes the Boom,23131529,0,http://www.nytimes.com/2012/10/12/movies/kevin-james-in-here-comes-the-boom.html
+303,License to Wed,23068452,0,http://www.nytimes.com/2007/07/03/movies/03wed.html
+304,Gods of Egypt,23046411,0,http://www.nytimes.com/2016/02/26/movies/gods-of-egypt-review.html
+305,The Men Who Stare at Goats,23038050,0,http://www.nytimes.com/2009/11/06/movies/06themen.html
+306,Entourage,22927918,0,http://www.nytimes.com/2015/06/03/movies/review-entourage-the-screen-is-bigger-but-nothing-is-better.html
+307,40 Days and 40 Nights,22825390,0,http://www.nytimes.com/movie/review?res=9504E7DE1331F932A35750C0A9649C8B63
+308,Mother’s Day,22806766,0,http://www.nytimes.com/2016/04/29/movies/mothers-day-review.html
+309,Scary Movie 5,22798176,0,http://www.nytimes.com/2013/04/13/movies/scary-movie-v-starring-ashley-tisdale.html
+310,Dan in Real Life,22695653,0,http://www.nytimes.com/2007/10/26/movies/26dan.html
+311,When the Bough Breaks,22655858,0,http://www.nytimes.com/2016/09/10/movies/review-when-the-bough-breaks-blame-a-scary-pregnancy-surrogate.html
+312,Crimson Peak,22557300,0,http://www.nytimes.com/2015/10/16/movies/crimson-peak-a-guillermo-del-toro-gothic-romance-in-high-bloody-style.html
+313,Lincoln,22468242,1,http://www.nytimes.com/2012/11/09/movies/lincoln-by-steven-spielberg-stars-daniel-day-lewis.html
+314,Point Break,22402176,0,http://www.nytimes.com/2015/12/26/movies/review-point-break-an-x-games-remake.html
+315,Life,22296006,0,http://www.nytimes.com/2017/03/23/movies/life-review-jake-gyllenhaal-ryan-reynolds.html
+316,Marmaduke,22285540,0,http://www.nytimes.com/2010/06/04/movies/04marmaduke.html
+317,House at the End of the Street,22193316,0,http://www.nytimes.com/2012/09/22/movies/the-house-at-the-end-of-the-street-with-jennifer-lawrence.html
+318,Arthur,22163757,0,http://www.nytimes.com/2011/04/08/movies/arthur-with-russell-brand-helen-mirren-review.html
+319,The Star,22088115,0,http://www.nytimes.com/movie/review?res=940DE7DC1F3AE53ABC4151DFB7668388649EDE
+320,Hannibal Rising,22080446,0,http://www.nytimes.com/2007/02/09/movies/09hann.html
+321,"McFarland, USA",22019186,0,http://www.nytimes.com/2015/02/20/movies/review-in-mcfarland-usa-kevin-costner-coaches-cross-country-runners.html
+322,Pitch Perfect,21693038,0,http://www.nytimes.com/2012/09/28/movies/pitch-perfect-starring-anna-kendrick.html
+323,Hollywood Homicide,21562893,0,http://www.nytimes.com/movie/review?res=9D04E5D81E39F930A25755C0A9659C8B63
+324,The Eye,21418982,0,http://www.nytimes.com/2008/02/02/movies/02eye.html
+325,Drive,21417373,0,http://www.nytimes.com/2011/09/16/movies/drive-with-ryan-gosling-review.html
+326,Heartbreakers,21390000,1,http://www.nytimes.com/movie/review?res=980DE5DB173CF930A15750C0A9679C8B63
+327,The Mothman Prophecies,21221640,0,http://www.nytimes.com/movie/review?res=9502E1DC1F3BF936A15752C0A9649C8B63
+328,The Boy,21185304,0,http://www.nytimes.com/2016/01/23/movies/the-boy-review.html
+329,Oculus,21146271,0,http://www.nytimes.com/2014/04/11/movies/in-oculus-from-mike-flanagan-a-mirror-holds-secrets.html
+330,Accepted,20986355,0,http://www.nytimes.com/2006/08/18/movies/18acce.html
+331,Machete,20916709,0,http://www.nytimes.com/2010/09/03/movies/03machete.html
+332,3 Days to Kill,20751696,0,http://www.nytimes.com/2014/02/21/movies/3-days-to-kill-stars-kevin-costner.html
+333,Zack and Miri Make a Porno,20686907,0,http://www.nytimes.com/2008/10/31/movies/31zack.html
+334,"Definitely, Maybe",20626755,0,http://www.nytimes.com/2008/02/14/movies/14maybe.html
+335,Jay and Silent Bob Strike Back,20625847,0,http://www.nytimes.com/movie/review?res=9500E1D71531F937A1575BC0A9679C8B63
+336,The Mountain Between Us,20603873,0,http://www.nytimes.com/2017/10/05/movies/the-mountain-between-us-review-kate-winslet-idris-elba.html
+337,How to Be a Latin Lover,20548224,0,http://www.nytimes.com/2017/04/28/movies/how-to-be-a-latin-lover-review-eugenio-derbez.html
+338,Million Dollar Arm,20503785,0,http://www.nytimes.com/2014/05/16/movies/in-million-dollar-arm-baseball-talent-from-overseas.html
+339,One Missed Call,20493337,0,http://www.nytimes.com/2008/01/05/movies/05miss.html
+340,Breach,20304675,0,http://www.nytimes.com/2007/02/16/movies/16brea.html
+341,Mirrors,20211066,0,http://www.nytimes.com/2008/08/16/movies/16mirr.html
+342,Deck the Halls,20147406,0,http://www.nytimes.com/2006/11/22/movies/22deck.html
+343,The Fighting Temptations,20116473,0,http://www.nytimes.com/movie/review?res=9403E1DC123AF93AA2575AC0A9659C8B63
+344,Basic,20011679,0,http://www.nytimes.com/movie/review?res=9507E7D61E30F93BA15750C0A9659C8B63
+345,The Bye Bye Man,19990285,0,http://www.nytimes.com/2017/01/12/movies/the-bye-bye-man-review.html
+346,Soul Surfer,19865129,0,http://www.nytimes.com/2011/04/08/movies/soul-surfer-is-bethany-hamiltons-shark-tale-review.html
+347,Honey,19776370,0,http://www.nytimes.com/2011/03/25/movies/a-sons-quest-with-nature-as-a-guide.html
+348,The DUFF,19769077,0,http://www.nytimes.com/2015/02/20/movies/in-the-duff-a-wounded-teenage-girl-combats-mockery.html
+349,The Art of War,19710000,0,http://www.nytimes.com/movie/review?res=9B0CE5D71431F936A1575BC0A9669C8B63
+350,We Own the Night,19704516,0,http://www.nytimes.com/2007/10/12/movies/12nigh.html
+351,Run All Night,19639211,0,http://www.nytimes.com/2015/03/13/movies/review-in-run-all-night-liam-neeson-sticks-to-what-works.html
+352,One for the Money,19624266,0,http://www.nytimes.com/2012/01/28/movies/katherine-heigl-in-film-based-on-janet-evanovich-novel.html
+353,Dracula 2000,19593350,0,http://www.nytimes.com/movie/review?res=9B05EFD91738F930A15751C1A9669C8B63
+354,Hugo,19556746,1,http://www.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html
+355,Lawless,19315863,1,http://www.nytimes.com/2017/03/16/movies/song-to-song-review-terrence-malick.html
+356,Hardball,19280569,0,http://www.nytimes.com/movie/review?res=9402E0D71E38F936A2575AC0A9679C8B63
+357,Kidnap,19266106,0,http://www.nytimes.com/2017/08/03/movies/kidnap-review-halle-berry.html
+358,Dance Flick,19084907,0,http://www.nytimes.com/2009/05/22/movies/22flic.html
+359,Kevin Hart: What Now?,18949900,1,http://www.nytimes.com/2016/10/14/movies/kevin-hart-what-now-review.html
+360,The Missing,18900000,0,http://www.nytimes.com/movie/review?res=940DEFDB1F3BF935A15752C1A9659C8B63
+361,Black Knight,18883000,0,http://www.nytimes.com/movie/review?res=9B01EEDF1F3BF932A15752C1A9679C8B63
+362,Blood Diamond,18637257,0,http://www.nytimes.com/2006/12/08/movies/08diam.html
+363,Keeping the Faith,18636000,0,http://www.nytimes.com/movie/review?res=9C0CE3DE113EF937A25757C0A9669C8B63
+364,The Spy Next Door,18544639,0,http://www.nytimes.com/2010/01/15/movies/15spy.html
+365,The Debt,18530443,0,http://www.nytimes.com/2016/07/08/movies/the-debt-review.html
+366,Sinister 2,18526943,0,http://www.nytimes.com/2015/08/21/movies/review-in-sinister-2-a-murderous-being-returns-for-more-mayhem.html
+367,The Strangers: Prey at Night,18503141,0,http://www.nytimes.com/2018/03/08/movies/strangers-prey-at-night-review.html
+368,Murder by Numbers,18362833,0,http://www.nytimes.com/movie/review?res=9404E5DE143FF93AA25757C0A9649C8B63
+369,Piranha 3D,18266889,0,http://www.nytimes.com/2010/08/23/movies/23piranha.html
+370,See Spot Run,17979000,0,http://www.nytimes.com/movie/review?res=9E01E0DC163BF931A35750C0A9679C8B63
+371,15 Minutes,17898000,0,http://www.nytimes.com/movie/review?res=9E05E1D8163AF93AA35750C0A9679C8B63
+372,Frequency,17854723,1,http://www.nytimes.com/movie/review?res=940CE6DA1E30F93BA15757C0A9669C8B63
+373,The Watcher,17376895,0,http://www.nytimes.com/movie/review?res=9A03E3D71539F93BA3575AC0A9669C8B63
+374,The Lazarus Effect,17376740,0,http://www.nytimes.com/2015/02/27/movies/review-in-the-lazarus-effect-young-scientists-play-god.html
+375,Fighting,17344805,0,http://www.nytimes.com/2009/04/24/movies/24figh.html
+376,Winchester,17338575,0,http://www.nytimes.com/2018/02/02/movies/winchester-review-helen-mirren.html
+377,Angel Eyes,17252509,0,http://www.nytimes.com/movie/review?res=9A0CE7DF113AF93BA25756C0A9679C8B63
+378,The International,17031200,0,http://www.nytimes.com/2009/02/13/movies/13inte.html
+379,War,17023846,0,http://www.nytimes.com/2007/08/25/movies/25WAR.html
+380,The Happytime Murders,16998475,0,http://www.nytimes.com/2018/08/22/movies/the-happytime-murders-review-melissa-mccarthy.html
+381,Nanny McPhee Returns,16991285,0,http://www.nytimes.com/2010/08/20/movies/20nanny.html
+382,Beastly,16911633,0,http://www.nytimes.com/2011/03/04/movies/04beast.html
+383,21 and Over,16875359,0,http://www.nytimes.com/2013/03/02/movies/21-over-directed-by-jon-lucas-and-scott-moore.html
+384,Proud Mary,16850600,0,http://www.nytimes.com/2018/01/12/movies/proud-mary-review-taraji-p-henson.html
+385,Conan the Barbarian,16660669,0,http://www.nytimes.com/2011/08/19/movies/conan-the-barbarian-with-jason-momoa-review.html
+386,You Again,16607633,0,http://www.nytimes.com/2010/09/24/movies/24you.html
+387,The Guilt Trip,16574475,0,http://www.nytimes.com/2012/12/19/movies/the-guilt-trip-with-barbra-streisand-and-seth-rogen.html
+388,Hearts in Atlantis,16440000,0,http://www.nytimes.com/movie/review?res=9904E6DA1E3AF93BA1575AC0A9679C8B63
+389,Ramona and Beezus,16375681,0,http://www.nytimes.com/2010/07/23/movies/23ramona.html
+390,Aloha,16282116,0,http://www.nytimes.com/2015/05/29/movies/review-aloha-a-hangout-movie-with-bradley-cooper-and-emma-stone-in-hawaii.html
+391,Gamer,16261653,0,http://www.nytimes.com/2009/09/05/movies/05gamer.html
+392,Courageous,16160032,0,http://www.nytimes.com/2011/10/03/movies/courageous-directed-by-alex-kendrick-review.html
+393,Biker Boyz,16017600,0,http://www.nytimes.com/movie/review?res=9C05E1D61F39F932A05752C0A9659C8B63
+394,The Covenant,15791085,0,http://www.nytimes.com/2006/09/09/movies/09cove.html
+395,"As Above, So Below",15707170,0,http://www.nytimes.com/2014/08/30/movies/as-above-so-below-stars-perdita-weeks.html
+396,Blood Work,15310030,0,http://www.nytimes.com/movie/review?res=9904E6DF173AF93AA3575BC0A9649C8B63
+397,Waist Deep,15300000,0,http://www.nytimes.com/2006/06/23/movies/23wais.html
+398,Haywire,15281962,0,http://www.nytimes.com/2012/01/20/movies/steven-soderberghs-haywire-with-gina-carano-review.html
+399,Free State of Jones,15206221,1,http://www.nytimes.com/2016/06/24/movies/free-state-of-jones-review-matthew-mcconaughey.html
+400,The Eagle,15152683,0,http://www.nytimes.com/2011/02/11/movies/11eagle.html
+401,Apollo 18,14939303,0,http://www.nytimes.com/2011/09/03/movies/apollo-18-directed-by-gonzalo-lopez-gallego-review.html
+402,Looney Tunes: Back in Action,14891610,0,http://www.nytimes.com/movie/review?res=9D0DE4D91438F937A25752C1A9659C8B63
+403,The Three Musketeers,14847237,0,http://www.nytimes.com/2011/10/22/movies/the-three-musketeers-with-christoph-waltz-review.html
+404,Little Black Book,14644825,0,http://www.nytimes.com/movie/review?res=9900E6D6153CF935A3575BC0A9629C8B63
+405,Cold Creek Manor,14642749,0,http://www.nytimes.com/movie/review?res=9A01EFDC123AF93AA2575AC0A9659C8B63
+406,My Best Friend's Girl,14611423,0,http://www.nytimes.com/2008/09/20/movies/20best.html
+407,Chernobyl Diaries,14498221,0,http://www.nytimes.com/2012/05/26/movies/chernobyl-diaries-co-produced-by-oren-peli.html
+408,Dream House,14467490,0,http://www.nytimes.com/2011/10/01/movies/dream-house-with-daniel-craig-and-rachel-weisz-in-review.html
+409,Traitor,14295346,0,http://www.nytimes.com/2008/08/27/movies/27trai.html
+410,The Big Wedding,14216422,0,http://www.nytimes.com/2013/04/26/movies/the-big-wedding-a-farce-with-keaton-and-de-niro.html
+411,Boys and Girls,14193273,0,http://www.nytimes.com/movie/review?res=9C01E2D7113EF935A25755C0A9669C8B63
+412,A Haunted House 2,14183335,0,http://www.nytimes.com/2014/04/19/movies/a-haunted-house-2-stars-marlon-wayans.html
+413,Norm of the North,14024290,0,http://www.nytimes.com/2016/01/15/movies/review-in-norm-of-the-north-a-polar-bear-takes-a-stand.html
+414,School for Scoundrels,13988365,0,http://www.nytimes.com/2006/09/29/movies/29scou.html
+415,Going the Distance,13952322,0,http://www.nytimes.com/2010/09/03/movies/03going.html
+416,Remember Me,13918922,0,http://www.nytimes.com/2010/03/12/movies/12remember.html
+417,The Hot Chick,13773388,0,http://www.nytimes.com/movie/review?res=9B0CE6D8133AF930A25751C1A9649C8B63
+418,National Lampoon's Van Wilder,13700813,0,http://www.nytimes.com/movie/review?res=9802E7D9163DF936A35757C0A9649C8B63
+419,Ella Enchanted,13579980,1,http://www.nytimes.com/movie/review?res=9407E5DB1538F93AA35757C0A9629C8B63
+420,You're Next,13431530,1,http://www.nytimes.com/2013/08/23/movies/youre-next-a-home-invasion-thriller-with-tweaks.html
+421,The Bank Job,13257949,0,http://www.nytimes.com/2008/03/07/movies/07bank.html
+422,Dead Silence,13216140,0,http://www.nytimes.com/2007/03/17/movies/17dead.html
+423,The Box,13179622,0,http://www.nytimes.com/2009/11/06/movies/06thebox.html
+424,Black Christmas,13083471,0,http://www.nytimes.com/2006/12/27/movies/27blac.html
+425,Down to You,13010648,0,http://www.nytimes.com/movie/review?res=9401E6DE103DF931A15752C0A9669C8B63
+426,Devil's Due,12922304,0,http://www.nytimes.com/2014/01/18/movies/in-devils-due-the-horned-one-is-up-to-his-old-mischief.html
+427,Superfly,12885779,0,http://www.nytimes.com/2018/06/12/movies/superfly-review.html
+428,Father Figures,12885287,0,http://www.nytimes.com/2017/12/21/movies/father-figures-review-ed-helms-owen-wilson.html
+429,Eurotrip,12758176,0,http://www.nytimes.com/movie/review?res=9F04E0DD103DF933A15751C0A9629C8B63
+430,Piglet's Big Movie,12730591,0,http://www.nytimes.com/movie/review?res=9401E4DD1E31F932A15750C0A9659C8B63
+431,The Fighter,12569403,1,http://www.nytimes.com/2010/12/10/movies/10fighter.html
+432,Parker,12527297,0,http://www.nytimes.com/2013/01/25/movies/parker-starring-jennifer-lopez-and-jason-statham.html
+433,Jennifer's Body,12470373,0,http://www.nytimes.com/2009/09/18/movies/18jennifer.html
+434,The Four Feathers,12377402,0,http://www.nytimes.com/movie/review?res=9E06E4DA1030F933A1575AC0A9649C8B63
+435,The Invention of Lying,12295868,0,http://www.nytimes.com/2009/10/02/movies/02invention.html
+436,The Raven,12176125,0,http://www.nytimes.com/2012/04/27/movies/the-raven-with-john-cusack-directed-by-james-mcteigue.html
+437,The Last Exorcism Part II,12129639,0,http://www.nytimes.com/2013/03/02/movies/the-last-exorcism-part-ii-starring-ashley-bell.html
+438,Jobs,12009301,1,http://www.nytimes.com/2015/10/09/movies/review-steve-jobs-apples-visionary-ceo-dissected.html
+439,A Thousand Words,11985753,0,http://www.nytimes.com/2012/03/09/movies/a-thousand-words-directed-by-brian-robbins.html
+440,Armored,11750895,0,http://www.nytimes.com/2009/12/05/movies/05armored.html
+441,Get Carter,11740680,0,http://www.nytimes.com/movie/review?res=980CE5DE153CF934A35753C1A9669C8B63
+442,Solaris,11608000,1,http://www.nytimes.com/movie/review?res=9405E1DC1638F934A15752C1A9649C8B63
+443,Welcome to Mooseport,11539863,0,http://www.nytimes.com/movie/review?res=9B0DE2D9113DF933A15751C0A9629C8B63
+444,Adventureland,11370909,1,http://www.nytimes.com/2009/04/03/movies/03adve.html
+445,Lockout,11219620,0,http://www.nytimes.com/2012/04/13/movies/guy-pearce-in-lockout.html
+446,Soul Plane,10986076,0,http://www.nytimes.com/movie/review?res=940DE3D9103EF93BA15756C0A9629C8B63
+447,Empire,10883390,0,http://www.nytimes.com/movie/review?res=9D06E6D9123BF935A35751C1A9649C8B63
+448,New York Minute,10783723,0,http://www.nytimes.com/movie/review?res=9B01E4DC163CF934A35756C0A9629C8B63
+449,Awake,10743207,0,http://www.nytimes.com/2007/12/01/movies/01awak.html
+450,Silent House,10605544,0,http://www.nytimes.com/2012/03/09/movies/silent-house-horror-film-with-elizabeth-olsen.html
+451,Disaster Movie,10602140,0,http://www.nytimes.com/2008/08/30/movies/30disa.html
+452,Bait,10576895,0,http://www.nytimes.com/movie/review?res=9E03E3D61238F936A2575AC0A9669C8B63
+453,Glee: The 3D Concert Movie,10443883,0,http://www.nytimes.com/2011/08/12/movies/glee-the-3d-concert-movie-review.html
+454,Triple 9,10374702,0,http://www.nytimes.com/2016/02/26/movies/triple-9-review.html
+455,Self/Less,10331633,0,http://www.nytimes.com/2015/07/10/movies/review-in-self-less-immortality-at-a-cost.html
+456,Almost Famous,10147759,1,http://www.nytimes.com/movie/review?res=950DE5D91738F930A2575AC0A9669C8B63
+457,Juwanna Mann,10115907,0,http://www.nytimes.com/movie/review?res=9C06EEDA113BF932A15755C0A9649C8B63
+458,Burnt,10095316,0,http://www.nytimes.com/2015/10/30/movies/review-burnt-with-bradley-cooper-as-a-chef-fresh-from-rehab.html
+459,Unaccompanied Minors,10093267,0,http://www.nytimes.com/2006/12/08/movies/08mino.html
+460,Changeling,10031122,0,http://www.nytimes.com/2008/10/24/movies/24chan.html
+461,The 33,10002722,0,http://www.nytimes.com/2015/11/13/movies/review-the-33-recalls-a-chilean-mine-disaster-and-the-men-who-endured-it.html
+462,All the Pretty Horses,9927378,0,http://www.nytimes.com/movie/review?res=940CE4D71538F936A15751C1A9669C8B63
+463,Strange Magic,9819784,0,http://www.nytimes.com/2015/01/23/movies/gary-rydstroms-strange-magic-from-a-george-lucas-story.html
+464,One Day,9789523,0,http://www.nytimes.com/2011/08/19/movies/one-day-directed-by-lone-scherfig-review.html
+465,Meet Dave,9398409,0,http://www.nytimes.com/2008/07/11/movies/11dave.html
+466,Soul Men,9370925,0,http://www.nytimes.com/2008/11/07/movies/07soul.html
+467,12 Rounds,8982767,0,http://www.nytimes.com/2009/03/28/movies/28roun.html
+468,Unforgettable,8950960,0,http://www.nytimes.com/2017/04/20/movies/unforgettable-review-katherine-heigl-rosario-dawson.html
+469,Before I Fall,8929594,0,http://www.nytimes.com/2017/03/01/movies/before-i-fall-review-zoey-deutch.html
+470,Sorority Row,8880742,0,http://www.nytimes.com/2009/09/12/movies/12sorority.html
+471,The Gunman,8800854,0,http://www.nytimes.com/2015/03/20/movies/review-in-the-gunman-sean-penn-plays-a-remorseful-sniper-on-the-run.html
+472,Whip It,8793570,0,http://www.nytimes.com/2009/10/02/movies/02whip.html
+473,Extract,8601746,0,http://www.nytimes.com/2009/09/04/movies/04extract.html
+474,The Last Kiss,8446291,0,http://www.nytimes.com/2006/09/15/movies/15kiss.html
+475,The Crew,8400000,0,http://www.nytimes.com/movie/review?res=980CEFD81431F936A1575BC0A9669C8B63
+476,Abandon,8372197,0,http://www.nytimes.com/movie/review?res=980DE3D8153DF93BA25753C1A9649C8B63
+477,Bullet to the Head,8269214,0,http://www.nytimes.com/2013/02/01/movies/bullet-to-the-head-stars-sylvester-stallone.html
+478,The Express,8214570,0,http://www.nytimes.com/2008/10/10/movies/10expr.html
+479,Stop-Loss,8170755,0,http://www.nytimes.com/2008/03/28/movies/28stop.html
+480,Ponyo,8136515,1,http://www.nytimes.com/2009/08/14/movies/14ponyo.html
+481,Hardcore Henry,8117998,0,http://www.nytimes.com/2016/04/08/movies/review-in-hardcore-henry-a-semi-robotic-soldier-has-a-personal-mission.html
+482,Death Sentence,7983182,0,http://www.nytimes.com/2007/08/30/movies/31sent.html
+483,Here on Earth,7978813,0,http://www.nytimes.com/movie/review?res=9402EFDD143DF937A15750C0A9669C8B63
+484,Midnight Sun,7671529,0,http://www.nytimes.com/2018/03/23/movies/midnight-sun-review.html
+485,Next Day Air,7613221,1,http://www.nytimes.com/2009/05/08/movies/08next.html
+486,Cirque du Soleil: Worlds Away,7426926,0,http://www.nytimes.com/2012/12/21/movies/cirque-du-soleil-worlds-away-in-3-d.html
+487,The Legend of Drunken Master,7380000,0,http://www.nytimes.com/movie/review?res=9C0CEED6123EF933A15753C1A9669C8B63
+488,Death to Smoochy,7286694,0,http://www.nytimes.com/movie/review?res=9A0DE2D71E3BF93AA15750C0A9649C8B63
+489,MacGruber,7216320,0,http://www.nytimes.com/2010/05/22/movies/22macgruber.html
+490,The Conspirator,6889868,0,http://www.nytimes.com/2011/04/15/movies/the-conspirator-directed-by-robert-redford-review.html
+491,Rock Dog,6735271,0,http://www.nytimes.com/2017/02/23/movies/rock-dog-review.html
+492,Searching,6574943,0,http://www.nytimes.com/2018/08/23/movies/searching-review-john-cho.html
+493,The Space Between Us,6511522,0,http://www.nytimes.com/2017/02/02/movies/review-the-space-between-us-the-story-of-a-boy-who-fell-to-earth.html
+494,A Good Year,6402072,0,http://www.nytimes.com/2006/11/10/movies/10year.html
+495,My Life in Ruins,6371636,0,http://www.nytimes.com/2009/06/05/movies/05ruin.html
+496,The Collector,6351293,0,http://www.nytimes.com/2009/08/01/movies/01collect.html
+497,About Time,6275743,0,http://www.nytimes.com/2013/11/01/movies/about-time-a-british-confection-from-richard-curtis.html
+498,Bug,6158052,0,http://www.nytimes.com/2007/05/24/movies/25bug.html
+499,Isle of Dogs,6057822,1,http://www.nytimes.com/2018/03/22/movies/isle-of-dogs-review-wes-anderson.html
+500,Taking Woodstock,6008843,1,http://www.nytimes.com/2009/08/26/movies/26woodstock.html
+501,Our Brand is Crisis,5924665,0,http://www.nytimes.com/2015/10/30/movies/review-in-our-brand-is-crisis-the-war-room-goes-to-bolivia.html
+502,Nothing Like the Holidays,5924513,0,http://www.nytimes.com/2008/12/12/movies/12holi.html
+503,Cadillac Records,5909492,1,http://www.nytimes.com/2008/12/05/movies/05cadi.html
+504,Nine,5830585,0,http://www.nytimes.com/2009/12/18/movies/18nine.html
+505,Black Nativity,5653299,0,http://www.nytimes.com/2013/11/27/movies/black-nativity-with-angela-bassett-and-jennifer-hudson.html
+506,Just Getting Started,5493590,0,http://www.nytimes.com/2017/12/11/movies/just-getting-started-review-morgan-freeman-tommy-lee-jones.html
+507,The Master,5446975,1,http://www.nytimes.com/2012/09/14/movies/review-the-master-from-paul-thomas-anderson.html
+508,La La Land,5342257,1,http://www.nytimes.com/2016/12/08/movies/la-la-land-review-ryan-gosling-emma-stone.html
+509,Post Grad,5307922,0,http://www.nytimes.com/2009/08/21/movies/21post.html
+510,Miss Pettigrew Lives for a Day,5299639,0,http://www.nytimes.com/2008/03/07/movies/07pett.html
+511,It Runs in the Family,5227195,1,http://www.nytimes.com/movie/review?res=9E06E6DA163DF936A15757C0A9659C8B63
+512,Pirate Radio,5184068,0,http://www.nytimes.com/2009/11/13/movies/13pirateradio.html
+513,Suburbicon,5081606,0,http://www.nytimes.com/2017/10/26/movies/suburbicon-review-george-clooney-matt-damon-julianne-moore.html
+514,Under the Same Moon,4970168,0,http://www.nytimes.com/2008/03/19/movies/19moon.html
+515,Bandslam,4435538,0,http://www.nytimes.com/2009/08/14/movies/14bandslam.html
+516,The Apparition,4251121,0,http://www.nytimes.com/2018/09/06/movies/the-apparition-review.html
+517,Little Boy,4248030,0,http://www.nytimes.com/2015/04/24/movies/review-little-boy-is-a-fable-about-faith-versus-magical-thinking.html
+518,Battle of the Sexes,4085327,0,http://www.nytimes.com/2017/09/21/movies/review-battle-of-the-sexes-billie-jean-king-bobby-riggs.html
+519,Casa de mi Padre,4030195,0,http://www.nytimes.com/2012/03/16/movies/will-ferrell-in-casa-de-mi-padre.html
+520,Deception,4000654,0,http://www.nytimes.com/2008/04/25/movies/25dece.html
+521,Babies,3881216,1,http://www.nytimes.com/2010/05/07/movies/07babies.html
+522,True Story,3807508,0,http://www.nytimes.com/2015/04/17/movies/review-true-story-stars-jonah-hill-and-james-franco.html
+523,Prem Ratan Dhan Payo,3759582,0,http://www.nytimes.com/2015/11/16/movies/review-prem-ratan-dhan-payo-a-bollywood-tale-of-a-prince-and-plebe-double.html
+524,90 Minutes in Heaven,3748011,0,http://www.nytimes.com/2015/09/11/movies/review-90-minutes-in-heaven-then-a-long-road-back.html
+525,The Best Exotic Marigold Hotel,3744656,1,http://www.nytimes.com/2012/05/04/movies/the-best-exotic-marigold-hotel-with-judi-dench.html
+526,Hell or High Water,3570498,1,http://www.nytimes.com/2016/08/12/movies/hell-or-high-water-review.html
+527,Witless Protection,3485150,0,http://www.nytimes.com/2008/02/23/movies/23witl.html
+528,Absolutely Fabulous: The Movie,3396822,0,http://www.nytimes.com/2016/07/22/movies/abfab-absolutely-fabulous-review.html
+529,The Cold Light of Day,3279550,0,http://www.nytimes.com/2012/09/08/movies/bruce-willis-stars-in-the-cold-light-of-day.html
+530,Charlie Bartlett,3254225,0,http://www.nytimes.com/2008/02/22/movies/22char.html
+531,Gotti,3245759,0,http://www.nytimes.com/2018/06/15/movies/review-gotti-john-travolta.html
+532,Stronger,3165489,0,http://www.nytimes.com/2017/09/21/movies/review-jake-gyllenhaal-as-marathon-victim-in-stronger.html
+533,We Are Your Friends,3152112,0,http://www.nytimes.com/2015/08/28/movies/review-angelenos-long-for-life-beyond-the-valley-in-we-are-your-friends.html
+534,The To Do List,3094965,1,http://www.nytimes.com/2013/07/26/movies/aubrey-plaza-stars-in-the-to-do-list.html
+535,(500) Days of Summer,3009526,0,http://www.nytimes.com/2009/07/17/movies/17five.html
+536,Milk,2954735,1,http://www.nytimes.com/2008/11/26/movies/26milk.html
+537,7 Days in Entebbe,2900330,0,http://www.nytimes.com/2018/03/14/movies/7-days-in-entebbe-review.html
+538,Shine a Light,2887430,1,http://www.nytimes.com/2008/04/04/movies/04shin.html
+539,The Fifth Estate,2848356,0,http://www.nytimes.com/2013/10/18/movies/the-fifth-estate-with-benedict-cumberbatch-as-julian-assange.html
+540,Veronica Mars,2832919,0,http://www.nytimes.com/2014/03/14/movies/veronica-mars-returns-on-the-big-screen-this-time.html
+541,The Road,2672812,1,http://www.nytimes.com/2012/05/11/movies/the-road-by-the-philippine-director-yam-laranas.html
+542,Spare Parts,2615073,0,http://www.nytimes.com/2015/01/16/movies/george-lopez-helps-students-build-a-robot-in-spare-parts.html
+543,The Identical,2576495,0,http://www.nytimes.com/2014/09/05/movies/the-identical-a-movie-musical-about-separated-twins.html
+544,A Hologram for the King,2565189,1,http://www.nytimes.com/2016/04/22/movies/review-a-hologram-for-the-king-is-elevated-by-tom-hankss-portrayal-of-an-american-everyman.html
+545,Gracie,2453515,1,http://www.nytimes.com/2007/05/31/movies/01grac.html
+546,Anthropoid,2345025,1,http://www.nytimes.com/2016/08/12/movies/anthropoid-review.html
+547,The Bling Ring,2343144,0,http://www.nytimes.com/2013/06/14/movies/a-bling-ring-lusting-after-celebrity-trinkets.html
+548,Choke,2322557,0,http://www.nytimes.com/2008/09/26/movies/26chok.html
+549,Thoroughbreds,2294050,0,http://www.nytimes.com/2018/03/08/movies/thoroughbreds-review.html
+550,Our Kind of Traitor,2225293,0,http://www.nytimes.com/2016/07/01/movies/review-a-professor-drawn-to-the-mob-in-our-kind-of-traitor.html
+551,The Way Back,2174888,0,http://www.nytimes.com/2011/01/21/movies/21way.html
+552,Wish I Was Here,1879788,0,http://www.nytimes.com/2014/07/18/movies/zach-braff-directs-and-stars-in-wish-i-was-here.html
+553,The Way Way Back,1866336,0,http://www.nytimes.com/2013/07/05/movies/the-way-way-back-from-nat-faxon-and-jim-rash.html
+554,Demolition,1822315,0,http://www.nytimes.com/2016/04/08/movies/demolition-review-jake-gyllenhaal.html
+555,The Kids Are All Right,1813866,1,http://www.nytimes.com/2010/07/09/movies/09kids.html
+556,Spotlight,1800400,1,http://www.nytimes.com/2015/11/06/movies/review-in-spotlight-the-boston-globe-digs-up-the-catholic-churchs-dirt.html
+557,Begin Again,1794832,0,http://www.nytimes.com/2014/06/27/movies/begin-again-from-the-once-director-john-carney.html
+558,Jeff Who Lives at Home,1774267,0,http://www.nytimes.com/2012/03/16/movies/jeff-who-lives-at-home-a-duplass-brothers-comedy.html
+559,Assassination Nation,1732024,0,http://www.nytimes.com/2018/09/20/movies/assassination-nation-review.html
+560,Good Hair,1727611,0,http://www.nytimes.com/2009/10/09/movies/09hair.html
+561,Free Fire,1662023,1,http://www.nytimes.com/2017/04/20/movies/free-fire-review.html
+562,Everybody Loves Somebody,1634969,0,http://www.nytimes.com/2017/02/16/movies/everybody-loves-somebody-review.html
+563,The Runaways,1580559,0,http://www.nytimes.com/2010/03/19/movies/19runaways.html
+564,The Company Men,1547510,1,http://www.nytimes.com/2010/12/10/movies/10company.html
+565,Bodyguard,1536308,0,http://www.nytimes.com/2011/09/01/movies/bodyguard-with-salman-khan-review.html
+566,Battle for Terra,1518011,0,http://www.nytimes.com/2009/05/01/movies/01terr.html
+567,The Shape of Water,1372554,1,http://www.nytimes.com/2017/11/30/movies/the-shape-of-water-review-guillermo-del-toro.html
+568,The Art of Getting By,1351980,0,http://www.nytimes.com/2011/06/17/movies/the-art-of-getting-by-by-gavin-wiesen-review.html
+569,The Revenant,1320348,0,http://www.nytimes.com/2015/12/25/movies/review-the-revenant-welcome-to-paradise-now-prepare-to-fall.html
+570,Victoria and Abdul,1312549,0,http://www.nytimes.com/2017/09/21/movies/victoria-and-abdul-review-judi-dench.html
+571,Mohenjo Daro,1164785,0,http://www.nytimes.com/2016/08/15/movies/review-mohenjo-daro-depicts-a-go-to-heros-exertions-in-antiquity.html
+572,Desierto,1145083,0,http://www.nytimes.com/2016/10/14/movies/desierto-review-jonas-cuaron-gael-garca-bernal.html
+573,"Hello, My Name is Doris",1115909,0,http://www.nytimes.com/2016/03/11/movies/sally-field-hello-my-name-is-doris-review.html
+574,Child 44,1086376,0,http://www.nytimes.com/2015/04/17/movies/review-child-44-a-secret-police-thriller-in-soviet-russia.html
+575,The Namesake,1076544,0,http://www.nytimes.com/2007/03/09/movies/09name.html
+576,The Ultimate Life,1071060,0,http://www.nytimes.com/2013/09/06/movies/the-ultimate-life-shows-what-money-can-and-cannot-buy.html
+577,The Ghost Writer,1048233,1,http://www.nytimes.com/2010/02/19/movies/19ghost.html
+578,Chef,991561,0,http://www.nytimes.com/2014/05/09/movies/chef-a-culinary-comedy-by-jon-favreau.html
+579,Sunshine Cleaning,960041,0,http://www.nytimes.com/2009/03/13/movies/13suns.html
+580,Enough Said,950101,1,http://www.nytimes.com/2013/09/18/movies/enough-said-stars-james-gandolfini-and-julia-louis-dreyfus.html
+581,There Will Be Blood,901292,1,http://www.nytimes.com/2007/12/26/movies/26bloo.html
+582,Elvis & Nixon,898695,0,http://www.nytimes.com/2016/04/22/movies/elvis-and-nixon-review.html
+583,Frost/Nixon,873836,0,http://www.nytimes.com/2008/12/05/movies/05fros.html
+584,The Duchess,830007,0,http://www.nytimes.com/2008/09/19/movies/19duch.html
+585,A Serious Man,811304,1,http://www.nytimes.com/2009/10/02/movies/02serious.html
+586,He Named Me Malala,797689,0,http://www.nytimes.com/2015/10/02/movies/review-he-named-me-malala-on-a-taliban-target-and-nobel-laureate.html
+587,Leave No Trace,781675,1,http://www.nytimes.com/2018/06/28/movies/leave-no-trace-review-ben-foster.html
+588,Love & Friendship,758157,1,http://www.nytimes.com/2016/05/13/movies/love-and-friendship-review.html
+589,Away We Go,757635,0,http://www.nytimes.com/2009/06/05/movies/05away.html
+590,The Little Stranger,675393,0,http://www.nytimes.com/2018/08/30/movies/the-little-stranger-review.html
+591,Win Win,672336,1,http://www.nytimes.com/2011/03/18/movies/win-win-with-paul-giamatti-review.html
+592,Bad Words,660817,0,http://www.nytimes.com/2014/03/14/movies/jason-bateman-stars-in-and-directs-bad-words.html
+593,The Wrestler,648510,1,http://www.nytimes.com/2008/12/17/movies/17wres.html
+594,Blue Valentine,644662,0,http://www.nytimes.com/2010/12/29/movies/29blue.html
+595,Disobedience,634364,0,http://www.nytimes.com/2018/04/25/movies/disobedience-review-rachel-mcadams.html
+596,Belle,634210,0,http://www.nytimes.com/2014/05/02/movies/belle-centers-on-a-biracial-aristocrat-in-the-18th-century.html
+597,Peepli Live,600627,0,http://www.nytimes.com/2010/08/13/movies/13peepli.html
+598,Wilson,585059,0,http://www.nytimes.com/2017/03/22/movies/wilson-review-with-woody-harrelson.html
+599,The Book Thief,564050,0,http://www.nytimes.com/2013/11/08/movies/the-book-thief-world-war-ii-tale-with-geoffrey-rush.html
+600,Fantastic Mr. Fox,562048,1,http://www.nytimes.com/2009/11/13/movies/13fantastic.html
+601,Patriots Day,529831,0,http://www.nytimes.com/2016/12/20/movies/patriots-day-boston-marathon-review.html
+602,Legend,525735,0,http://www.nytimes.com/2015/11/20/movies/review-legend-starring-tom-hardy-as-the-gangster-twins-ronnie-and-reggie-kray.html
+603,Mumbai Diaries,521882,0,http://www.nytimes.com/2011/01/21/movies/21roundup-DHOBIGHATMUM_RVW.html
+604,Fireworks,519582,0,http://www.nytimes.com/movie/review?res=9A01E5DC173AF934A1575AC0A961958260
+605,Nebraska,515368,1,http://www.nytimes.com/2013/11/15/movies/nebraska-directed-by-alexander-payne-stars-bruce-dern.html
+606,You Were Never Really Here,512782,0,http://www.nytimes.com/2018/04/04/movies/you-were-never-really-here-review-joaquin-phoenix.html
+607,Black Sea,508797,0,http://www.nytimes.com/2015/01/23/movies/black-sea-stars-jude-law-as-a-seething-adventurer.html
+608,Beasts of the Southern Wild,478562,1,http://www.nytimes.com/2012/06/27/movies/beasts-of-the-southern-wild-directed-by-benh-zeitlin.html
+609,Diary of the Dead,451215,0,http://www.nytimes.com/2008/02/15/movies/15dead.html
+610,Like Crazy,444510,0,http://www.nytimes.com/2017/05/04/movies/like-crazy-review.html
+611,Phantom,443692,0,http://www.nytimes.com/2013/03/01/movies/phantom-a-thriller-directed-by-todd-robinson.html
+612,Ingrid Goes West,440503,0,http://www.nytimes.com/2017/08/10/movies/ingrid-goes-west-review.html
+613,Princess Kaiulani,426512,0,http://www.nytimes.com/2010/05/14/movies/14princess.html
+614,Phillauri,417308,0,http://www.nytimes.com/2017/03/26/movies/phillauri-review.html
+615,Nowhere Boy,412214,0,http://www.nytimes.com/2010/10/08/movies/08nowhere.html
+616,The Killing of a Sacred Deer,396092,0,http://www.nytimes.com/2017/10/19/movies/the-killing-of-a-sacred-deer-review-colin-farrell-nicole-kidman.html
+617,Thank You,392194,0,http://www.nytimes.com/2011/04/11/movies/thank-you-bollywood-comedy-with-akshay-kumar-review.html
+618,Baaghi,376982,0,http://www.nytimes.com/2016/05/02/movies/baaghi-review.html
+619,Mistress America,375323,1,http://www.nytimes.com/2015/08/14/movies/review-mistress-america-a-noah-baumbach-comedy-on-getting-by-in-a-backbiting-world.html
+620,Midnight Special,361197,0,http://www.nytimes.com/2016/03/18/movies/review-in-midnight-special-on-the-run-with-a-highly-unusual-child.html
+621,Calvary,359631,0,http://www.nytimes.com/2014/08/01/movies/calvary-john-michael-mcdonaghs-murder-mystery.html
+622,Macbeth,354973,0,http://www.nytimes.com/2015/12/04/movies/review-macbeth-starring-michael-fassbender-awash-in-gorgeous-carnage.html
+623,The Danish Girl,350086,0,http://www.nytimes.com/2015/11/27/movies/review-the-danish-girl-about-a-transgender-pioneer.html
+624,Denial,347148,0,http://www.nytimes.com/2016/09/30/movies/denial-review-rachel-weisz-denial.html
+625,Stone,343100,0,http://www.nytimes.com/2010/10/08/movies/08stone.html
+626,Good Time,341404,0,http://www.nytimes.com/2017/08/10/movies/good-time-review-robert-pattinson.html
+627,The East,336002,0,http://www.nytimes.com/2013/05/31/movies/the-east-written-by-zal-batmanglij-and-brit-marling.html
+628,Darkest Hour,327817,0,http://www.nytimes.com/2017/11/21/movies/darkest-hour-review-gary-oldman.html
+629,By the Sea,320627,0,http://www.nytimes.com/2015/11/13/movies/review-in-angelina-jolie-pitts-by-the-sea-an-unhappy-menage-and-tear-streaked-mascara.html
+630,Danny Collins,316206,0,http://www.nytimes.com/2015/03/20/movies/review-al-pacino-in-danny-collins-plays-a-dissolute-pop-star.html
+631,RocknRolla,308692,0,http://www.nytimes.com/2008/10/08/movies/08rock.html
+632,American Pastoral,296630,0,http://www.nytimes.com/2016/10/21/movies/american-pastoral-review-ewan-mcgregor.html
+633,Noah's Arc: Jumping the Broom,287682,0,http://www.nytimes.com/2008/10/24/movies/24noah.html
+634,The Visitor,282400,1,http://www.nytimes.com/2008/04/11/movies/11visi.html
+635,A Ghost Story,277737,1,http://www.nytimes.com/2017/07/05/movies/review-a-ghost-story.html
+636,Lion,275702,0,http://www.nytimes.com/2016/11/24/movies/lion-review-dev-patel.html
+637,Suffragette,274590,0,http://www.nytimes.com/2015/10/23/movies/review-in-suffragette-feminist-insight-thats-about-more-than-the-vote.html
+638,Himmatwala,262568,0,http://www.nytimes.com/2013/04/01/movies/himmatwala-a-bollywood-disco-remake.html
+639,Hunt for the Wilderpeople,255687,1,http://www.nytimes.com/2016/06/24/movies/hunt-for-the-wilderpeople-review.html
+640,The Railway Man,252402,0,http://www.nytimes.com/2014/04/11/movies/the-railway-man-a-true-tale-of-wartime-torment-and-reconciliation.html
+641,Meet the Patels,246685,0,http://www.nytimes.com/2015/09/11/movies/review-in-meet-the-patels-a-son-submits-to-a-marriage-quest.html
+642,Last Flag Flying,243337,0,http://www.nytimes.com/2017/11/02/movies/last-flag-flying-review-steve-carell-bryan-cranston-laurence-fishburne-richard-linklater.html
+643,Jimi: All is By My Side,238837,0,http://www.nytimes.com/2014/09/26/movies/jimi-all-is-by-my-side-a-jimi-hendrix-biopic.html
+644,Buried,236447,0,http://www.nytimes.com/2010/09/24/movies/24buried.html
+645,Finding Your Feet,228575,0,http://www.nytimes.com/2018/03/29/movies/finding-your-feet-review.html
+646,A Royal Night Out,197973,0,http://www.nytimes.com/2015/12/04/movies/review-after-the-terrors-of-the-blitz-comes-a-royal-night-out.html
+647,Sin Nombre,185874,0,http://www.nytimes.com/2009/03/20/movies/20nomb.html
+648,Flower,183430,1,http://www.nytimes.com/2018/03/15/movies/flower-review-zoey-deutch.html
+649,The History Boys,181689,1,http://www.nytimes.com/2006/11/21/movies/21hist.html
+650,Beast,181101,1,http://www.nytimes.com/2018/05/10/movies/beast-review.html
+651,Escobar: Paradise Lost,177097,0,http://www.nytimes.com/2015/06/26/movies/review-escobar-paradise-lost-stars-benicio-del-toro-as-drug-lord.html
+652,Rabbit Hole,166770,0,http://www.nytimes.com/2010/12/17/movies/17rabbit.html
+653,Adam,165531,0,http://www.nytimes.com/2009/07/29/movies/29adam.html
+654,Reprise,158202,1,http://www.nytimes.com/2008/05/16/movies/16repr.html
+655,The Party,151976,0,http://www.nytimes.com/2018/02/15/movies/the-party-review-timothy-spall-kristin-scott-thomas.html
+656,Confetti,145545,0,http://www.nytimes.com/2006/09/15/movies/15conf.html
+657,Risk,145122,0,http://www.nytimes.com/2017/05/04/movies/risk-review-julian-assange-laura-poitras.html
+658,Freeheld,144419,0,http://www.nytimes.com/2015/10/02/movies/review-in-freeheld-a-dying-detective-fights-for-gay-rights.html
+659,Goodnight Mommy,141444,1,http://www.nytimes.com/2015/09/11/movies/review-twin-terrors-haunt-goodnight-mommy.html
+660,Lean on Pete,139567,1,http://www.nytimes.com/2018/04/05/movies/lean-on-pete-review.html
+661,Turtle: The Incredible Journey,135981,0,http://www.nytimes.com/2011/06/24/movies/turtle-the-incredible-journey-a-loggerhead-epic-review.html
+662,The Future,130271,1,http://www.nytimes.com/2013/09/06/movies/two-orphans-wonder-what-now.html
+663,The Sapphires,126218,0,http://www.nytimes.com/2013/03/22/movies/the-sapphires-chronicles-4-australian-singers-in-the-1960s.html
+664,Gemini,123537,0,http://www.nytimes.com/2018/03/29/movies/gemini-review-lola-kirke-zoe-kravitz.html
+665,Me and Orson Welles,120256,1,http://www.nytimes.com/2009/11/25/movies/25orson.html
+666,Beach Rats,112740,1,http://www.nytimes.com/2017/08/24/movies/beach-rats-review.html
+667,La Soga,110968,0,http://www.nytimes.com/2010/08/13/movies/13soga.html
+668,Lola Versus,107991,0,http://www.nytimes.com/2012/06/08/movies/daryl-weins-lola-versus-with-greta-gerwig.html
+669,10 Years,104861,0,http://www.nytimes.com/2012/09/14/movies/10-years-a-comedy-directed-by-jamie-linden.html
+670,Being Flynn,102986,0,http://www.nytimes.com/2012/03/02/movies/paul-weitzs-being-flynn-starring-robert-de-niro.html
+671,Blaze,100768,1,http://www.nytimes.com/2018/09/06/movies/blaze-review-ethan-hawke.html
+672,The Foot Fist Way,99392,1,http://www.nytimes.com/2008/05/30/movies/30foot.html
+673,After.Life,99101,0,http://www.nytimes.com/2010/04/09/movies/09after.html
+674,Project Nim,87840,1,http://www.nytimes.com/2011/07/08/movies/project-nim-about-a-chimpanzee-subjected-to-research-review.html
+675,When Marnie Was There,84542,0,http://www.nytimes.com/2015/05/22/movies/review-when-marnie-was-there-by-studio-ghibli-animates-a-friendship-with-ominous-undertones.html
+676,The Romantics,81503,0,http://www.nytimes.com/2010/09/10/movies/10romantics.html
+677,Gun Hill Road,75409,0,http://www.nytimes.com/2011/08/05/movies/a-different-kind-of-bronx-tale.html
+678,Motherhood,74250,0,http://www.nytimes.com/2009/10/23/movies/23mother.html
+679,A Monster Calls,72618,0,http://www.nytimes.com/2016/12/22/movies/a-monster-calls-review.html
+680,The Secret of Kells,67039,1,http://www.nytimes.com/2010/03/05/movies/05secret.html
+681,I Spit on Your Grave,66019,0,http://www.nytimes.com/2010/10/08/movies/08spit.html
+682,Tea with the Dames,65583,1,http://www.nytimes.com/2018/09/20/movies/tea-with-the-dames-review.html
+683,Victor,63943,0,http://www.nytimes.com/movie/review?res=9C0CE4D61530F934A15750C0A96F958260
+684,Other People,62630,0,http://www.nytimes.com/2016/09/09/movies/other-people-review.html
+685,Eating Animals,61534,0,http://www.nytimes.com/2018/06/14/movies/eating-animals-review.html
+686,Waking Sleeping Beauty,60996,0,http://www.nytimes.com/2010/03/26/movies/26waking.html
+687,Arctic Tale,59491,0,http://www.nytimes.com/2007/07/25/movies/25arct.html
+688,The Breadwinner,54429,1,http://www.nytimes.com/2017/11/16/movies/the-breadwinner-review.html
+689,Louder Than Bombs,54402,0,http://www.nytimes.com/2016/04/08/movies/louder-than-bombs-review.html
+690,Christine,53834,0,http://www.nytimes.com/2016/10/14/movies/christine-review-rebecca-hall.html
+691,"Life, Animated",52690,0,http://www.nytimes.com/2016/07/01/movies/review-life-animated.html
+692,Bran Nue Dae,51108,0,http://www.nytimes.com/2010/09/10/movies/10bran.html
+693,In a Valley of Violence,50381,0,http://www.nytimes.com/2016/10/21/movies/in-a-valley-of-violence-review.html
+694,Shanghai,44689,0,http://www.nytimes.com/2015/10/02/movies/review-in-shanghai-john-cusack-is-a-naval-intelligence-operative-in-a-bind.html
+695,Wild Target,44259,0,http://www.nytimes.com/2010/10/29/movies/29wild.html
+696,Toys in the Attic,38033,0,http://www.nytimes.com/2012/09/07/movies/toys-in-the-attic-directed-by-jiri-barta.html
+697,Lost River,37477,1,http://www.nytimes.com/2015/04/10/movies/review-in-lost-river-by-ryan-gosling-surreal-scenes-of-urban-decline.html
+698,Paan Singh Tomar,33913,0,http://www.nytimes.com/2012/03/02/movies/irrfan-khan-stars-in-paan-singh-tomar.html
+699,Beautiful Boy,29827,0,http://www.nytimes.com/2018/10/11/movies/beautiful-boy-review-steve-carell.html
+700,No Greater Love,29057,0,http://www.nytimes.com/movie/review?res=9906E4DE113CE03ABC4D51DFB466838F659EDE
+701,Margaret,24950,0,http://www.nytimes.com/2011/09/30/movies/margaret-directed-by-kenneth-lonergan-review.html
+702,Big Sonia,24695,0,http://www.nytimes.com/2017/11/16/movies/review-big-sonia-review-holocaust-survivor.html
+703,The War of the Buttons,24273,0,http://www.nytimes.com/2012/10/12/movies/war-of-the-buttons-directed-by-christophe-barratier.html
+704,Immigration Tango,23812,0,http://www.nytimes.com/2011/02/18/movies/18immigration-tango.html
+705,BPM (Beats per Minute),23357,1,http://www.nytimes.com/2017/10/19/movies/bpm-beats-per-minute-review-aids-activism.html
+706,Panic,21042,0,http://www.nytimes.com/movie/review?res=9B02E5D61F3DF93AA25752C0A9679C8B63
+707,Hemingway's Garden of Eden,20952,0,http://www.nytimes.com/2010/12/10/movies/10hemingway.html
+708,The Last Dalai Lama?,20618,0,http://www.nytimes.com/2017/07/27/movies/the-last-dalai-lama-review.html
+709,On the Beach at Night Alone,19540,0,http://www.nytimes.com/2017/11/16/movies/on-the-beach-at-night-alone-review-hong-sang-soo.html
+710,The Challenger,19003,0,http://www.nytimes.com/movie/review?res=9E04E4DA1531E633A25755C1A9619C946394D6CF
+711,Dina,18730,0,http://www.nytimes.com/2017/10/05/movies/dina-review.html
+712,A Kid Like Jake,17725,0,http://www.nytimes.com/2018/05/31/movies/a-kid-like-jake-review-claire-danes-jim-parsons.html
+713,Alphaville,15133,0,http://www.nytimes.com/movie/review?res=9D03E6D91F30E23ABC4E51DFB667838E679EDE
+714,Skateland,14944,0,http://www.nytimes.com/2011/05/13/movies/skateland-review.html
+715,Crime + Punishment,14574,1,http://www.nytimes.com/2018/08/22/movies/crime-punishment-review.html
+716,Jayne Mansfield's Car,14277,0,http://www.nytimes.com/2013/09/13/movies/billy-bob-thornton-directs-jayne-mansfields-car.html
+717,Sympathy for Delicious,13114,0,http://www.nytimes.com/2011/04/29/movies/sympathy-for-delicious-with-mark-ruffalo-review.html
+718,Zombeavers,12721,0,http://www.nytimes.com/2015/03/20/movies/review-in-zombeavers-the-flesheaters-have-overbites.html
+719,When You Read This Letter,12109,0,http://www.nytimes.com/2018/09/11/movies/when-you-read-this-letter-review.html
+720,All These Sleepless Nights,11153,0,http://www.nytimes.com/2017/04/13/movies/all-these-sleepless-nights-review.html
+721,White Wedding,10908,0,http://www.nytimes.com/2010/09/03/movies/03roundup-005.html
+722,5 Days of War,10834,0,http://www.nytimes.com/2011/08/19/movies/5-days-of-war-shows-russia-and-georgia-in-conflict.html
+723,Junction 48,9083,1,http://www.nytimes.com/2017/03/02/movies/junction-48-review.html
+724,Violet Tendencies,8591,0,http://www.nytimes.com/2010/11/05/movies/05violet.html
+725,Gayby,8227,0,http://www.nytimes.com/2012/10/12/movies/gayby-a-short-extended-by-jonathan-lisecki.html
+726,The Girl Without Hands,6183,1,http://www.nytimes.com/2017/07/20/movies/the-girl-without-hands-review.html
+727,Tanner Hall,5005,0,http://www.nytimes.com/2011/09/09/movies/tanner-hall-starring-rooney-mara-review.html
+728,Vamps,2964,0,http://www.nytimes.com/2012/11/02/movies/vamps-by-amy-heckerling-with-alicia-silverstone.html
