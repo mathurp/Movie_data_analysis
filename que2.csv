@@ -1,729 +1,729 @@
-"","movie","Critic_Pick","Review_url","negative","positive","sentiment"
-"1","Black Panther",1,"http://www.nytimes.com/2018/02/06/movies/black-panther-review-movie.html",40,43,"positive"
-"2","The Avengers",0,"http://www.nytimes.com/2012/05/04/movies/robert-downey-jr-in-the-avengers-directed-by-joss-whedon.html",46,37,"negative"
-"3","Rogue One: A Star Wars Story",0,"http://www.nytimes.com/2016/12/13/movies/star-wars-rogue-one-review.html",32,25,"negative"
-"4","Iron Man 3",0,"http://www.nytimes.com/2013/05/03/movies/iron-man-3-with-robert-downey-jr.html",53,23,"negative"
-"5","Jurassic World: Fallen Kingdom",0,"http://www.nytimes.com/2018/06/20/movies/jurassic-world-fallen-kingdom-review-chris-pratt.html",35,18,"negative"
-"6","Furious 7",0,"http://www.nytimes.com/2015/04/03/movies/review-in-furious-7-a-franchise-continues-to-roar.html",36,29,"positive"
-"7","Deadpool",0,"http://www.nytimes.com/2016/02/12/movies/deadpool-movie-review-ryan-reynolds.html",26,26,"positive"
-"8","The Twilight Saga: New Moon",0,"http://www.nytimes.com/2009/11/20/movies/20twilightnewmoon.html",36,28,"negative"
-"9","Toy Story 3",1,"http://www.nytimes.com/2010/06/18/movies/18toy.html",35,48,"positive"
-"10","Suicide Squad",0,"http://www.nytimes.com/2016/08/05/movies/suicide-squad-review-dc-comics.html",62,30,"negative"
-"11","It",0,"http://www.nytimes.com/2017/09/06/movies/it-review-stephen-king.html",34,21,"negative"
-"12","Avatar",1,"http://www.nytimes.com/2009/12/18/movies/18avatar.html",43,53,"positive"
-"13","Iron Man 2",0,"http://www.nytimes.com/2010/05/07/movies/07iron.html",55,36,"negative"
-"14","Alice in Wonderland",0,"http://www.nytimes.com/2010/03/05/movies/05alice.html",45,25,"negative"
-"15","Wonder Woman",1,"http://www.nytimes.com/2017/05/31/movies/wonder-woman-review-gal-gadot.html",42,46,"positive"
-"16","Transformers",0,"http://www.nytimes.com/2007/07/02/movies/02tran.html",36,26,"negative"
-"17","The Hangover Part II",0,"http://www.nytimes.com/2011/05/26/movies/the-hangover-part-ii-3-men-and-a-monkey-baby.html",22,13,"negative"
-"18","Guardians of the Galaxy",0,"http://www.nytimes.com/2014/08/01/movies/chris-pratt-stars-in-guardians-of-the-galaxy.html",44,45,"positive"
-"19","X-Men: The Last Stand",0,"http://www.nytimes.com/2006/05/26/movies/26xmen.html",18,16,"negative"
-"20","The Passion of the Christ",0,"http://www.nytimes.com/movie/review?res=9A07EFD6143CF936A15751C0A9629C8B63",85,45,"negative"
-"21","Justice League",0,"http://www.nytimes.com/2017/11/15/movies/justice-league-review-wonder-woman-batman-dc-comics.html",40,31,"negative"
-"22","Skyfall",1,"http://www.nytimes.com/2012/11/08/movies/skyfall-with-daniel-craig-as-james-bond.html",26,39,"positive"
-"23","Solo: A Star Wars Story",0,"http://www.nytimes.com/2018/05/15/movies/solo-a-star-wars-story-review.html",33,18,"negative"
-"24","Inception",0,"http://www.nytimes.com/2010/07/16/movies/16inception.html",44,38,"negative"
-"25","Hancock",0,"http://www.nytimes.com/2008/07/02/movies/02hanc.html",50,28,"negative"
-"26","Fast Five",0,"http://www.nytimes.com/2011/04/29/movies/fast-five-with-vin-diesel-review.html",33,32,"negative"
-"27","Rush Hour 2",0,"http://www.nytimes.com/movie/review?res=9A01E0D9143CF930A3575BC0A9679C8B63",37,20,"negative"
-"28","Ant-Man and the Wasp",0,"http://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html",19,35,"positive"
-"29","World War Z",0,"http://www.nytimes.com/2013/06/21/movies/world-war-z-stars-brad-pitt-battling-zombies.html",43,30,"negative"
-"30","Cinderella",0,"http://www.nytimes.com/2015/03/13/movies/review-in-cinderella-disney-polishes-its-glass-slippers.html",31,35,"positive"
-"31","Gravity",0,"http://www.nytimes.com/2015/05/22/movies/review-sunshine-superman-about-the-high-flying-daredevil-carl-boenish.html",13,3,"negative"
-"32","Pearl Harbor",0,"http://www.nytimes.com/movie/review?res=9A00E6D7113DF936A15756C0A9679C8B63",77,52,"negative"
-"33","The Mummy Returns",0,"http://www.nytimes.com/movie/review?res=9F03E2D71238F937A35756C0A9679C8B63",38,24,"negative"
-"34","Signs",0,"http://www.nytimes.com/movie/review?res=9D05E4DA113BF931A3575BC0A9649C8B63",47,24,"negative"
-"35","Madagascar: Escape 2 Africa",0,"http://www.nytimes.com/2008/11/07/movies/07mada.html",19,17,"negative"
-"36","Fast & Furious",0,"http://www.nytimes.com/2009/04/03/movies/03fast.html",13,14,"positive"
-"37","Mission: Impossible 2",0,"http://www.nytimes.com/movie/review?res=9C04E2DE163DF937A15756C0A9669C8B63",43,45,"positive"
-"38","Kong: Skull Island",0,"http://www.nytimes.com/2017/03/09/movies/kong-skull-island-review-brie-larson.html",36,28,"negative"
-"39","Ant-Man",0,"http://www.nytimes.com/2015/07/17/movies/review-ant-man-with-paul-rudd-adds-to-a-superhero-infestation.html",34,34,"neutral"
-"40","Rise of the Planet of the Apes",0,"http://www.nytimes.com/2011/08/05/movies/rise-of-the-planet-of-the-apes-stars-james-franco-review.html",42,41,"negative"
-"41","Jason Bourne",0,"http://www.nytimes.com/2016/07/29/movies/jason-bourne-matt-damon-review.html",36,25,"negative"
-"42","Dunkirk",1,"http://www.nytimes.com/2017/07/20/movies/dunkirk-review-christopher-nolan.html",58,25,"negative"
-"43","Cast Away",1,"http://www.nytimes.com/movie/review?res=9C0CE4D81F39F931A15751C1A9669C8B63",69,42,"negative"
-"44","The Blind Side",0,"http://www.nytimes.com/2009/11/20/movies/20blindside.html",42,35,"negative"
-"45","I, Robot",0,"http://www.nytimes.com/movie/review?res=9A06E6DC143AF935A25754C0A9629C8B63",48,33,"negative"
-"46","Casino Royale",0,"http://www.nytimes.com/2006/11/17/movies/17roya.html",45,31,"negative"
-"47","How to Train Your Dragon",0,"http://www.nytimes.com/2010/03/26/movies/26howto.html",31,30,"negative"
-"48","Transformers: The Last Knight",0,"http://www.nytimes.com/2017/06/20/movies/transformers-the-last-knight-review.html",18,14,"negative"
-"49","Ready Player One",0,"http://www.nytimes.com/2018/03/28/movies/ready-player-one-review-steven-spielberg.html",37,53,"positive"
-"50","Prometheus",0,"http://www.nytimes.com/2012/06/08/movies/prometheus-by-ridley-scott-with-noomi-rapace.html",39,30,"negative"
-"51","Scary Movie",0,"http://www.nytimes.com/movie/review?res=9C02EFDB1F39F934A35754C0A9669C8B63",43,8,"negative"
-"52","Fifty Shades Darker",0,"http://www.nytimes.com/2017/02/09/movies/review-fifty-shades-darker-dakota-johnson.html",27,15,"negative"
-"53","Valentine's Day",0,"http://www.nytimes.com/2010/02/12/movies/12valentine.html",21,33,"positive"
-"54","Jackass 3D",0,"http://www.nytimes.com/2010/10/15/movies/15jackass.html",17,13,"negative"
-"55","Into the Woods",1,"http://www.nytimes.com/2014/12/25/movies/into-the-woods-disneys-take-on-the-sondheim-lapine-classic.html",41,37,"negative"
-"56","Django Unchained",1,"http://www.nytimes.com/2012/12/25/movies/quentin-tarantinos-django-unchained-stars-jamie-foxx.html",76,47,"negative"
-"57","Taken 2",0,"http://www.nytimes.com/2012/10/05/movies/taken-2-directed-by-olivier-megaton.html",9,4,"negative"
-"58","The Village",0,"http://www.nytimes.com/movie/review?res=9D0DE1D7103DF933A05754C0A9629C8B63",42,27,"negative"
-"59","The Nun",0,"http://www.nytimes.com/2018/09/05/movies/the-nun-review.html",12,9,"negative"
-"60","The Vow",0,"http://www.nytimes.com/2012/02/10/movies/the-vow-with-rachel-mcadams-and-channing-tatum.html",31,22,"negative"
-"61","Catch Me if You Can",1,"http://www.nytimes.com/movie/review?res=9C00E1D7123CF936A15751C1A9649C8B63",45,51,"positive"
-"62","Angels & Demons",0,"http://www.nytimes.com/2009/05/15/movies/15ange.html",48,36,"negative"
-"63","Tangled",1,"http://www.nytimes.com/2010/11/24/movies/24tangled.html",39,44,"positive"
-"64","Click",0,"http://www.nytimes.com/2006/06/23/movies/23clic.html",21,23,"positive"
-"65","Safe House",0,"http://www.nytimes.com/2012/02/10/movies/safe-house-with-denzel-washington-and-ryan-reynolds.html",37,26,"negative"
-"66","The Fast and the Furious",0,"http://www.nytimes.com/movie/review?res=9401E2D61630F931A15755C0A9679C8B63",42,24,"negative"
-"67","Fifty Shades Freed",0,"http://www.nytimes.com/2018/02/08/movies/fifty-shades-freed-review-jamie-dornan-dakota-johnson.html",8,11,"positive"
-"68","Over the Hedge",0,"http://www.nytimes.com/2006/05/19/movies/19hedg.html",23,17,"negative"
-"69","The Cat in the Hat",0,"http://www.nytimes.com/movie/review?res=9F02E7DB143BF932A15752C1A9659C8B63",53,23,"negative"
-"70","Puss in Boots",0,"http://www.nytimes.com/2011/10/28/movies/puss-in-boots-with-antonio-banderas-review.html",25,26,"positive"
-"71","Mr. Deeds",0,"http://www.nytimes.com/movie/review?res=9C0DE3D7123EF93BA15755C0A9649C8B63",47,27,"negative"
-"72","Magic Mike",1,"http://www.nytimes.com/2012/06/29/movies/magic-mike-by-steven-soderbergh-with-channing-tatum.html",40,49,"positive"
-"73","District 9",1,"http://www.nytimes.com/2009/08/14/movies/14district.html",38,15,"negative"
-"74","Noah",0,"http://www.nytimes.com/2014/03/28/movies/russell-crowe-confronts-lifes-nasty-weather-in-noah.html",57,39,"negative"
-"75","Ocean's Eleven",1,"http://www.nytimes.com/movie/review?res=9F03E5D8123CF934A35751C1A9679C8B63",50,43,"negative"
-"76","Bee Movie",0,"http://www.nytimes.com/2007/11/02/movies/02bee.html",35,31,"negative"
-"77","Sully",1,"http://www.nytimes.com/2016/09/09/movies/sully-review.html",54,34,"negative"
-"78","Wonder",1,"http://www.nytimes.com/2017/11/16/movies/wonder-review-jacob-tremblay-julia-roberts-owen-wilson.html",11,21,"positive"
-"79","Kung Fu Panda 3",0,"http://www.nytimes.com/2016/01/29/movies/bryan-cranston-jack-black-kung-fu-panda-3-review.html",11,10,"negative"
-"80","Spy Kids 3-D: Game Over",0,"http://www.nytimes.com/movie/review?res=9F02E1DD123FF936A15754C0A9659C8B63",28,15,"negative"
-"81","The Angry Birds Movie",0,"http://www.nytimes.com/2016/05/20/movies/-the-angry-birds-movie-review.html",13,17,"positive"
-"82","Rampage",0,"http://www.nytimes.com/2018/04/11/movies/rampage-review-dwayne-johnson.html",16,10,"negative"
-"83","Paranormal Activity 2",0,"http://www.nytimes.com/2010/10/23/movies/23para.html",19,5,"negative"
-"84","Epic",0,"http://www.nytimes.com/2013/05/24/movies/epic-directed-by-chris-wedge.html",28,14,"negative"
-"85","The Expendables",0,"http://www.nytimes.com/2010/08/13/movies/13expendables.html",35,23,"negative"
-"86","Sweet Home Alabama",0,"http://www.nytimes.com/movie/review?res=9E0DE6D71139F934A1575AC0A9649C8B63",28,41,"positive"
-"87","Girls Trip",0,"http://www.nytimes.com/2017/07/19/movies/girls-trip-review-dargis-queen-latifah-regina-hall-tiffany-haddish-jada-pinkett-smith.html",34,23,"negative"
-"88","Madea Goes To Jail",0,"http://www.nytimes.com/2009/02/21/movies/21made.html",19,16,"negative"
-"89","The Good Dinosaur",1,"http://www.nytimes.com/2015/11/25/movies/review-the-good-dinosaur-pixar-human-and-apatosaurus.html",40,31,"negative"
-"90","The Devil Wears Prada",0,"http://www.nytimes.com/2006/06/30/movies/30devi.html",66,49,"negative"
-"91","The Green Hornet",0,"http://www.nytimes.com/2011/01/14/movies/14green.html",29,34,"positive"
-"92","Couples Retreat",0,"http://www.nytimes.com/2009/10/09/movies/09couples.html",36,11,"negative"
-"93","The Sum of All Fears",0,"http://www.nytimes.com/movie/review?res=9D05E6DF163AF932A05756C0A9649C8B63",55,25,"negative"
-"94","Jackass Presents: Bad Grandpa",0,"http://www.nytimes.com/2013/10/25/movies/jackass-presents-bad-grandpa-with-more-pranks.html",7,3,"negative"
-"95","The Magnificent Seven",0,"http://www.nytimes.com/2016/09/23/movies/magnificent-seven-review-denzel-washington.html",33,26,"negative"
-"96","The Scorpion King",0,"http://www.nytimes.com/movie/review?res=9C05E5DE143FF93AA25757C0A9649C8B63",47,14,"negative"
-"97","Bringing Down the House",0,"http://www.nytimes.com/movie/review?res=9E0CE0DD133FF934A35750C0A9659C8B63",32,25,"negative"
-"98","Blade Runner 2049",0,"http://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html",40,41,"positive"
-"99","The Book of Eli",0,"http://www.nytimes.com/2010/01/15/movies/15eli.html",35,18,"negative"
-"100","Horrible Bosses",0,"http://www.nytimes.com/2011/07/08/movies/horrible-bosses-with-jason-bateman-review.html",75,25,"negative"
-"101","Bad Teacher",0,"http://www.nytimes.com/2011/06/24/movies/cameron-diaz-in-bad-teacher-review.html",45,33,"negative"
-"102","Bridesmaids",1,"http://www.nytimes.com/2011/05/13/movies/bridesmaids-with-kristen-wiig-maya-rudolph-review.html",45,35,"negative"
-"103","Terminator: Genisys",0,"http://www.nytimes.com/2015/07/01/movies/review-terminator-genisys-shows-that-arnold-schwarzenegger-is-most-assuredly-back.html",30,24,"negative"
-"104","Due Date",0,"http://www.nytimes.com/2010/11/05/movies/05due.html",42,14,"negative"
-"105","Norbit",0,"http://www.nytimes.com/2007/02/09/movies/09norb.html",42,24,"negative"
-"106","Crazy Rich Asians",0,"http://www.nytimes.com/2018/08/14/movies/crazy-rich-asians-review.html",35,43,"positive"
-"107","Wrath of the Titans",0,"http://www.nytimes.com/2012/03/30/movies/wrath-of-the-titans-starring-sam-worthington.html",14,9,"negative"
-"108","Ride Along 2",0,"http://www.nytimes.com/2016/01/15/movies/review-ride-along-2-reloads-twin-barrels-of-ice-cube-and-kevin-hart.html",14,12,"negative"
-"109","Ted 2",0,"http://www.nytimes.com/2015/06/26/movies/review-in-ted-2-the-foulmouthed-bear-tries-to-prove-hes-human.html",65,18,"negative"
-"110","The Help",0,"http://www.nytimes.com/2011/08/10/movies/the-help-spans-two-worlds-white-and-black-review.html",51,24,"negative"
-"111","Edge of Tomorrow",0,"http://www.nytimes.com/2014/06/06/movies/tom-cruise-battles-invaders-in-edge-of-tomorrow.html",39,40,"positive"
-"112","The Departed",1,"http://www.nytimes.com/2006/10/06/movies/06depa.html",50,19,"negative"
-"113","Beowulf",0,"http://www.nytimes.com/2007/11/16/movies/16beow.html",22,25,"positive"
-"114","Erin Brockovich",0,"http://www.nytimes.com/movie/review?res=9805EED8163AF934A25750C0A9669C8B63",48,33,"negative"
-"115","He's Just Not That Into You",0,"http://www.nytimes.com/2009/02/06/movies/06into.html",39,23,"negative"
-"116","The Pursuit of Happyness",0,"http://www.nytimes.com/2006/12/15/movies/15happ.html",39,43,"positive"
-"117","John Carter",0,"http://www.nytimes.com/2012/03/09/movies/john-carter-with-taylor-kitsch-and-lynn-collins.html",29,28,"negative"
-"118","Non-Stop",0,"http://www.nytimes.com/2014/02/28/movies/non-stop-with-liam-neeson-lives-up-to-its-title.html",41,17,"negative"
-"119","Collateral",1,"http://www.nytimes.com/movie/review?res=9800E4DE123CF935A3575BC0A9629C8B63",45,31,"negative"
-"120","Beverly Hills Chihuahua",0,"http://www.nytimes.com/2008/10/03/movies/03chih.html",12,8,"negative"
-"121","The Princess Diaries",0,"http://www.nytimes.com/movie/review?res=9E04E4D9143CF930A3575BC0A9679C8B63",22,30,"positive"
-"122","The Purge: Anarchy",0,"http://www.nytimes.com/2014/07/18/movies/the-purge-anarchy-with-zach-gilford.html",22,18,"negative"
-"123","Murder on the Orient Express",0,"http://www.nytimes.com/2017/11/08/movies/murder-on-the-orient-express-review-kenneth-branagh.html",24,13,"negative"
-"124","The Campaign",0,"http://www.nytimes.com/2012/08/10/movies/the-campaign-starring-will-ferrell-and-zach-galifianakis.html",47,30,"negative"
-"125","Cats & Dogs",0,"http://www.nytimes.com/movie/review?res=9803E4DC1E39F937A35754C0A9679C8B63",28,25,"negative"
-"126","Christopher Robin",0,"http://www.nytimes.com/2018/08/02/movies/christopher-robin-review-ewan-mcgregor.html",7,7,"neutral"
-"127","The A-Team",0,"http://www.nytimes.com/2010/06/11/movies/11ateam.html",42,24,"negative"
-"128","Saw IV",0,"http://www.nytimes.com/2007/10/27/movies/27saw.html",16,6,"negative"
-"129","The Best Man Holiday",0,"http://www.nytimes.com/2013/11/15/movies/the-best-man-holiday-a-sequel-about-former-college-friends.html",8,7,"negative"
-"130","Brüno",0,"http://www.nytimes.com/2009/07/10/movies/10bruno.html",71,34,"negative"
-"131","A Good Day to Die Hard",0,"http://www.nytimes.com/2013/02/14/movies/a-good-day-to-die-hard-with-bruce-willis.html",42,19,"negative"
-"132","Me, Myself & Irene",0,"http://www.nytimes.com/movie/review?res=9406E6DF1F31F930A15755C0A9669C8B63",49,44,"negative"
-"133","The Emoji Movie",0,"http://www.nytimes.com/2017/07/27/movies/the-emoji-movie-review.html",11,15,"positive"
-"134","Date Night",0,"http://www.nytimes.com/2010/04/09/movies/09date.html",41,29,"negative"
-"135","Tammy",0,"http://www.nytimes.com/2014/07/02/movies/in-tammy-melissa-mccarthy-hits-the-road.html",39,28,"negative"
-"136","A Nightmare on Elm Street",0,"http://www.nytimes.com/2010/04/30/movies/30nightmare.html",36,19,"negative"
-"137","Peter Rabbit",0,"http://www.nytimes.com/2018/02/08/movies/peter-rabbit-review.html",8,18,"positive"
-"138","Think Like a Man Too",0,"http://www.nytimes.com/2014/06/20/movies/think-like-a-man-too-the-wedding-full-of-partying.html",10,7,"negative"
-"139","Madea's Family Reunion",0,"http://www.nytimes.com/2006/02/25/movies/25made.html",14,10,"negative"
-"140","The Other Woman",0,"http://www.nytimes.com/2014/04/25/movies/the-other-woman-stars-cameron-diaz-and-leslie-mann.html",28,14,"negative"
-"141","Skyscraper",0,"http://www.nytimes.com/2018/07/11/movies/skyscraper-review-dwayne-johnson.html",23,14,"negative"
-"142","Obsessed",0,"http://www.nytimes.com/2009/04/25/movies/25obse.html",29,17,"negative"
-"143","Bridge to Terabithia",1,"http://www.nytimes.com/2007/02/16/movies/16tera.html",15,22,"positive"
-"144","Dinner for Schmucks",0,"http://www.nytimes.com/2010/07/30/movies/30dinner.html",46,38,"negative"
-"145","Save the Last Dance",0,"http://www.nytimes.com/movie/review?res=9901E7DC1F3AF931A25752C0A9679C8B63",23,24,"positive"
-"146","Knowing",0,"http://www.nytimes.com/2009/03/20/movies/20know.html",33,12,"negative"
-"147","The Social Network",1,"http://www.nytimes.com/2010/09/24/movies/24nyffsocial.html",59,34,"negative"
-"148","Pixels",0,"http://www.nytimes.com/2015/07/24/movies/review-in-pixels-attack-of-the-retro-video-games.html",8,6,"negative"
-"149","War Horse",1,"http://www.nytimes.com/2011/12/23/movies/war-horse-directed-by-steven-spielberg-review.html",61,52,"negative"
-"150","10 Cloverfield Lane",1,"http://www.nytimes.com/2016/03/11/movies/10-cloverfield-lane-review.html",11,12,"positive"
-"151","Act of Valor",0,"http://www.nytimes.com/2012/02/24/movies/act-of-valor-starring-navy-seal-members.html",5,8,"positive"
-"152","Dawn of the Dead",0,"http://www.nytimes.com/movie/review?res=9A06EED61231F93AA25750C0A9629C8B63",50,21,"negative"
-"153","The Monuments Men",0,"http://www.nytimes.com/2014/02/07/movies/clooney-and-company-hunt-for-treasures-in-monuments-men.html",23,33,"positive"
-"154","Total Recall",0,"http://www.nytimes.com/2012/08/03/movies/movie-review-total-recall-with-colin-farrell.html",32,17,"negative"
-"155","The Taking of Pelham 123",1,"http://www.nytimes.com/2009/06/12/movies/12pelham.html",56,26,"negative"
-"156","Monster House",1,"http://www.nytimes.com/2006/07/21/movies/21mons.html",47,26,"negative"
-"157","Arrival",1,"http://www.nytimes.com/2016/11/11/movies/arrival-review-amy-adams-jeremy-renner.html",26,35,"positive"
-"158","The First Purge",0,"http://www.nytimes.com/2018/07/03/movies/the-first-purge-review.html",17,6,"negative"
-"159","Paul Blart: Mall Cop 2",0,"http://www.nytimes.com/2015/04/18/movies/review-paul-blart-mall-cop-2-starring-kevin-james-heads-to-las-vegas.html",11,10,"negative"
-"160","The Game Plan",0,"http://www.nytimes.com/2007/09/28/movies/28game.html",2,10,"positive"
-"161","Two Weeks Notice",0,"http://www.nytimes.com/movie/review?res=9A00E2D6103DF933A15751C1A9649C8B63",27,30,"positive"
-"162","Argo",1,"http://www.nytimes.com/2012/10/12/movies/argo-directed-by-ben-affleck.html",39,25,"negative"
-"163","Heaven is for Real",0,"http://www.nytimes.com/2014/04/16/movies/heaven-is-for-real-stars-greg-kinnear.html",8,23,"positive"
-"164","Jackass: The Movie",0,"http://www.nytimes.com/movie/review?res=9C0CEFD6113CF935A15753C1A9649C8B63",29,8,"negative"
-"165","The Omen",0,"http://www.nytimes.com/2006/06/06/movies/06omen.html",29,13,"negative"
-"166","The Predator",0,"http://www.nytimes.com/2018/09/13/movies/the-predator-review.html",7,5,"negative"
-"167","Madea's Big Happy Family",0,"http://www.nytimes.com/2011/04/25/movies/madea-big-happy-family-with-tyler-perry-review.html",24,24,"neutral"
-"168","Vantage Point",0,"http://www.nytimes.com/2008/02/22/movies/22vant.html",15,13,"negative"
-"169","We Were Soldiers",0,"http://www.nytimes.com/movie/review?res=9900E6DD1331F932A35750C0A9649C8B63",52,37,"negative"
-"170","The Adventures of Tintin",0,"http://www.nytimes.com/2011/12/21/movies/the-adventures-of-tintin-by-steven-spielberg-review.html",37,17,"negative"
-"171","The Boss",0,"http://www.nytimes.com/2016/04/08/movies/the-boss-review-melissa-mccarthy.html",35,29,"negative"
-"172","Chronicle",0,"http://www.nytimes.com/2012/02/03/movies/dane-dehaan-in-chronicle-directed-by-josh-trank.html",32,24,"negative"
-"173","The Time Machine",0,"http://www.nytimes.com/movie/review?res=9E07E3D91330F93BA35750C0A9649C8B63",33,30,"negative"
-"174","17 Again",0,"http://www.nytimes.com/2009/04/17/movies/17seve.html",15,23,"positive"
-"175","John Q",0,"http://www.nytimes.com/movie/review?res=9803EED7143FF936A25751C0A9649C8B63",42,21,"negative"
-"176","Jack Reacher: Never Go Back",0,"http://www.nytimes.com/2016/10/21/movies/jack-reacher-never-go-back-review-tom-cruise.html",29,22,"negative"
-"177","Project X",1,"http://www.nytimes.com/2012/03/02/movies/project-x-from-nima-nourizadeh.html",5,12,"positive"
-"178","Life of Pi",0,"http://www.nytimes.com/2012/11/21/movies/life-of-pi-directed-by-ang-lee.html",33,56,"positive"
-"179","No Strings Attached",0,"http://www.nytimes.com/2011/01/21/movies/21nostringsattached.html",31,32,"positive"
-"180","Baywatch",0,"http://www.nytimes.com/2017/05/24/movies/baywatch-review-zac-efron-dwayne-johnson.html",27,24,"negative"
-"181","The Family Man",0,"http://www.nytimes.com/movie/review?res=9400E2D71F39F931A15751C1A9669C8B63",42,42,"neutral"
-"182","The Stepford Wives",0,"http://www.nytimes.com/movie/review?res=9A0DE2DA1430F932A25755C0A9629C8B63",42,27,"negative"
-"183","The BFG",0,"http://www.nytimes.com/2016/07/01/movies/the-bfg-review-steven-spielberg-mark-rylance.html",36,36,"neutral"
-"184","Exodus: Gods and Kings",0,"http://www.nytimes.com/2014/12/12/movies/exodus-gods-and-kings-ridley-scotts-biblical-drama.html",43,28,"negative"
-"185","Snow Dogs",0,"http://www.nytimes.com/movie/review?res=9400EFDF1E38F93BA25752C0A9649C8B63",25,15,"negative"
-"186","The Adjustment Bureau",1,"http://www.nytimes.com/2011/03/04/movies/04adjust.html",41,34,"negative"
-"187","Prisoners",0,"http://www.nytimes.com/2013/09/20/movies/prisoners-stars-hugh-jackman-and-jake-gyllenhaal.html",67,25,"negative"
-"188","The Bounty Hunter",0,"http://www.nytimes.com/2010/03/19/movies/19bounty.html",54,19,"negative"
-"189","Rise of the Guardians",0,"http://www.nytimes.com/2012/11/21/movies/in-rise-of-the-guardians-childhood-naivete-wins.html",30,25,"negative"
-"190","I Can Do Bad All By Myself",0,"http://www.nytimes.com/2009/09/12/movies/12tyler.html",27,17,"negative"
-"191","Hotel for Dogs",0,"http://www.nytimes.com/2009/01/16/movies/16dogs.html",14,24,"positive"
-"192","Blockers",0,"http://www.nytimes.com/2018/04/05/movies/blockers-review.html",36,20,"negative"
-"193","Takers",0,"http://www.nytimes.com/2010/08/27/movies/27takers.html",31,28,"negative"
-"194","The Strangers",1,"http://www.nytimes.com/2008/05/30/movies/30stra.html",17,9,"negative"
-"195","The Haunting in Connecticut",0,"http://www.nytimes.com/2009/03/27/movies/27haun.html",13,3,"negative"
-"196","The Time Traveler's Wife",0,"http://www.nytimes.com/2009/08/14/movies/14time.html",23,14,"negative"
-"197","Me Before You",0,"http://www.nytimes.com/2016/06/03/movies/me-before-you-review.html",23,19,"negative"
-"198","Déjà Vu",0,"http://www.nytimes.com/2006/11/22/movies/22deja.html",41,23,"negative"
-"199","Warm Bodies",0,"http://www.nytimes.com/2013/02/01/movies/warm-bodies-written-and-directed-by-jonathan-levine.html",37,31,"negative"
-"200","This is 40",0,"http://www.nytimes.com/2012/12/21/movies/this-is-40-from-judd-apatow-and-starring-paul-rudd.html",59,38,"negative"
-"201","Holes",1,"http://www.nytimes.com/movie/review?res=9B0CEFD7163AF93BA25757C0A9659C8B63",59,36,"negative"
-"202","The Shaggy Dog",0,"http://www.nytimes.com/movie/review?res=9A05E3DB1038EF3BBC4851DFB5668382649EDE",15,23,"positive"
-"203","Forgetting Sarah Marshall",0,"http://www.nytimes.com/2008/04/18/movies/18forg.html",38,39,"positive"
-"204","The Good Shepherd",0,"http://www.nytimes.com/2006/12/22/movies/22shep.html",46,37,"negative"
-"205","Coraline",1,"http://www.nytimes.com/2009/02/06/movies/06cora.html",39,36,"negative"
-"206","Stuart Little 2",1,"http://www.nytimes.com/movie/review?res=9802EED91039F93AA25754C0A9649C8B63",30,35,"positive"
-"207","Kick-Ass",0,"http://www.nytimes.com/2010/04/16/movies/16kick.html",35,18,"negative"
-"208","Assassin’s Creed",0,"http://www.nytimes.com/2016/12/20/movies/assassins-creed-review-michael-fassbender.html",15,14,"negative"
-"209","Along Came a Spider",0,"http://www.nytimes.com/movie/review?res=9A0CEFD7143EF935A35757C0A9679C8B63",32,18,"negative"
-"210","Last Vegas",0,"http://www.nytimes.com/2013/11/01/movies/last-vegas-stars-de-niro-freeman-douglas-and-kline.html",21,12,"negative"
-"211","Just Married",0,"http://www.nytimes.com/movie/review?res=9D05E1D6113EF933A25752C0A9659C8B63",33,26,"negative"
-"212","Percy Jackson: Sea of Monsters",0,"http://www.nytimes.com/2013/08/07/movies/percy-jackson-sea-of-monsters-with-logan-lerman.html",6,9,"positive"
-"213","Secret Window",0,"http://www.nytimes.com/movie/review?res=9A07E5DB133EF931A25750C0A9629C8B63",34,16,"negative"
-"214","Changing Lanes",0,"http://www.nytimes.com/movie/review?res=9D02EEDB163CF931A25757C0A9649C8B63",59,26,"negative"
-"215","Year One",1,"http://www.nytimes.com/2009/06/19/movies/19year.html",33,18,"negative"
-"216","Water for Elephants",0,"http://www.nytimes.com/2011/04/22/movies/reese-witherspoon-in-water-for-elephants-review.html",45,27,"negative"
-"217","The Shack",0,"http://www.nytimes.com/2017/03/02/movies/the-shack-review-sam-worthington-octavia-spencer.html",8,9,"positive"
-"218","The Others",0,"http://www.nytimes.com/movie/review?res=9C0DE7DF153FF933A2575BC0A9679C8B63",48,26,"negative"
-"219","The Boxtrolls",0,"http://www.nytimes.com/2014/09/26/movies/the-boxtrolls-is-an-adaptation-of-here-be-monsters.html",32,18,"negative"
-"220","The One",0,"http://www.nytimes.com/2011/10/07/movies/the-one-a-coming-out-film-by-caytha-jentis-review.html",18,11,"negative"
-"221","Notorious",0,"http://www.nytimes.com/2009/01/16/movies/16noto.html",47,40,"negative"
-"222","Southpaw",0,"http://www.nytimes.com/2015/07/24/movies/review-in-southpaw-jake-gyllenhaal-tries-to-box-his-way-back-from-tragedy.html",33,24,"negative"
-"223","Premonition",0,"http://www.nytimes.com/2007/03/16/movies/16prem.html",40,10,"negative"
-"224","K-PAX",0,"http://www.nytimes.com/movie/review?res=9E07E2DB1331F935A15753C1A9679C8B63",54,38,"negative"
-"225","Ghost in the Shell",0,"http://www.nytimes.com/2017/03/30/movies/ghost-in-the-shell-review-scarlett-johansson.html",26,23,"negative"
-"226","Mona Lisa Smile",0,"http://www.nytimes.com/movie/review?res=9C0CE0DD173FF93AA25751C1A9659C8B63",24,46,"positive"
-"227","The Internship",0,"http://www.nytimes.com/2013/06/07/movies/the-internship-with-vince-vaughn-and-owen-wilson.html",16,10,"negative"
-"228","Life of the Party",0,"http://www.nytimes.com/2018/05/10/movies/life-of-the-party-review-melissa-mccarthy.html",15,16,"positive"
-"229","American Made",0,"http://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html",38,23,"negative"
-"230","For Colored Girls",1,"http://www.nytimes.com/2010/11/05/movies/05for.html",47,31,"negative"
-"231","Identity",0,"http://www.nytimes.com/movie/review?res=9907E5DB163DF936A15757C0A9659C8B63",41,16,"negative"
-"232","Uncle Drew",0,"http://www.nytimes.com/2018/06/28/movies/uncle-drew-review-kyrie-irving.html",11,2,"negative"
-"233","Rambo",0,"http://www.nytimes.com/2008/01/25/movies/25ramb.html",35,12,"negative"
-"234","Gangs of New York",1,"http://www.nytimes.com/movie/review?res=9E06E4D8103DF933A15751C1A9649C8B63",74,52,"negative"
-"235","The Recruit",0,"http://www.nytimes.com/movie/review?res=9A07E3D71F39F932A05752C0A9659C8B63",41,19,"negative"
-"236","Sucker Punch",0,"http://www.nytimes.com/2011/03/25/movies/sucker-punch-from-zack-snyder-review.html",55,21,"negative"
-"237","Catwoman",0,"http://www.nytimes.com/movie/review?res=9804EEDD1E3AF931A15754C0A9629C8B63",46,39,"negative"
-"238","I Feel Pretty",0,"http://www.nytimes.com/2018/04/19/movies/i-feel-pretty-review-amy-schumer.html",39,38,"negative"
-"239","Open Range",0,"http://www.nytimes.com/movie/review?res=9F02E1D71630F936A2575BC0A9659C8B63",37,23,"negative"
-"240","Reign of Fire",0,"http://www.nytimes.com/movie/review?res=9C06E4D81330F931A25754C0A9649C8B63",43,23,"negative"
-"241","The Prestige",1,"http://www.nytimes.com/2006/10/20/movies/20pres.html",54,58,"positive"
-"242","Welcome Home Roscoe Jenkins",0,"http://www.nytimes.com/2008/02/08/movies/08rosc.html",19,18,"negative"
-"243","Krampus",0,"http://www.nytimes.com/2015/12/04/movies/review-in-krampus-the-holiday-involves-a-demonic-santa.html",19,6,"negative"
-"244","Righteous Kill",0,"http://www.nytimes.com/2008/09/12/movies/12righ.html",26,20,"negative"
-"245","The Whole Nine Yards",0,"http://www.nytimes.com/movie/review?res=9404EEDC1131F93BA25751C0A9669C8B63",25,30,"positive"
-"246","Rock of Ages",0,"http://www.nytimes.com/2012/06/15/movies/review-rock-of-ages-a-musical-starring-tom-cruise.html",21,15,"negative"
-"247","Apocalypto",0,"http://www.nytimes.com/2006/12/08/movies/08apoc.html",55,30,"negative"
-"248","Miracles from Heaven",0,"http://www.nytimes.com/2016/03/16/movies/review-miracles-from-heaven-starring-jennifer-garner-as-the-mother-of-a-sick-child.html",16,22,"positive"
-"249","Final Destination 2",0,"http://www.nytimes.com/movie/review?res=9903E4D81F39F932A05752C0A9659C8B63",49,18,"negative"
-"250","The Beach",0,"http://www.nytimes.com/movie/review?res=9C00EFDE103EF932A25751C0A9669C8B63",37,37,"neutral"
-"251","John Wick",1,"http://www.nytimes.com/2014/10/24/movies/in-john-wick-keanu-reeves-as-an-avenger.html",25,27,"positive"
-"252","The Crazies",0,"http://www.nytimes.com/2010/02/26/movies/26crazies.html",11,8,"negative"
-"253","The Tale of Despereaux",0,"http://www.nytimes.com/2008/12/19/movies/19tale.html",19,38,"positive"
-"254","Jersey Boys",0,"http://www.nytimes.com/2014/06/20/movies/jersey-boys-eastwoods-take-on-showbiz-myth.html",49,28,"negative"
-"255","Jeepers Creepers II",0,"http://www.nytimes.com/movie/review?res=9C07EED81E39F93AA1575BC0A9659C8B63",14,9,"negative"
-"256","Peter Pan: Return to Neverland",0,"http://www.nytimes.com/movie/review?res=980DE3D7143FF936A25751C0A9649C8B63",31,20,"negative"
-"257","Enough",0,"http://www.nytimes.com/movie/review?res=9D00E0DB1F38F937A15756C0A9649C8B63",45,27,"negative"
-"258","Money Monster",0,"http://www.nytimes.com/2016/05/13/movies/review-in-money-monster-review-george-clooney-julia-roberts-jodie-foster.html",40,29,"negative"
-"259","Showtime",0,"http://www.nytimes.com/movie/review?res=9A05EFD81039F936A25750C0A9649C8B63",38,22,"negative"
-"260","Insidious",0,"http://www.nytimes.com/2011/04/01/movies/insidious-directed-by-james-wan-review.html",15,5,"negative"
-"261","Serendipity",0,"http://www.nytimes.com/movie/review?res=9903E7DD163CF936A35753C1A9679C8B63",23,31,"positive"
-"262","Next Friday",0,"http://www.nytimes.com/movie/review?res=9A0CEFDF163AF931A25752C0A9669C8B63",35,9,"negative"
-"263","American Assassin",0,"http://www.nytimes.com/2017/09/14/movies/american-assassin-review-michael-keaton.html",20,14,"negative"
-"264","Domestic Disturbance",0,"http://www.nytimes.com/movie/review?res=9B05E5DD1130F931A35752C1A9679C8B63",41,11,"negative"
-"265","Australia",0,"http://www.nytimes.com/2008/11/26/movies/26aust.html",50,25,"negative"
-"266","End of Watch",0,"http://www.nytimes.com/2012/09/21/movies/end-of-watch-with-jake-gyllenhaal-and-michael-pena.html",21,16,"negative"
-"267","Blow",0,"http://www.nytimes.com/movie/review?res=9D01E1DE153EF935A35757C0A9679C8B63",51,24,"negative"
-"268","The Roommate",0,"http://www.nytimes.com/2011/02/04/movies/roundup2.html",17,4,"negative"
-"269","Jumping the Broom",0,"http://www.nytimes.com/2011/05/06/movies/jumping-the-broom-with-angela-bassett-review.html",26,15,"negative"
-"270","Duplicity",1,"http://www.nytimes.com/2009/03/20/movies/20dupl.html",56,42,"negative"
-"271","Good Boy!",0,"http://www.nytimes.com/movie/review?res=9D01E0DC143FF933A25753C1A9659C8B63",13,11,"negative"
-"272","Lakeview Terrace",0,"http://www.nytimes.com/2008/09/19/movies/19terr.html",37,14,"negative"
-"273","The Watch",0,"http://www.nytimes.com/2012/07/27/movies/the-watch-with-ben-stiller-and-vince-vaughn.html",34,10,"negative"
-"274","Max",0,"http://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html",18,22,"positive"
-"275","The 15:17 to Paris",0,"http://www.nytimes.com/2018/02/07/movies/the-1517-to-paris-review-clint-eastwood.html",25,29,"positive"
-"276","Bridget Jones's Diary",1,"http://www.nytimes.com/movie/review?res=9F04E2DB1531F930A25757C0A9679C8B63",48,59,"positive"
-"277","Concussion",0,"http://www.nytimes.com/2015/12/25/movies/review-in-concussion-a-doctors-cri-de-coeur-against-footballs-risks.html",37,21,"negative"
-"278","Head of State",0,"http://www.nytimes.com/movie/review?res=9C0DE5D81E30F93BA15750C0A9659C8B63",46,23,"negative"
-"279","The Holiday",0,"http://www.nytimes.com/2006/12/08/movies/08holi.html",29,35,"positive"
-"280","Stealth",0,"http://www.nytimes.com/2005/07/29/movies/traveling-to-exotic-places-and-blowing-things-to-bits.html",26,13,"negative"
-"281","The Spy Who Dumped Me",0,"http://www.nytimes.com/2018/08/01/movies/the-spy-who-dumped-me-review.html",31,16,"negative"
-"282","The Punisher",0,"http://www.nytimes.com/movie/review?res=9E0CE7DD153BF935A25757C0A9629C8B63",56,29,"negative"
-"283","Raising Helen",0,"http://www.nytimes.com/movie/review?res=980DE4D6133EF93BA15756C0A9629C8B63",37,40,"positive"
-"284","Runaway Jury",0,"http://www.nytimes.com/movie/review?res=9A06E2D6173EF934A25753C1A9659C8B63",45,23,"negative"
-"285","The Last House on the Left",1,"http://www.nytimes.com/2009/03/13/movies/13left.html",26,7,"negative"
-"286","Death Wish",0,"http://www.nytimes.com/2018/03/01/movies/review-death-wish-eli-roth-bruce-willis.html",14,2,"negative"
-"287","Malibu's Most Wanted",0,"http://www.nytimes.com/movie/review?res=9A01EFD7163AF93BA25757C0A9659C8B63",23,8,"negative"
-"288","Priest",0,"http://www.nytimes.com/2011/05/14/movies/priest-review.html",7,8,"positive"
-"289","Rugrats Go Wild",0,"http://www.nytimes.com/movie/review?res=9C06E4D81F39F930A25755C0A9659C8B63",20,14,"negative"
-"290","The Hundred-Foot Journey",0,"http://www.nytimes.com/2014/08/08/movies/in-the-hundred-foot-journey-kitchen-wars-break-out.html",35,32,"negative"
-"291","Zodiac",1,"http://www.nytimes.com/2007/03/02/movies/02zodi.html",56,28,"negative"
-"292","Nerve",0,"http://www.nytimes.com/2016/07/27/movies/nerve-review-emma-roberts.html",15,8,"negative"
-"293","Love, Simon",0,"http://www.nytimes.com/2018/03/15/movies/love-simon-review.html",19,21,"positive"
-"294","Charlie St. Cloud",0,"http://www.nytimes.com/2010/07/30/movies/30charlie.html",42,25,"negative"
-"295","The Ladykillers",0,"http://www.nytimes.com/movie/review?res=9401E2DB1230F935A15750C0A9629C8B63",40,31,"negative"
-"296","Trouble with the Curve",0,"http://www.nytimes.com/2012/09/21/movies/trouble-with-the-curve-with-clint-eastwood-and-amy-adams.html",39,21,"negative"
-"297","Fist Fight",0,"http://www.nytimes.com/2017/02/16/movies/fist-fight-review-ice-cube-charlie-day.html",31,16,"negative"
-"298","BlacKkKlansman",1,"http://www.nytimes.com/2018/08/09/movies/blackkklansman-review-spike-lee.html",64,41,"negative"
-"299","The Age of Adaline",0,"http://www.nytimes.com/2015/04/24/movies/review-the-age-of-adaline-coasts-through-the-decades.html",22,18,"negative"
-"300","Hanna",0,"http://www.nytimes.com/2011/04/08/movies/hanna-with-eric-bana-and-saoirse-ronan-review.html",48,24,"negative"
-"301","Death Race",1,"http://www.nytimes.com/2008/08/22/movies/22race.html",44,15,"negative"
-"302","Here Comes the Boom",0,"http://www.nytimes.com/2012/10/12/movies/kevin-james-in-here-comes-the-boom.html",5,13,"positive"
-"303","License to Wed",0,"http://www.nytimes.com/2007/07/03/movies/03wed.html",40,30,"negative"
-"304","Gods of Egypt",0,"http://www.nytimes.com/2016/02/26/movies/gods-of-egypt-review.html",26,16,"negative"
-"305","The Men Who Stare at Goats",0,"http://www.nytimes.com/2009/11/06/movies/06themen.html",24,29,"positive"
-"306","Entourage",0,"http://www.nytimes.com/2015/06/03/movies/review-entourage-the-screen-is-bigger-but-nothing-is-better.html",20,25,"positive"
-"307","40 Days and 40 Nights",0,"http://www.nytimes.com/movie/review?res=9504E7DE1331F932A35750C0A9649C8B63",32,22,"negative"
-"308","Mother’s Day",0,"http://www.nytimes.com/2016/04/29/movies/mothers-day-review.html",15,2,"negative"
-"309","Scary Movie 5",0,"http://www.nytimes.com/2013/04/13/movies/scary-movie-v-starring-ashley-tisdale.html",13,8,"negative"
-"310","Dan in Real Life",0,"http://www.nytimes.com/2007/10/26/movies/26dan.html",27,28,"positive"
-"311","When the Bough Breaks",0,"http://www.nytimes.com/2016/09/10/movies/review-when-the-bough-breaks-blame-a-scary-pregnancy-surrogate.html",12,6,"negative"
-"312","Crimson Peak",0,"http://www.nytimes.com/2015/10/16/movies/crimson-peak-a-guillermo-del-toro-gothic-romance-in-high-bloody-style.html",45,19,"negative"
-"313","Lincoln",1,"http://www.nytimes.com/2012/11/09/movies/lincoln-by-steven-spielberg-stars-daniel-day-lewis.html",66,63,"negative"
-"314","Point Break",0,"http://www.nytimes.com/2015/12/26/movies/review-point-break-an-x-games-remake.html",15,13,"negative"
-"315","Life",0,"http://www.nytimes.com/2017/03/23/movies/life-review-jake-gyllenhaal-ryan-reynolds.html",14,8,"negative"
-"316","Marmaduke",0,"http://www.nytimes.com/2010/06/04/movies/04marmaduke.html",13,6,"negative"
-"317","House at the End of the Street",0,"http://www.nytimes.com/2012/09/22/movies/the-house-at-the-end-of-the-street-with-jennifer-lawrence.html",22,6,"negative"
-"318","Arthur",0,"http://www.nytimes.com/2011/04/08/movies/arthur-with-russell-brand-helen-mirren-review.html",40,31,"negative"
-"319","The Star",0,"http://www.nytimes.com/movie/review?res=940DE7DC1F3AE53ABC4151DFB7668388649EDE",51,18,"negative"
-"320","Hannibal Rising",0,"http://www.nytimes.com/2007/02/09/movies/09hann.html",33,13,"negative"
-"321","McFarland, USA",0,"http://www.nytimes.com/2015/02/20/movies/review-in-mcfarland-usa-kevin-costner-coaches-cross-country-runners.html",25,33,"positive"
-"322","Pitch Perfect",0,"http://www.nytimes.com/2012/09/28/movies/pitch-perfect-starring-anna-kendrick.html",9,9,"neutral"
-"323","Hollywood Homicide",0,"http://www.nytimes.com/movie/review?res=9D04E5D81E39F930A25755C0A9659C8B63",45,35,"negative"
-"324","The Eye",0,"http://www.nytimes.com/2008/02/02/movies/02eye.html",12,8,"negative"
-"325","Drive",0,"http://www.nytimes.com/2011/09/16/movies/drive-with-ryan-gosling-review.html",45,32,"negative"
-"326","Heartbreakers",1,"http://www.nytimes.com/movie/review?res=980DE5DB173CF930A15750C0A9679C8B63",48,40,"negative"
-"327","The Mothman Prophecies",0,"http://www.nytimes.com/movie/review?res=9502E1DC1F3BF936A15752C0A9649C8B63",40,30,"negative"
-"328","The Boy",0,"http://www.nytimes.com/2016/01/23/movies/the-boy-review.html",14,4,"negative"
-"329","Oculus",0,"http://www.nytimes.com/2014/04/11/movies/in-oculus-from-mike-flanagan-a-mirror-holds-secrets.html",10,7,"negative"
-"330","Accepted",0,"http://www.nytimes.com/2006/08/18/movies/18acce.html",11,12,"positive"
-"331","Machete",0,"http://www.nytimes.com/2010/09/03/movies/03machete.html",44,21,"negative"
-"332","3 Days to Kill",0,"http://www.nytimes.com/2014/02/21/movies/3-days-to-kill-stars-kevin-costner.html",34,13,"negative"
-"333","Zack and Miri Make a Porno",0,"http://www.nytimes.com/2008/10/31/movies/31zack.html",31,30,"negative"
-"334","Definitely, Maybe",0,"http://www.nytimes.com/2008/02/14/movies/14maybe.html",42,45,"positive"
-"335","Jay and Silent Bob Strike Back",0,"http://www.nytimes.com/movie/review?res=9500E1D71531F937A1575BC0A9679C8B63",34,32,"negative"
-"336","The Mountain Between Us",0,"http://www.nytimes.com/2017/10/05/movies/the-mountain-between-us-review-kate-winslet-idris-elba.html",16,11,"negative"
-"337","How to Be a Latin Lover",0,"http://www.nytimes.com/2017/04/28/movies/how-to-be-a-latin-lover-review-eugenio-derbez.html",12,16,"positive"
-"338","Million Dollar Arm",0,"http://www.nytimes.com/2014/05/16/movies/in-million-dollar-arm-baseball-talent-from-overseas.html",32,31,"negative"
-"339","One Missed Call",0,"http://www.nytimes.com/2008/01/05/movies/05miss.html",24,4,"negative"
-"340","Breach",0,"http://www.nytimes.com/2007/02/16/movies/16brea.html",41,19,"negative"
-"341","Mirrors",0,"http://www.nytimes.com/2008/08/16/movies/16mirr.html",15,6,"negative"
-"342","Deck the Halls",0,"http://www.nytimes.com/2006/11/22/movies/22deck.html",24,11,"negative"
-"343","The Fighting Temptations",0,"http://www.nytimes.com/movie/review?res=9403E1DC123AF93AA2575AC0A9659C8B63",25,24,"negative"
-"344","Basic",0,"http://www.nytimes.com/movie/review?res=9507E7D61E30F93BA15750C0A9659C8B63",49,29,"negative"
-"345","The Bye Bye Man",0,"http://www.nytimes.com/2017/01/12/movies/the-bye-bye-man-review.html",10,9,"negative"
-"346","Soul Surfer",0,"http://www.nytimes.com/2011/04/08/movies/soul-surfer-is-bethany-hamiltons-shark-tale-review.html",10,15,"positive"
-"347","Honey",0,"http://www.nytimes.com/2011/03/25/movies/a-sons-quest-with-nature-as-a-guide.html",8,17,"positive"
-"348","The DUFF",0,"http://www.nytimes.com/2015/02/20/movies/in-the-duff-a-wounded-teenage-girl-combats-mockery.html",11,2,"negative"
-"349","The Art of War",0,"http://www.nytimes.com/movie/review?res=9B0CE5D71431F936A1575BC0A9669C8B63",30,4,"negative"
-"350","We Own the Night",0,"http://www.nytimes.com/2007/10/12/movies/12nigh.html",39,26,"negative"
-"351","Run All Night",0,"http://www.nytimes.com/2015/03/13/movies/review-in-run-all-night-liam-neeson-sticks-to-what-works.html",8,3,"negative"
-"352","One for the Money",0,"http://www.nytimes.com/2012/01/28/movies/katherine-heigl-in-film-based-on-janet-evanovich-novel.html",18,12,"negative"
-"353","Dracula 2000",0,"http://www.nytimes.com/movie/review?res=9B05EFD91738F930A15751C1A9669C8B63",31,11,"negative"
-"354","Hugo",1,"http://www.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html",34,35,"positive"
-"355","Lawless",1,"http://www.nytimes.com/2017/03/16/movies/song-to-song-review-terrence-malick.html",35,41,"positive"
-"356","Hardball",0,"http://www.nytimes.com/movie/review?res=9402E0D71E38F936A2575AC0A9679C8B63",39,23,"negative"
-"357","Kidnap",0,"http://www.nytimes.com/2017/08/03/movies/kidnap-review-halle-berry.html",13,3,"negative"
-"358","Dance Flick",0,"http://www.nytimes.com/2009/05/22/movies/22flic.html",38,17,"negative"
-"359","Kevin Hart: What Now?",1,"http://www.nytimes.com/2016/10/14/movies/kevin-hart-what-now-review.html",13,7,"negative"
-"360","The Missing",0,"http://www.nytimes.com/movie/review?res=940DEFDB1F3BF935A15752C1A9659C8B63",33,14,"negative"
-"361","Black Knight",0,"http://www.nytimes.com/movie/review?res=9B01EEDF1F3BF932A15752C1A9679C8B63",44,14,"negative"
-"362","Blood Diamond",0,"http://www.nytimes.com/2006/12/08/movies/08diam.html",51,26,"negative"
-"363","Keeping the Faith",0,"http://www.nytimes.com/movie/review?res=9C0CE3DE113EF937A25757C0A9669C8B63",23,26,"positive"
-"364","The Spy Next Door",0,"http://www.nytimes.com/2010/01/15/movies/15spy.html",13,9,"negative"
-"365","The Debt",0,"http://www.nytimes.com/2016/07/08/movies/the-debt-review.html",25,9,"negative"
-"366","Sinister 2",0,"http://www.nytimes.com/2015/08/21/movies/review-in-sinister-2-a-murderous-being-returns-for-more-mayhem.html",16,3,"negative"
-"367","The Strangers: Prey at Night",0,"http://www.nytimes.com/2018/03/08/movies/strangers-prey-at-night-review.html",17,3,"negative"
-"368","Murder by Numbers",0,"http://www.nytimes.com/movie/review?res=9404E5DE143FF93AA25757C0A9649C8B63",63,18,"negative"
-"369","Piranha 3D",0,"http://www.nytimes.com/2010/08/23/movies/23piranha.html",26,14,"negative"
-"370","See Spot Run",0,"http://www.nytimes.com/movie/review?res=9E01E0DC163BF931A35750C0A9679C8B63",24,21,"negative"
-"371","15 Minutes",0,"http://www.nytimes.com/movie/review?res=9E05E1D8163AF93AA35750C0A9679C8B63",43,28,"negative"
-"372","Frequency",1,"http://www.nytimes.com/movie/review?res=940CE6DA1E30F93BA15757C0A9669C8B63",33,25,"negative"
-"373","The Watcher",0,"http://www.nytimes.com/movie/review?res=9A03E3D71539F93BA3575AC0A9669C8B63",33,12,"negative"
-"374","The Lazarus Effect",0,"http://www.nytimes.com/2015/02/27/movies/review-in-the-lazarus-effect-young-scientists-play-god.html",9,4,"negative"
-"375","Fighting",0,"http://www.nytimes.com/2009/04/24/movies/24figh.html",30,24,"negative"
-"376","Winchester",0,"http://www.nytimes.com/2018/02/02/movies/winchester-review-helen-mirren.html",11,8,"negative"
-"377","Angel Eyes",0,"http://www.nytimes.com/movie/review?res=9A0CE7DF113AF93BA25756C0A9679C8B63",27,24,"negative"
-"378","The International",0,"http://www.nytimes.com/2009/02/13/movies/13inte.html",35,23,"negative"
-"379","War",0,"http://www.nytimes.com/2007/08/25/movies/25WAR.html",20,10,"negative"
-"380","The Happytime Murders",0,"http://www.nytimes.com/2018/08/22/movies/the-happytime-murders-review-melissa-mccarthy.html",33,12,"negative"
-"381","Nanny McPhee Returns",0,"http://www.nytimes.com/2010/08/20/movies/20nanny.html",24,13,"negative"
-"382","Beastly",0,"http://www.nytimes.com/2011/03/04/movies/04beast.html",20,25,"positive"
-"383","21 and Over",0,"http://www.nytimes.com/2013/03/02/movies/21-over-directed-by-jon-lucas-and-scott-moore.html",9,2,"negative"
-"384","Proud Mary",0,"http://www.nytimes.com/2018/01/12/movies/proud-mary-review-taraji-p-henson.html",10,8,"negative"
-"385","Conan the Barbarian",0,"http://www.nytimes.com/2011/08/19/movies/conan-the-barbarian-with-jason-momoa-review.html",27,13,"negative"
-"386","You Again",0,"http://www.nytimes.com/2010/09/24/movies/24you.html",20,9,"negative"
-"387","The Guilt Trip",0,"http://www.nytimes.com/2012/12/19/movies/the-guilt-trip-with-barbra-streisand-and-seth-rogen.html",34,13,"negative"
-"388","Hearts in Atlantis",0,"http://www.nytimes.com/movie/review?res=9904E6DA1E3AF93BA1575AC0A9679C8B63",40,20,"negative"
-"389","Ramona and Beezus",0,"http://www.nytimes.com/2010/07/23/movies/23ramona.html",6,5,"negative"
-"390","Aloha",0,"http://www.nytimes.com/2015/05/29/movies/review-aloha-a-hangout-movie-with-bradley-cooper-and-emma-stone-in-hawaii.html",34,20,"negative"
-"391","Gamer",0,"http://www.nytimes.com/2009/09/05/movies/05gamer.html",9,8,"negative"
-"392","Courageous",0,"http://www.nytimes.com/2011/10/03/movies/courageous-directed-by-alex-kendrick-review.html",10,14,"positive"
-"393","Biker Boyz",0,"http://www.nytimes.com/movie/review?res=9C05E1D61F39F932A05752C0A9659C8B63",31,17,"negative"
-"394","The Covenant",0,"http://www.nytimes.com/2006/09/09/movies/09cove.html",9,14,"positive"
-"395","As Above, So Below",0,"http://www.nytimes.com/2014/08/30/movies/as-above-so-below-stars-perdita-weeks.html",9,6,"negative"
-"396","Blood Work",0,"http://www.nytimes.com/movie/review?res=9904E6DF173AF93AA3575BC0A9649C8B63",47,20,"negative"
-"397","Waist Deep",0,"http://www.nytimes.com/2006/06/23/movies/23wais.html",36,21,"negative"
-"398","Haywire",0,"http://www.nytimes.com/2012/01/20/movies/steven-soderberghs-haywire-with-gina-carano-review.html",47,29,"negative"
-"399","Free State of Jones",1,"http://www.nytimes.com/2016/06/24/movies/free-state-of-jones-review-matthew-mcconaughey.html",45,35,"negative"
-"400","The Eagle",0,"http://www.nytimes.com/2011/02/11/movies/11eagle.html",39,24,"negative"
-"401","Apollo 18",0,"http://www.nytimes.com/2011/09/03/movies/apollo-18-directed-by-gonzalo-lopez-gallego-review.html",17,6,"negative"
-"402","Looney Tunes: Back in Action",0,"http://www.nytimes.com/movie/review?res=9D0DE4D91438F937A25752C1A9659C8B63",46,26,"negative"
-"403","The Three Musketeers",0,"http://www.nytimes.com/2011/10/22/movies/the-three-musketeers-with-christoph-waltz-review.html",20,15,"negative"
-"404","Little Black Book",0,"http://www.nytimes.com/movie/review?res=9900E6D6153CF935A3575BC0A9629C8B63",19,18,"negative"
-"405","Cold Creek Manor",0,"http://www.nytimes.com/movie/review?res=9A01EFDC123AF93AA2575AC0A9659C8B63",48,14,"negative"
-"406","My Best Friend's Girl",0,"http://www.nytimes.com/2008/09/20/movies/20best.html",13,10,"negative"
-"407","Chernobyl Diaries",0,"http://www.nytimes.com/2012/05/26/movies/chernobyl-diaries-co-produced-by-oren-peli.html",17,7,"negative"
-"408","Dream House",0,"http://www.nytimes.com/2011/10/01/movies/dream-house-with-daniel-craig-and-rachel-weisz-in-review.html",14,6,"negative"
-"409","Traitor",0,"http://www.nytimes.com/2008/08/27/movies/27trai.html",44,28,"negative"
-"410","The Big Wedding",0,"http://www.nytimes.com/2013/04/26/movies/the-big-wedding-a-farce-with-keaton-and-de-niro.html",9,11,"positive"
-"411","Boys and Girls",0,"http://www.nytimes.com/movie/review?res=9C01E2D7113EF935A25755C0A9669C8B63",32,20,"negative"
-"412","A Haunted House 2",0,"http://www.nytimes.com/2014/04/19/movies/a-haunted-house-2-stars-marlon-wayans.html",18,2,"negative"
-"413","Norm of the North",0,"http://www.nytimes.com/2016/01/15/movies/review-in-norm-of-the-north-a-polar-bear-takes-a-stand.html",17,8,"negative"
-"414","School for Scoundrels",0,"http://www.nytimes.com/2006/09/29/movies/29scou.html",12,9,"negative"
-"415","Going the Distance",0,"http://www.nytimes.com/2010/09/03/movies/03going.html",42,35,"negative"
-"416","Remember Me",0,"http://www.nytimes.com/2010/03/12/movies/12remember.html",21,14,"negative"
-"417","The Hot Chick",0,"http://www.nytimes.com/movie/review?res=9B0CE6D8133AF930A25751C1A9649C8B63",33,29,"negative"
-"418","National Lampoon's Van Wilder",0,"http://www.nytimes.com/movie/review?res=9802E7D9163DF936A35757C0A9649C8B63",8,8,"neutral"
-"419","Ella Enchanted",1,"http://www.nytimes.com/movie/review?res=9407E5DB1538F93AA35757C0A9629C8B63",21,13,"negative"
-"420","You're Next",1,"http://www.nytimes.com/2013/08/23/movies/youre-next-a-home-invasion-thriller-with-tweaks.html",19,10,"negative"
-"421","The Bank Job",0,"http://www.nytimes.com/2008/03/07/movies/07bank.html",32,28,"negative"
-"422","Dead Silence",0,"http://www.nytimes.com/2007/03/17/movies/17dead.html",18,8,"negative"
-"423","The Box",0,"http://www.nytimes.com/2009/11/06/movies/06thebox.html",42,25,"negative"
-"424","Black Christmas",0,"http://www.nytimes.com/2006/12/27/movies/27blac.html",23,5,"negative"
-"425","Down to You",0,"http://www.nytimes.com/movie/review?res=9401E6DE103DF931A15752C0A9669C8B63",18,21,"positive"
-"426","Devil's Due",0,"http://www.nytimes.com/2014/01/18/movies/in-devils-due-the-horned-one-is-up-to-his-old-mischief.html",14,2,"negative"
-"427","Superfly",0,"http://www.nytimes.com/2018/06/12/movies/superfly-review.html",27,25,"negative"
-"428","Father Figures",0,"http://www.nytimes.com/2017/12/21/movies/father-figures-review-ed-helms-owen-wilson.html",11,7,"negative"
-"429","Eurotrip",0,"http://www.nytimes.com/movie/review?res=9F04E0DD103DF933A15751C0A9629C8B63",38,17,"negative"
-"430","Piglet's Big Movie",0,"http://www.nytimes.com/movie/review?res=9401E4DD1E31F932A15750C0A9659C8B63",6,16,"positive"
-"431","The Fighter",1,"http://www.nytimes.com/2010/12/10/movies/10fighter.html",73,50,"negative"
-"432","Parker",0,"http://www.nytimes.com/2013/01/25/movies/parker-starring-jennifer-lopez-and-jason-statham.html",29,34,"positive"
-"433","Jennifer's Body",0,"http://www.nytimes.com/2009/09/18/movies/18jennifer.html",77,31,"negative"
-"434","The Four Feathers",0,"http://www.nytimes.com/movie/review?res=9E06E4DA1030F933A1575AC0A9649C8B63",43,25,"negative"
-"435","The Invention of Lying",0,"http://www.nytimes.com/2009/10/02/movies/02invention.html",56,31,"negative"
-"436","The Raven",0,"http://www.nytimes.com/2012/04/27/movies/the-raven-with-john-cusack-directed-by-james-mcteigue.html",51,32,"negative"
-"437","The Last Exorcism Part II",0,"http://www.nytimes.com/2013/03/02/movies/the-last-exorcism-part-ii-starring-ashley-bell.html",17,6,"negative"
-"438","Jobs",1,"http://www.nytimes.com/2015/10/09/movies/review-steve-jobs-apples-visionary-ceo-dissected.html",43,43,"neutral"
-"439","A Thousand Words",0,"http://www.nytimes.com/2012/03/09/movies/a-thousand-words-directed-by-brian-robbins.html",9,10,"positive"
-"440","Armored",0,"http://www.nytimes.com/2009/12/05/movies/05armored.html",52,18,"negative"
-"441","Get Carter",0,"http://www.nytimes.com/movie/review?res=980CE5DE153CF934A35753C1A9669C8B63",34,18,"negative"
-"442","Solaris",1,"http://www.nytimes.com/movie/review?res=9405E1DC1638F934A15752C1A9649C8B63",64,31,"negative"
-"443","Welcome to Mooseport",0,"http://www.nytimes.com/movie/review?res=9B0DE2D9113DF933A15751C0A9629C8B63",13,23,"positive"
-"444","Adventureland",1,"http://www.nytimes.com/2009/04/03/movies/03adve.html",35,33,"negative"
-"445","Lockout",0,"http://www.nytimes.com/2012/04/13/movies/guy-pearce-in-lockout.html",33,19,"negative"
-"446","Soul Plane",0,"http://www.nytimes.com/movie/review?res=940DE3D9103EF93BA15756C0A9629C8B63",31,14,"negative"
-"447","Empire",0,"http://www.nytimes.com/movie/review?res=9D06E6D9123BF935A35751C1A9649C8B63",21,18,"negative"
-"448","New York Minute",0,"http://www.nytimes.com/movie/review?res=9B01E4DC163CF934A35756C0A9629C8B63",36,18,"negative"
-"449","Awake",0,"http://www.nytimes.com/2007/12/01/movies/01awak.html",10,4,"negative"
-"450","Silent House",0,"http://www.nytimes.com/2012/03/09/movies/silent-house-horror-film-with-elizabeth-olsen.html",5,8,"positive"
-"451","Disaster Movie",0,"http://www.nytimes.com/2008/08/30/movies/30disa.html",11,8,"negative"
-"452","Bait",0,"http://www.nytimes.com/movie/review?res=9E03E3D61238F936A2575AC0A9669C8B63",31,11,"negative"
-"453","Glee: The 3D Concert Movie",0,"http://www.nytimes.com/2011/08/12/movies/glee-the-3d-concert-movie-review.html",16,44,"positive"
-"454","Triple 9",0,"http://www.nytimes.com/2016/02/26/movies/triple-9-review.html",28,13,"negative"
-"455","Self/Less",0,"http://www.nytimes.com/2015/07/10/movies/review-in-self-less-immortality-at-a-cost.html",28,12,"negative"
-"456","Almost Famous",1,"http://www.nytimes.com/movie/review?res=950DE5D91738F930A2575AC0A9669C8B63",62,67,"positive"
-"457","Juwanna Mann",0,"http://www.nytimes.com/movie/review?res=9C06EEDA113BF932A15755C0A9649C8B63",36,15,"negative"
-"458","Burnt",0,"http://www.nytimes.com/2015/10/30/movies/review-burnt-with-bradley-cooper-as-a-chef-fresh-from-rehab.html",17,17,"neutral"
-"459","Unaccompanied Minors",0,"http://www.nytimes.com/2006/12/08/movies/08mino.html",19,13,"negative"
-"460","Changeling",0,"http://www.nytimes.com/2008/10/24/movies/24chan.html",66,27,"negative"
-"461","The 33",0,"http://www.nytimes.com/2015/11/13/movies/review-the-33-recalls-a-chilean-mine-disaster-and-the-men-who-endured-it.html",26,24,"negative"
-"462","All the Pretty Horses",0,"http://www.nytimes.com/movie/review?res=940CE4D71538F936A15751C1A9669C8B63",40,45,"positive"
-"463","Strange Magic",0,"http://www.nytimes.com/2015/01/23/movies/gary-rydstroms-strange-magic-from-a-george-lucas-story.html",10,12,"positive"
-"464","One Day",0,"http://www.nytimes.com/2011/08/19/movies/one-day-directed-by-lone-scherfig-review.html",27,37,"positive"
-"465","Meet Dave",0,"http://www.nytimes.com/2008/07/11/movies/11dave.html",21,13,"negative"
-"466","Soul Men",0,"http://www.nytimes.com/2008/11/07/movies/07soul.html",19,19,"neutral"
-"467","12 Rounds",0,"http://www.nytimes.com/2009/03/28/movies/28roun.html",18,3,"negative"
-"468","Unforgettable",0,"http://www.nytimes.com/2017/04/20/movies/unforgettable-review-katherine-heigl-rosario-dawson.html",11,6,"negative"
-"469","Before I Fall",0,"http://www.nytimes.com/2017/03/01/movies/before-i-fall-review-zoey-deutch.html",27,8,"negative"
-"470","Sorority Row",0,"http://www.nytimes.com/2009/09/12/movies/12sorority.html",20,9,"negative"
-"471","The Gunman",0,"http://www.nytimes.com/2015/03/20/movies/review-in-the-gunman-sean-penn-plays-a-remorseful-sniper-on-the-run.html",37,13,"negative"
-"472","Whip It",0,"http://www.nytimes.com/2009/10/02/movies/02whip.html",33,36,"positive"
-"473","Extract",0,"http://www.nytimes.com/2009/09/04/movies/04extract.html",49,16,"negative"
-"474","The Last Kiss",0,"http://www.nytimes.com/2006/09/15/movies/15kiss.html",55,30,"negative"
-"475","The Crew",0,"http://www.nytimes.com/movie/review?res=980CEFD81431F936A1575BC0A9669C8B63",36,21,"negative"
-"476","Abandon",0,"http://www.nytimes.com/movie/review?res=980DE3D8153DF93BA25753C1A9649C8B63",34,30,"negative"
-"477","Bullet to the Head",0,"http://www.nytimes.com/2013/02/01/movies/bullet-to-the-head-stars-sylvester-stallone.html",22,13,"negative"
-"478","The Express",0,"http://www.nytimes.com/2008/10/10/movies/10expr.html",21,23,"positive"
-"479","Stop-Loss",0,"http://www.nytimes.com/2008/03/28/movies/28stop.html",76,18,"negative"
-"480","Ponyo",1,"http://www.nytimes.com/2009/08/14/movies/14ponyo.html",29,30,"positive"
-"481","Hardcore Henry",0,"http://www.nytimes.com/2016/04/08/movies/review-in-hardcore-henry-a-semi-robotic-soldier-has-a-personal-mission.html",15,4,"negative"
-"482","Death Sentence",0,"http://www.nytimes.com/2007/08/30/movies/31sent.html",17,2,"negative"
-"483","Here on Earth",0,"http://www.nytimes.com/movie/review?res=9402EFDD143DF937A15750C0A9669C8B63",26,20,"negative"
-"484","Midnight Sun",0,"http://www.nytimes.com/2018/03/23/movies/midnight-sun-review.html",16,12,"negative"
-"485","Next Day Air",1,"http://www.nytimes.com/2009/05/08/movies/08next.html",15,8,"negative"
-"486","Cirque du Soleil: Worlds Away",0,"http://www.nytimes.com/2012/12/21/movies/cirque-du-soleil-worlds-away-in-3-d.html",8,10,"positive"
-"487","The Legend of Drunken Master",0,"http://www.nytimes.com/movie/review?res=9C0CEED6123EF933A15753C1A9669C8B63",44,34,"negative"
-"488","Death to Smoochy",0,"http://www.nytimes.com/movie/review?res=9A0DE2D71E3BF93AA15750C0A9649C8B63",46,18,"negative"
-"489","MacGruber",0,"http://www.nytimes.com/2010/05/22/movies/22macgruber.html",17,16,"negative"
-"490","The Conspirator",0,"http://www.nytimes.com/2011/04/15/movies/the-conspirator-directed-by-robert-redford-review.html",52,27,"negative"
-"491","Rock Dog",0,"http://www.nytimes.com/2017/02/23/movies/rock-dog-review.html",5,7,"positive"
-"492","Searching",0,"http://www.nytimes.com/2018/08/23/movies/searching-review-john-cho.html",15,8,"negative"
-"493","The Space Between Us",0,"http://www.nytimes.com/2017/02/02/movies/review-the-space-between-us-the-story-of-a-boy-who-fell-to-earth.html",8,7,"negative"
-"494","A Good Year",0,"http://www.nytimes.com/2006/11/10/movies/10year.html",31,30,"negative"
-"495","My Life in Ruins",0,"http://www.nytimes.com/2009/06/05/movies/05ruin.html",23,19,"negative"
-"496","The Collector",0,"http://www.nytimes.com/2009/08/01/movies/01collect.html",11,2,"negative"
-"497","About Time",0,"http://www.nytimes.com/2013/11/01/movies/about-time-a-british-confection-from-richard-curtis.html",32,27,"negative"
-"498","Bug",0,"http://www.nytimes.com/2007/05/24/movies/25bug.html",22,10,"negative"
-"499","Isle of Dogs",1,"http://www.nytimes.com/2018/03/22/movies/isle-of-dogs-review-wes-anderson.html",41,40,"negative"
-"500","Taking Woodstock",1,"http://www.nytimes.com/2009/08/26/movies/26woodstock.html",42,32,"negative"
-"501","Our Brand is Crisis",0,"http://www.nytimes.com/2015/10/30/movies/review-in-our-brand-is-crisis-the-war-room-goes-to-bolivia.html",25,27,"positive"
-"502","Nothing Like the Holidays",0,"http://www.nytimes.com/2008/12/12/movies/12holi.html",35,12,"negative"
-"503","Cadillac Records",1,"http://www.nytimes.com/2008/12/05/movies/05cadi.html",43,36,"negative"
-"504","Nine",0,"http://www.nytimes.com/2009/12/18/movies/18nine.html",45,28,"negative"
-"505","Black Nativity",0,"http://www.nytimes.com/2013/11/27/movies/black-nativity-with-angela-bassett-and-jennifer-hudson.html",26,21,"negative"
-"506","Just Getting Started",0,"http://www.nytimes.com/2017/12/11/movies/just-getting-started-review-morgan-freeman-tommy-lee-jones.html",19,13,"negative"
-"507","The Master",1,"http://www.nytimes.com/2012/09/14/movies/review-the-master-from-paul-thomas-anderson.html",70,62,"negative"
-"508","La La Land",1,"http://www.nytimes.com/2016/12/08/movies/la-la-land-review-ryan-gosling-emma-stone.html",35,54,"positive"
-"509","Post Grad",0,"http://www.nytimes.com/2009/08/21/movies/21post.html",12,13,"positive"
-"510","Miss Pettigrew Lives for a Day",0,"http://www.nytimes.com/2008/03/07/movies/07pett.html",37,33,"negative"
-"511","It Runs in the Family",1,"http://www.nytimes.com/movie/review?res=9E06E6DA163DF936A15757C0A9659C8B63",43,28,"negative"
-"512","Pirate Radio",0,"http://www.nytimes.com/2009/11/13/movies/13pirateradio.html",27,18,"negative"
-"513","Suburbicon",0,"http://www.nytimes.com/2017/10/26/movies/suburbicon-review-george-clooney-matt-damon-julianne-moore.html",31,14,"negative"
-"514","Under the Same Moon",0,"http://www.nytimes.com/2008/03/19/movies/19moon.html",27,15,"negative"
-"515","Bandslam",0,"http://www.nytimes.com/2009/08/14/movies/14bandslam.html",9,18,"positive"
-"516","The Apparition",0,"http://www.nytimes.com/2018/09/06/movies/the-apparition-review.html",5,4,"negative"
-"517","Little Boy",0,"http://www.nytimes.com/2015/04/24/movies/review-little-boy-is-a-fable-about-faith-versus-magical-thinking.html",11,15,"positive"
-"518","Battle of the Sexes",0,"http://www.nytimes.com/2017/09/21/movies/review-battle-of-the-sexes-billie-jean-king-bobby-riggs.html",32,44,"positive"
-"519","Casa de mi Padre",0,"http://www.nytimes.com/2012/03/16/movies/will-ferrell-in-casa-de-mi-padre.html",25,14,"negative"
-"520","Deception",0,"http://www.nytimes.com/2008/04/25/movies/25dece.html",15,7,"negative"
-"521","Babies",1,"http://www.nytimes.com/2010/05/07/movies/07babies.html",34,28,"negative"
-"522","True Story",0,"http://www.nytimes.com/2015/04/17/movies/review-true-story-stars-jonah-hill-and-james-franco.html",44,16,"negative"
-"523","Prem Ratan Dhan Payo",0,"http://www.nytimes.com/2015/11/16/movies/review-prem-ratan-dhan-payo-a-bollywood-tale-of-a-prince-and-plebe-double.html",9,19,"positive"
-"524","90 Minutes in Heaven",0,"http://www.nytimes.com/2015/09/11/movies/review-90-minutes-in-heaven-then-a-long-road-back.html",19,9,"negative"
-"525","The Best Exotic Marigold Hotel",1,"http://www.nytimes.com/2012/05/04/movies/the-best-exotic-marigold-hotel-with-judi-dench.html",24,26,"positive"
-"526","Hell or High Water",1,"http://www.nytimes.com/2016/08/12/movies/hell-or-high-water-review.html",31,15,"negative"
-"527","Witless Protection",0,"http://www.nytimes.com/2008/02/23/movies/23witl.html",15,6,"negative"
-"528","Absolutely Fabulous: The Movie",0,"http://www.nytimes.com/2016/07/22/movies/abfab-absolutely-fabulous-review.html",23,22,"negative"
-"529","The Cold Light of Day",0,"http://www.nytimes.com/2012/09/08/movies/bruce-willis-stars-in-the-cold-light-of-day.html",18,9,"negative"
-"530","Charlie Bartlett",0,"http://www.nytimes.com/2008/02/22/movies/22char.html",35,19,"negative"
-"531","Gotti",0,"http://www.nytimes.com/2018/06/15/movies/review-gotti-john-travolta.html",29,7,"negative"
-"532","Stronger",0,"http://www.nytimes.com/2017/09/21/movies/review-jake-gyllenhaal-as-marathon-victim-in-stronger.html",19,15,"negative"
-"533","We Are Your Friends",0,"http://www.nytimes.com/2015/08/28/movies/review-angelenos-long-for-life-beyond-the-valley-in-we-are-your-friends.html",10,4,"negative"
-"534","The To Do List",1,"http://www.nytimes.com/2013/07/26/movies/aubrey-plaza-stars-in-the-to-do-list.html",23,14,"negative"
-"535","(500) Days of Summer",0,"http://www.nytimes.com/2009/07/17/movies/17five.html",47,57,"positive"
-"536","Milk",1,"http://www.nytimes.com/2008/11/26/movies/26milk.html",50,55,"positive"
-"537","7 Days in Entebbe",0,"http://www.nytimes.com/2018/03/14/movies/7-days-in-entebbe-review.html",19,13,"negative"
-"538","Shine a Light",1,"http://www.nytimes.com/2008/04/04/movies/04shin.html",27,31,"positive"
-"539","The Fifth Estate",0,"http://www.nytimes.com/2013/10/18/movies/the-fifth-estate-with-benedict-cumberbatch-as-julian-assange.html",45,28,"negative"
-"540","Veronica Mars",0,"http://www.nytimes.com/2014/03/14/movies/veronica-mars-returns-on-the-big-screen-this-time.html",21,19,"negative"
-"541","The Road",1,"http://www.nytimes.com/2012/05/11/movies/the-road-by-the-philippine-director-yam-laranas.html",17,5,"negative"
-"542","Spare Parts",0,"http://www.nytimes.com/2015/01/16/movies/george-lopez-helps-students-build-a-robot-in-spare-parts.html",14,7,"negative"
-"543","The Identical",0,"http://www.nytimes.com/2014/09/05/movies/the-identical-a-movie-musical-about-separated-twins.html",9,6,"negative"
-"544","A Hologram for the King",1,"http://www.nytimes.com/2016/04/22/movies/review-a-hologram-for-the-king-is-elevated-by-tom-hankss-portrayal-of-an-american-everyman.html",54,23,"negative"
-"545","Gracie",1,"http://www.nytimes.com/2007/05/31/movies/01grac.html",15,8,"negative"
-"546","Anthropoid",1,"http://www.nytimes.com/2016/08/12/movies/anthropoid-review.html",15,5,"negative"
-"547","The Bling Ring",0,"http://www.nytimes.com/2013/06/14/movies/a-bling-ring-lusting-after-celebrity-trinkets.html",31,37,"positive"
-"548","Choke",0,"http://www.nytimes.com/2008/09/26/movies/26chok.html",57,15,"negative"
-"549","Thoroughbreds",0,"http://www.nytimes.com/2018/03/08/movies/thoroughbreds-review.html",13,19,"positive"
-"550","Our Kind of Traitor",0,"http://www.nytimes.com/2016/07/01/movies/review-a-professor-drawn-to-the-mob-in-our-kind-of-traitor.html",19,15,"negative"
-"551","The Way Back",0,"http://www.nytimes.com/2011/01/21/movies/21way.html",48,32,"negative"
-"552","Wish I Was Here",0,"http://www.nytimes.com/2014/07/18/movies/zach-braff-directs-and-stars-in-wish-i-was-here.html",22,16,"negative"
-"553","The Way Way Back",0,"http://www.nytimes.com/2013/07/05/movies/the-way-way-back-from-nat-faxon-and-jim-rash.html",19,23,"positive"
-"554","Demolition",0,"http://www.nytimes.com/2016/04/08/movies/demolition-review-jake-gyllenhaal.html",29,13,"negative"
-"555","The Kids Are All Right",1,"http://www.nytimes.com/2010/07/09/movies/09kids.html",49,34,"negative"
-"556","Spotlight",1,"http://www.nytimes.com/2015/11/06/movies/review-in-spotlight-the-boston-globe-digs-up-the-catholic-churchs-dirt.html",46,22,"negative"
-"557","Begin Again",0,"http://www.nytimes.com/2014/06/27/movies/begin-again-from-the-once-director-john-carney.html",32,30,"negative"
-"558","Jeff Who Lives at Home",0,"http://www.nytimes.com/2012/03/16/movies/jeff-who-lives-at-home-a-duplass-brothers-comedy.html",52,42,"negative"
-"559","Assassination Nation",0,"http://www.nytimes.com/2018/09/20/movies/assassination-nation-review.html",17,5,"negative"
-"560","Good Hair",0,"http://www.nytimes.com/2009/10/09/movies/09hair.html",21,24,"positive"
-"561","Free Fire",1,"http://www.nytimes.com/2017/04/20/movies/free-fire-review.html",17,8,"negative"
-"562","Everybody Loves Somebody",0,"http://www.nytimes.com/2017/02/16/movies/everybody-loves-somebody-review.html",11,12,"positive"
-"563","The Runaways",0,"http://www.nytimes.com/2010/03/19/movies/19runaways.html",30,35,"positive"
-"564","The Company Men",1,"http://www.nytimes.com/2010/12/10/movies/10company.html",38,20,"negative"
-"565","Bodyguard",0,"http://www.nytimes.com/2011/09/01/movies/bodyguard-with-salman-khan-review.html",12,19,"positive"
-"566","Battle for Terra",0,"http://www.nytimes.com/2009/05/01/movies/01terr.html",9,8,"negative"
-"567","The Shape of Water",1,"http://www.nytimes.com/2017/11/30/movies/the-shape-of-water-review-guillermo-del-toro.html",40,34,"negative"
-"568","The Art of Getting By",0,"http://www.nytimes.com/2011/06/17/movies/the-art-of-getting-by-by-gavin-wiesen-review.html",24,17,"negative"
-"569","The Revenant",0,"http://www.nytimes.com/2015/12/25/movies/review-the-revenant-welcome-to-paradise-now-prepare-to-fall.html",55,34,"negative"
-"570","Victoria and Abdul",0,"http://www.nytimes.com/2017/09/21/movies/victoria-and-abdul-review-judi-dench.html",7,4,"negative"
-"571","Mohenjo Daro",0,"http://www.nytimes.com/2016/08/15/movies/review-mohenjo-daro-depicts-a-go-to-heros-exertions-in-antiquity.html",12,11,"negative"
-"572","Desierto",0,"http://www.nytimes.com/2016/10/14/movies/desierto-review-jonas-cuaron-gael-garca-bernal.html",17,4,"negative"
-"573","Hello, My Name is Doris",0,"http://www.nytimes.com/2016/03/11/movies/sally-field-hello-my-name-is-doris-review.html",30,23,"negative"
-"574","Child 44",0,"http://www.nytimes.com/2015/04/17/movies/review-child-44-a-secret-police-thriller-in-soviet-russia.html",43,18,"negative"
-"575","The Namesake",0,"http://www.nytimes.com/2007/03/09/movies/09name.html",23,30,"positive"
-"576","The Ultimate Life",0,"http://www.nytimes.com/2013/09/06/movies/the-ultimate-life-shows-what-money-can-and-cannot-buy.html",13,9,"negative"
-"577","The Ghost Writer",1,"http://www.nytimes.com/2010/02/19/movies/19ghost.html",45,39,"negative"
-"578","Chef",0,"http://www.nytimes.com/2014/05/09/movies/chef-a-culinary-comedy-by-jon-favreau.html",20,21,"positive"
-"579","Sunshine Cleaning",0,"http://www.nytimes.com/2009/03/13/movies/13suns.html",50,21,"negative"
-"580","Enough Said",1,"http://www.nytimes.com/2013/09/18/movies/enough-said-stars-james-gandolfini-and-julia-louis-dreyfus.html",60,57,"negative"
-"581","There Will Be Blood",1,"http://www.nytimes.com/2007/12/26/movies/26bloo.html",72,45,"negative"
-"582","Elvis & Nixon",0,"http://www.nytimes.com/2016/04/22/movies/elvis-and-nixon-review.html",19,14,"negative"
-"583","Frost/Nixon",0,"http://www.nytimes.com/2008/12/05/movies/05fros.html",43,23,"negative"
-"584","The Duchess",0,"http://www.nytimes.com/2008/09/19/movies/19duch.html",16,15,"negative"
-"585","A Serious Man",1,"http://www.nytimes.com/2009/10/02/movies/02serious.html",37,14,"negative"
-"586","He Named Me Malala",0,"http://www.nytimes.com/2015/10/02/movies/review-he-named-me-malala-on-a-taliban-target-and-nobel-laureate.html",8,7,"negative"
-"587","Leave No Trace",1,"http://www.nytimes.com/2018/06/28/movies/leave-no-trace-review-ben-foster.html",27,29,"positive"
-"588","Love & Friendship",1,"http://www.nytimes.com/2016/05/13/movies/love-and-friendship-review.html",22,38,"positive"
-"589","Away We Go",0,"http://www.nytimes.com/2009/06/05/movies/05away.html",47,44,"negative"
-"590","The Little Stranger",0,"http://www.nytimes.com/2018/08/30/movies/the-little-stranger-review.html",31,17,"negative"
-"591","Win Win",1,"http://www.nytimes.com/2011/03/18/movies/win-win-with-paul-giamatti-review.html",46,54,"positive"
-"592","Bad Words",0,"http://www.nytimes.com/2014/03/14/movies/jason-bateman-stars-in-and-directs-bad-words.html",32,21,"negative"
-"593","The Wrestler",1,"http://www.nytimes.com/2008/12/17/movies/17wres.html",54,38,"negative"
-"594","Blue Valentine",0,"http://www.nytimes.com/2010/12/29/movies/29blue.html",44,35,"negative"
-"595","Disobedience",0,"http://www.nytimes.com/2018/04/25/movies/disobedience-review-rachel-mcadams.html",24,23,"negative"
-"596","Belle",0,"http://www.nytimes.com/2014/05/02/movies/belle-centers-on-a-biracial-aristocrat-in-the-18th-century.html",22,29,"positive"
-"597","Peepli Live",0,"http://www.nytimes.com/2010/08/13/movies/13peepli.html",7,6,"negative"
-"598","Wilson",0,"http://www.nytimes.com/2017/03/22/movies/wilson-review-with-woody-harrelson.html",24,10,"negative"
-"599","The Book Thief",0,"http://www.nytimes.com/2013/11/08/movies/the-book-thief-world-war-ii-tale-with-geoffrey-rush.html",29,20,"negative"
-"600","Fantastic Mr. Fox",1,"http://www.nytimes.com/2009/11/13/movies/13fantastic.html",49,40,"negative"
-"601","Patriots Day",0,"http://www.nytimes.com/2016/12/20/movies/patriots-day-boston-marathon-review.html",30,7,"negative"
-"602","Legend",0,"http://www.nytimes.com/2015/11/20/movies/review-legend-starring-tom-hardy-as-the-gangster-twins-ronnie-and-reggie-kray.html",24,31,"positive"
-"603","Mumbai Diaries",0,"http://www.nytimes.com/2011/01/21/movies/21roundup-DHOBIGHATMUM_RVW.html",6,12,"positive"
-"604","Fireworks",0,"http://www.nytimes.com/movie/review?res=9A01E5DC173AF934A1575AC0A961958260",31,20,"negative"
-"605","Nebraska",1,"http://www.nytimes.com/2013/11/15/movies/nebraska-directed-by-alexander-payne-stars-bruce-dern.html",74,41,"negative"
-"606","You Were Never Really Here",0,"http://www.nytimes.com/2018/04/04/movies/you-were-never-really-here-review-joaquin-phoenix.html",39,12,"negative"
-"607","Black Sea",0,"http://www.nytimes.com/2015/01/23/movies/black-sea-stars-jude-law-as-a-seething-adventurer.html",32,18,"negative"
-"608","Beasts of the Southern Wild",1,"http://www.nytimes.com/2012/06/27/movies/beasts-of-the-southern-wild-directed-by-benh-zeitlin.html",42,40,"negative"
-"609","Diary of the Dead",0,"http://www.nytimes.com/2008/02/15/movies/15dead.html",52,21,"negative"
-"610","Like Crazy",0,"http://www.nytimes.com/2017/05/04/movies/like-crazy-review.html",9,14,"positive"
-"611","Phantom",0,"http://www.nytimes.com/2013/03/01/movies/phantom-a-thriller-directed-by-todd-robinson.html",22,4,"negative"
-"612","Ingrid Goes West",0,"http://www.nytimes.com/2017/08/10/movies/ingrid-goes-west-review.html",10,4,"negative"
-"613","Princess Kaiulani",0,"http://www.nytimes.com/2010/05/14/movies/14princess.html",15,11,"negative"
-"614","Phillauri",0,"http://www.nytimes.com/2017/03/26/movies/phillauri-review.html",21,12,"negative"
-"615","Nowhere Boy",0,"http://www.nytimes.com/2010/10/08/movies/08nowhere.html",17,18,"positive"
-"616","The Killing of a Sacred Deer",0,"http://www.nytimes.com/2017/10/19/movies/the-killing-of-a-sacred-deer-review-colin-farrell-nicole-kidman.html",57,12,"negative"
-"617","Thank You",0,"http://www.nytimes.com/2011/04/11/movies/thank-you-bollywood-comedy-with-akshay-kumar-review.html",7,7,"neutral"
-"618","Baaghi",0,"http://www.nytimes.com/2016/05/02/movies/baaghi-review.html",12,12,"neutral"
-"619","Mistress America",1,"http://www.nytimes.com/2015/08/14/movies/review-mistress-america-a-noah-baumbach-comedy-on-getting-by-in-a-backbiting-world.html",35,29,"negative"
-"620","Midnight Special",0,"http://www.nytimes.com/2016/03/18/movies/review-in-midnight-special-on-the-run-with-a-highly-unusual-child.html",36,32,"negative"
-"621","Calvary",0,"http://www.nytimes.com/2014/08/01/movies/calvary-john-michael-mcdonaghs-murder-mystery.html",43,18,"negative"
-"622","Macbeth",0,"http://www.nytimes.com/2015/12/04/movies/review-macbeth-starring-michael-fassbender-awash-in-gorgeous-carnage.html",27,19,"negative"
-"623","The Danish Girl",0,"http://www.nytimes.com/2015/11/27/movies/review-the-danish-girl-about-a-transgender-pioneer.html",17,42,"positive"
-"624","Denial",0,"http://www.nytimes.com/2016/09/30/movies/denial-review-rachel-weisz-denial.html",30,18,"negative"
-"625","Stone",0,"http://www.nytimes.com/2010/10/08/movies/08stone.html",24,15,"negative"
-"626","Good Time",0,"http://www.nytimes.com/2017/08/10/movies/good-time-review-robert-pattinson.html",66,25,"negative"
-"627","The East",0,"http://www.nytimes.com/2013/05/31/movies/the-east-written-by-zal-batmanglij-and-brit-marling.html",41,21,"negative"
-"628","Darkest Hour",0,"http://www.nytimes.com/2017/11/21/movies/darkest-hour-review-gary-oldman.html",31,38,"positive"
-"629","By the Sea",0,"http://www.nytimes.com/2015/11/13/movies/review-in-angelina-jolie-pitts-by-the-sea-an-unhappy-menage-and-tear-streaked-mascara.html",37,41,"positive"
-"630","Danny Collins",0,"http://www.nytimes.com/2015/03/20/movies/review-al-pacino-in-danny-collins-plays-a-dissolute-pop-star.html",25,22,"negative"
-"631","RocknRolla",0,"http://www.nytimes.com/2008/10/08/movies/08rock.html",36,15,"negative"
-"632","American Pastoral",0,"http://www.nytimes.com/2016/10/21/movies/american-pastoral-review-ewan-mcgregor.html",47,23,"negative"
-"633","Noah's Arc: Jumping the Broom",0,"http://www.nytimes.com/2008/10/24/movies/24noah.html",3,6,"positive"
-"634","The Visitor",1,"http://www.nytimes.com/2008/04/11/movies/11visi.html",32,31,"negative"
-"635","A Ghost Story",1,"http://www.nytimes.com/2017/07/05/movies/review-a-ghost-story.html",52,20,"negative"
-"636","Lion",0,"http://www.nytimes.com/2016/11/24/movies/lion-review-dev-patel.html",30,27,"negative"
-"637","Suffragette",0,"http://www.nytimes.com/2015/10/23/movies/review-in-suffragette-feminist-insight-thats-about-more-than-the-vote.html",25,16,"negative"
-"638","Himmatwala",0,"http://www.nytimes.com/2013/04/01/movies/himmatwala-a-bollywood-disco-remake.html",12,6,"negative"
-"639","Hunt for the Wilderpeople",1,"http://www.nytimes.com/2016/06/24/movies/hunt-for-the-wilderpeople-review.html",39,23,"negative"
-"640","The Railway Man",0,"http://www.nytimes.com/2014/04/11/movies/the-railway-man-a-true-tale-of-wartime-torment-and-reconciliation.html",40,21,"negative"
-"641","Meet the Patels",0,"http://www.nytimes.com/2015/09/11/movies/review-in-meet-the-patels-a-son-submits-to-a-marriage-quest.html",3,11,"positive"
-"642","Last Flag Flying",0,"http://www.nytimes.com/2017/11/02/movies/last-flag-flying-review-steve-carell-bryan-cranston-laurence-fishburne-richard-linklater.html",29,18,"negative"
-"643","Jimi: All is By My Side",0,"http://www.nytimes.com/2014/09/26/movies/jimi-all-is-by-my-side-a-jimi-hendrix-biopic.html",16,17,"positive"
-"644","Buried",0,"http://www.nytimes.com/2010/09/24/movies/24buried.html",37,12,"negative"
-"645","Finding Your Feet",0,"http://www.nytimes.com/2018/03/29/movies/finding-your-feet-review.html",10,14,"positive"
-"646","A Royal Night Out",0,"http://www.nytimes.com/2015/12/04/movies/review-after-the-terrors-of-the-blitz-comes-a-royal-night-out.html",16,17,"positive"
-"647","Sin Nombre",0,"http://www.nytimes.com/2009/03/20/movies/20nomb.html",42,16,"negative"
-"648","Flower",1,"http://www.nytimes.com/2018/03/15/movies/flower-review-zoey-deutch.html",18,15,"negative"
-"649","The History Boys",1,"http://www.nytimes.com/2006/11/21/movies/21hist.html",25,25,"neutral"
-"650","Beast",1,"http://www.nytimes.com/2018/05/10/movies/beast-review.html",24,9,"negative"
-"651","Escobar: Paradise Lost",0,"http://www.nytimes.com/2015/06/26/movies/review-escobar-paradise-lost-stars-benicio-del-toro-as-drug-lord.html",17,16,"negative"
-"652","Rabbit Hole",0,"http://www.nytimes.com/2010/12/17/movies/17rabbit.html",53,22,"negative"
-"653","Adam",0,"http://www.nytimes.com/2009/07/29/movies/29adam.html",6,12,"positive"
-"654","Reprise",1,"http://www.nytimes.com/2008/05/16/movies/16repr.html",40,25,"negative"
-"655","The Party",0,"http://www.nytimes.com/2018/02/15/movies/the-party-review-timothy-spall-kristin-scott-thomas.html",25,15,"negative"
-"656","Confetti",0,"http://www.nytimes.com/2006/09/15/movies/15conf.html",32,15,"negative"
-"657","Risk",0,"http://www.nytimes.com/2017/05/04/movies/risk-review-julian-assange-laura-poitras.html",40,21,"negative"
-"658","Freeheld",0,"http://www.nytimes.com/2015/10/02/movies/review-in-freeheld-a-dying-detective-fights-for-gay-rights.html",12,15,"positive"
-"659","Goodnight Mommy",1,"http://www.nytimes.com/2015/09/11/movies/review-twin-terrors-haunt-goodnight-mommy.html",19,19,"neutral"
-"660","Lean on Pete",1,"http://www.nytimes.com/2018/04/05/movies/lean-on-pete-review.html",47,33,"negative"
-"661","Turtle: The Incredible Journey",0,"http://www.nytimes.com/2011/06/24/movies/turtle-the-incredible-journey-a-loggerhead-epic-review.html",31,31,"neutral"
-"662","The Future",1,"http://www.nytimes.com/2013/09/06/movies/two-orphans-wonder-what-now.html",15,7,"negative"
-"663","The Sapphires",0,"http://www.nytimes.com/2013/03/22/movies/the-sapphires-chronicles-4-australian-singers-in-the-1960s.html",33,26,"negative"
-"664","Gemini",0,"http://www.nytimes.com/2018/03/29/movies/gemini-review-lola-kirke-zoe-kravitz.html",36,14,"negative"
-"665","Me and Orson Welles",1,"http://www.nytimes.com/2009/11/25/movies/25orson.html",23,37,"positive"
-"666","Beach Rats",1,"http://www.nytimes.com/2017/08/24/movies/beach-rats-review.html",11,4,"negative"
-"667","La Soga",0,"http://www.nytimes.com/2010/08/13/movies/13soga.html",23,6,"negative"
-"668","Lola Versus",0,"http://www.nytimes.com/2012/06/08/movies/daryl-weins-lola-versus-with-greta-gerwig.html",29,11,"negative"
-"669","10 Years",0,"http://www.nytimes.com/2012/09/14/movies/10-years-a-comedy-directed-by-jamie-linden.html",24,14,"negative"
-"670","Being Flynn",0,"http://www.nytimes.com/2012/03/02/movies/paul-weitzs-being-flynn-starring-robert-de-niro.html",38,29,"negative"
-"671","Blaze",1,"http://www.nytimes.com/2018/09/06/movies/blaze-review-ethan-hawke.html",32,29,"negative"
-"672","The Foot Fist Way",1,"http://www.nytimes.com/2008/05/30/movies/30foot.html",16,9,"negative"
-"673","After.Life",0,"http://www.nytimes.com/2010/04/09/movies/09after.html",25,9,"negative"
-"674","Project Nim",1,"http://www.nytimes.com/2011/07/08/movies/project-nim-about-a-chimpanzee-subjected-to-research-review.html",44,33,"negative"
-"675","When Marnie Was There",0,"http://www.nytimes.com/2015/05/22/movies/review-when-marnie-was-there-by-studio-ghibli-animates-a-friendship-with-ominous-undertones.html",25,17,"negative"
-"676","The Romantics",0,"http://www.nytimes.com/2010/09/10/movies/10romantics.html",27,28,"positive"
-"677","Gun Hill Road",0,"http://www.nytimes.com/2011/08/05/movies/a-different-kind-of-bronx-tale.html",16,10,"negative"
-"678","Motherhood",0,"http://www.nytimes.com/2009/10/23/movies/23mother.html",31,19,"negative"
-"679","A Monster Calls",0,"http://www.nytimes.com/2016/12/22/movies/a-monster-calls-review.html",31,8,"negative"
-"680","The Secret of Kells",1,"http://www.nytimes.com/2010/03/05/movies/05secret.html",20,22,"positive"
-"681","I Spit on Your Grave",0,"http://www.nytimes.com/2010/10/08/movies/08spit.html",15,10,"negative"
-"682","Tea with the Dames",1,"http://www.nytimes.com/2018/09/20/movies/tea-with-the-dames-review.html",6,8,"positive"
-"683","Victor",0,"http://www.nytimes.com/movie/review?res=9C0CE4D61530F934A15750C0A96F958260",18,13,"negative"
-"684","Other People",0,"http://www.nytimes.com/2016/09/09/movies/other-people-review.html",19,6,"negative"
-"685","Eating Animals",0,"http://www.nytimes.com/2018/06/14/movies/eating-animals-review.html",6,2,"negative"
-"686","Waking Sleeping Beauty",0,"http://www.nytimes.com/2010/03/26/movies/26waking.html",18,29,"positive"
-"687","Arctic Tale",0,"http://www.nytimes.com/2007/07/25/movies/25arct.html",4,10,"positive"
-"688","The Breadwinner",1,"http://www.nytimes.com/2017/11/16/movies/the-breadwinner-review.html",9,6,"negative"
-"689","Louder Than Bombs",0,"http://www.nytimes.com/2016/04/08/movies/louder-than-bombs-review.html",31,14,"negative"
-"690","Christine",0,"http://www.nytimes.com/2016/10/14/movies/christine-review-rebecca-hall.html",36,15,"negative"
-"691","Life, Animated",0,"http://www.nytimes.com/2016/07/01/movies/review-life-animated.html",17,12,"negative"
-"692","Bran Nue Dae",0,"http://www.nytimes.com/2010/09/10/movies/10bran.html",17,10,"negative"
-"693","In a Valley of Violence",0,"http://www.nytimes.com/2016/10/21/movies/in-a-valley-of-violence-review.html",32,7,"negative"
-"694","Shanghai",0,"http://www.nytimes.com/2015/10/02/movies/review-in-shanghai-john-cusack-is-a-naval-intelligence-operative-in-a-bind.html",12,8,"negative"
-"695","Wild Target",0,"http://www.nytimes.com/2010/10/29/movies/29wild.html",42,32,"negative"
-"696","Toys in the Attic",0,"http://www.nytimes.com/2012/09/07/movies/toys-in-the-attic-directed-by-jiri-barta.html",19,19,"neutral"
-"697","Lost River",1,"http://www.nytimes.com/2015/04/10/movies/review-in-lost-river-by-ryan-gosling-surreal-scenes-of-urban-decline.html",19,4,"negative"
-"698","Paan Singh Tomar",0,"http://www.nytimes.com/2012/03/02/movies/irrfan-khan-stars-in-paan-singh-tomar.html",10,6,"negative"
-"699","Beautiful Boy",0,"http://www.nytimes.com/2018/10/11/movies/beautiful-boy-review-steve-carell.html",33,23,"negative"
-"700","No Greater Love",0,"http://www.nytimes.com/movie/review?res=9906E4DE113CE03ABC4D51DFB466838F659EDE",22,7,"negative"
-"701","Margaret",0,"http://www.nytimes.com/2011/09/30/movies/margaret-directed-by-kenneth-lonergan-review.html",31,26,"negative"
-"702","Big Sonia",0,"http://www.nytimes.com/2017/11/16/movies/review-big-sonia-review-holocaust-survivor.html",7,5,"negative"
-"703","The War of the Buttons",0,"http://www.nytimes.com/2012/10/12/movies/war-of-the-buttons-directed-by-christophe-barratier.html",10,3,"negative"
-"704","Immigration Tango",0,"http://www.nytimes.com/2011/02/18/movies/18immigration-tango.html",8,6,"negative"
-"705","BPM (Beats per Minute)",1,"http://www.nytimes.com/2017/10/19/movies/bpm-beats-per-minute-review-aids-activism.html",29,18,"negative"
-"706","Panic",0,"http://www.nytimes.com/movie/review?res=9B02E5D61F3DF93AA25752C0A9679C8B63",34,24,"negative"
-"707","Hemingway's Garden of Eden",0,"http://www.nytimes.com/2010/12/10/movies/10hemingway.html",27,9,"negative"
-"708","The Last Dalai Lama?",0,"http://www.nytimes.com/2017/07/27/movies/the-last-dalai-lama-review.html",4,9,"positive"
-"709","On the Beach at Night Alone",0,"http://www.nytimes.com/2017/11/16/movies/on-the-beach-at-night-alone-review-hong-sang-soo.html",23,9,"negative"
-"710","The Challenger",0,"http://www.nytimes.com/movie/review?res=9E04E4DA1531E633A25755C1A9619C946394D6CF",9,11,"positive"
-"711","Dina",0,"http://www.nytimes.com/2017/10/05/movies/dina-review.html",10,8,"negative"
-"712","A Kid Like Jake",0,"http://www.nytimes.com/2018/05/31/movies/a-kid-like-jake-review-claire-danes-jim-parsons.html",5,12,"positive"
-"713","Alphaville",0,"http://www.nytimes.com/movie/review?res=9D03E6D91F30E23ABC4E51DFB667838E679EDE",29,29,"neutral"
-"714","Skateland",0,"http://www.nytimes.com/2011/05/13/movies/skateland-review.html",17,9,"negative"
-"715","Crime + Punishment",1,"http://www.nytimes.com/2018/08/22/movies/crime-punishment-review.html",25,15,"negative"
-"716","Jayne Mansfield's Car",0,"http://www.nytimes.com/2013/09/13/movies/billy-bob-thornton-directs-jayne-mansfields-car.html",29,6,"negative"
-"717","Sympathy for Delicious",0,"http://www.nytimes.com/2011/04/29/movies/sympathy-for-delicious-with-mark-ruffalo-review.html",24,16,"negative"
-"718","Zombeavers",0,"http://www.nytimes.com/2015/03/20/movies/review-in-zombeavers-the-flesheaters-have-overbites.html",11,8,"negative"
-"719","When You Read This Letter",0,"http://www.nytimes.com/2018/09/11/movies/when-you-read-this-letter-review.html",24,16,"negative"
-"720","All These Sleepless Nights",0,"http://www.nytimes.com/2017/04/13/movies/all-these-sleepless-nights-review.html",6,11,"positive"
-"721","White Wedding",0,"http://www.nytimes.com/2010/09/03/movies/03roundup-005.html",3,9,"positive"
-"722","5 Days of War",0,"http://www.nytimes.com/2011/08/19/movies/5-days-of-war-shows-russia-and-georgia-in-conflict.html",39,17,"negative"
-"723","Junction 48",1,"http://www.nytimes.com/2017/03/02/movies/junction-48-review.html",6,5,"negative"
-"724","Violet Tendencies",0,"http://www.nytimes.com/2010/11/05/movies/05violet.html",11,8,"negative"
-"725","Gayby",0,"http://www.nytimes.com/2012/10/12/movies/gayby-a-short-extended-by-jonathan-lisecki.html",6,6,"neutral"
-"726","The Girl Without Hands",1,"http://www.nytimes.com/2017/07/20/movies/the-girl-without-hands-review.html",9,13,"positive"
-"727","Tanner Hall",0,"http://www.nytimes.com/2011/09/09/movies/tanner-hall-starring-rooney-mara-review.html",7,7,"neutral"
-"728","Vamps",0,"http://www.nytimes.com/2012/11/02/movies/vamps-by-amy-heckerling-with-alicia-silverstone.html",8,10,"positive"
+X,movie,Critic_Pick,Review_url,negative,positive,sentiment
+1,Black Panther,1,http://www.nytimes.com/2018/02/06/movies/black-panther-review-movie.html,40,43,positive
+2,The Avengers,0,http://www.nytimes.com/2012/05/04/movies/robert-downey-jr-in-the-avengers-directed-by-joss-whedon.html,46,37,negative
+3,Rogue One: A Star Wars Story,0,http://www.nytimes.com/2016/12/13/movies/star-wars-rogue-one-review.html,32,25,negative
+4,Iron Man 3,0,http://www.nytimes.com/2013/05/03/movies/iron-man-3-with-robert-downey-jr.html,53,23,negative
+5,Jurassic World: Fallen Kingdom,0,http://www.nytimes.com/2018/06/20/movies/jurassic-world-fallen-kingdom-review-chris-pratt.html,35,18,negative
+6,Furious 7,0,http://www.nytimes.com/2015/04/03/movies/review-in-furious-7-a-franchise-continues-to-roar.html,36,29,positive
+7,Deadpool,0,http://www.nytimes.com/2016/02/12/movies/deadpool-movie-review-ryan-reynolds.html,26,26,positive
+8,The Twilight Saga: New Moon,0,http://www.nytimes.com/2009/11/20/movies/20twilightnewmoon.html,36,28,negative
+9,Toy Story 3,1,http://www.nytimes.com/2010/06/18/movies/18toy.html,35,48,positive
+10,Suicide Squad,0,http://www.nytimes.com/2016/08/05/movies/suicide-squad-review-dc-comics.html,62,30,negative
+11,It,0,http://www.nytimes.com/2017/09/06/movies/it-review-stephen-king.html,34,21,negative
+12,Avatar,1,http://www.nytimes.com/2009/12/18/movies/18avatar.html,43,53,positive
+13,Iron Man 2,0,http://www.nytimes.com/2010/05/07/movies/07iron.html,55,36,negative
+14,Alice in Wonderland,0,http://www.nytimes.com/2010/03/05/movies/05alice.html,45,25,negative
+15,Wonder Woman,1,http://www.nytimes.com/2017/05/31/movies/wonder-woman-review-gal-gadot.html,42,46,positive
+16,Transformers,0,http://www.nytimes.com/2007/07/02/movies/02tran.html,36,26,negative
+17,The Hangover Part II,0,http://www.nytimes.com/2011/05/26/movies/the-hangover-part-ii-3-men-and-a-monkey-baby.html,22,13,negative
+18,Guardians of the Galaxy,0,http://www.nytimes.com/2014/08/01/movies/chris-pratt-stars-in-guardians-of-the-galaxy.html,44,45,positive
+19,X-Men: The Last Stand,0,http://www.nytimes.com/2006/05/26/movies/26xmen.html,18,16,negative
+20,The Passion of the Christ,0,http://www.nytimes.com/movie/review?res=9A07EFD6143CF936A15751C0A9629C8B63,85,45,negative
+21,Justice League,0,http://www.nytimes.com/2017/11/15/movies/justice-league-review-wonder-woman-batman-dc-comics.html,40,31,negative
+22,Skyfall,1,http://www.nytimes.com/2012/11/08/movies/skyfall-with-daniel-craig-as-james-bond.html,26,39,positive
+23,Solo: A Star Wars Story,0,http://www.nytimes.com/2018/05/15/movies/solo-a-star-wars-story-review.html,33,18,negative
+24,Inception,0,http://www.nytimes.com/2010/07/16/movies/16inception.html,44,38,negative
+25,Hancock,0,http://www.nytimes.com/2008/07/02/movies/02hanc.html,50,28,negative
+26,Fast Five,0,http://www.nytimes.com/2011/04/29/movies/fast-five-with-vin-diesel-review.html,33,32,negative
+27,Rush Hour 2,0,http://www.nytimes.com/movie/review?res=9A01E0D9143CF930A3575BC0A9679C8B63,37,20,negative
+28,Ant-Man and the Wasp,0,http://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html,19,35,positive
+29,World War Z,0,http://www.nytimes.com/2013/06/21/movies/world-war-z-stars-brad-pitt-battling-zombies.html,43,30,negative
+30,Cinderella,0,http://www.nytimes.com/2015/03/13/movies/review-in-cinderella-disney-polishes-its-glass-slippers.html,31,35,positive
+31,Gravity,0,http://www.nytimes.com/2015/05/22/movies/review-sunshine-superman-about-the-high-flying-daredevil-carl-boenish.html,13,3,negative
+32,Pearl Harbor,0,http://www.nytimes.com/movie/review?res=9A00E6D7113DF936A15756C0A9679C8B63,77,52,negative
+33,The Mummy Returns,0,http://www.nytimes.com/movie/review?res=9F03E2D71238F937A35756C0A9679C8B63,38,24,negative
+34,Signs,0,http://www.nytimes.com/movie/review?res=9D05E4DA113BF931A3575BC0A9649C8B63,47,24,negative
+35,Madagascar: Escape 2 Africa,0,http://www.nytimes.com/2008/11/07/movies/07mada.html,19,17,negative
+36,Fast & Furious,0,http://www.nytimes.com/2009/04/03/movies/03fast.html,13,14,positive
+37,Mission: Impossible 2,0,http://www.nytimes.com/movie/review?res=9C04E2DE163DF937A15756C0A9669C8B63,43,45,positive
+38,Kong: Skull Island,0,http://www.nytimes.com/2017/03/09/movies/kong-skull-island-review-brie-larson.html,36,28,negative
+39,Ant-Man,0,http://www.nytimes.com/2015/07/17/movies/review-ant-man-with-paul-rudd-adds-to-a-superhero-infestation.html,34,34,neutral
+40,Rise of the Planet of the Apes,0,http://www.nytimes.com/2011/08/05/movies/rise-of-the-planet-of-the-apes-stars-james-franco-review.html,42,41,negative
+41,Jason Bourne,0,http://www.nytimes.com/2016/07/29/movies/jason-bourne-matt-damon-review.html,36,25,negative
+42,Dunkirk,1,http://www.nytimes.com/2017/07/20/movies/dunkirk-review-christopher-nolan.html,58,25,negative
+43,Cast Away,1,http://www.nytimes.com/movie/review?res=9C0CE4D81F39F931A15751C1A9669C8B63,69,42,negative
+44,The Blind Side,0,http://www.nytimes.com/2009/11/20/movies/20blindside.html,42,35,negative
+45,"I, Robot",0,http://www.nytimes.com/movie/review?res=9A06E6DC143AF935A25754C0A9629C8B63,48,33,negative
+46,Casino Royale,0,http://www.nytimes.com/2006/11/17/movies/17roya.html,45,31,negative
+47,How to Train Your Dragon,0,http://www.nytimes.com/2010/03/26/movies/26howto.html,31,30,negative
+48,Transformers: The Last Knight,0,http://www.nytimes.com/2017/06/20/movies/transformers-the-last-knight-review.html,18,14,negative
+49,Ready Player One,0,http://www.nytimes.com/2018/03/28/movies/ready-player-one-review-steven-spielberg.html,37,53,positive
+50,Prometheus,0,http://www.nytimes.com/2012/06/08/movies/prometheus-by-ridley-scott-with-noomi-rapace.html,39,30,negative
+51,Scary Movie,0,http://www.nytimes.com/movie/review?res=9C02EFDB1F39F934A35754C0A9669C8B63,43,8,negative
+52,Fifty Shades Darker,0,http://www.nytimes.com/2017/02/09/movies/review-fifty-shades-darker-dakota-johnson.html,27,15,negative
+53,Valentine's Day,0,http://www.nytimes.com/2010/02/12/movies/12valentine.html,21,33,positive
+54,Jackass 3D,0,http://www.nytimes.com/2010/10/15/movies/15jackass.html,17,13,negative
+55,Into the Woods,1,http://www.nytimes.com/2014/12/25/movies/into-the-woods-disneys-take-on-the-sondheim-lapine-classic.html,41,37,negative
+56,Django Unchained,1,http://www.nytimes.com/2012/12/25/movies/quentin-tarantinos-django-unchained-stars-jamie-foxx.html,76,47,negative
+57,Taken 2,0,http://www.nytimes.com/2012/10/05/movies/taken-2-directed-by-olivier-megaton.html,9,4,negative
+58,The Village,0,http://www.nytimes.com/movie/review?res=9D0DE1D7103DF933A05754C0A9629C8B63,42,27,negative
+59,The Nun,0,http://www.nytimes.com/2018/09/05/movies/the-nun-review.html,12,9,negative
+60,The Vow,0,http://www.nytimes.com/2012/02/10/movies/the-vow-with-rachel-mcadams-and-channing-tatum.html,31,22,negative
+61,Catch Me if You Can,1,http://www.nytimes.com/movie/review?res=9C00E1D7123CF936A15751C1A9649C8B63,45,51,positive
+62,Angels & Demons,0,http://www.nytimes.com/2009/05/15/movies/15ange.html,48,36,negative
+63,Tangled,1,http://www.nytimes.com/2010/11/24/movies/24tangled.html,39,44,positive
+64,Click,0,http://www.nytimes.com/2006/06/23/movies/23clic.html,21,23,positive
+65,Safe House,0,http://www.nytimes.com/2012/02/10/movies/safe-house-with-denzel-washington-and-ryan-reynolds.html,37,26,negative
+66,The Fast and the Furious,0,http://www.nytimes.com/movie/review?res=9401E2D61630F931A15755C0A9679C8B63,42,24,negative
+67,Fifty Shades Freed,0,http://www.nytimes.com/2018/02/08/movies/fifty-shades-freed-review-jamie-dornan-dakota-johnson.html,8,11,positive
+68,Over the Hedge,0,http://www.nytimes.com/2006/05/19/movies/19hedg.html,23,17,negative
+69,The Cat in the Hat,0,http://www.nytimes.com/movie/review?res=9F02E7DB143BF932A15752C1A9659C8B63,53,23,negative
+70,Puss in Boots,0,http://www.nytimes.com/2011/10/28/movies/puss-in-boots-with-antonio-banderas-review.html,25,26,positive
+71,Mr. Deeds,0,http://www.nytimes.com/movie/review?res=9C0DE3D7123EF93BA15755C0A9649C8B63,47,27,negative
+72,Magic Mike,1,http://www.nytimes.com/2012/06/29/movies/magic-mike-by-steven-soderbergh-with-channing-tatum.html,40,49,positive
+73,District 9,1,http://www.nytimes.com/2009/08/14/movies/14district.html,38,15,negative
+74,Noah,0,http://www.nytimes.com/2014/03/28/movies/russell-crowe-confronts-lifes-nasty-weather-in-noah.html,57,39,negative
+75,Ocean's Eleven,1,http://www.nytimes.com/movie/review?res=9F03E5D8123CF934A35751C1A9679C8B63,50,43,negative
+76,Bee Movie,0,http://www.nytimes.com/2007/11/02/movies/02bee.html,35,31,negative
+77,Sully,1,http://www.nytimes.com/2016/09/09/movies/sully-review.html,54,34,negative
+78,Wonder,1,http://www.nytimes.com/2017/11/16/movies/wonder-review-jacob-tremblay-julia-roberts-owen-wilson.html,11,21,positive
+79,Kung Fu Panda 3,0,http://www.nytimes.com/2016/01/29/movies/bryan-cranston-jack-black-kung-fu-panda-3-review.html,11,10,negative
+80,Spy Kids 3-D: Game Over,0,http://www.nytimes.com/movie/review?res=9F02E1DD123FF936A15754C0A9659C8B63,28,15,negative
+81,The Angry Birds Movie,0,http://www.nytimes.com/2016/05/20/movies/-the-angry-birds-movie-review.html,13,17,positive
+82,Rampage,0,http://www.nytimes.com/2018/04/11/movies/rampage-review-dwayne-johnson.html,16,10,negative
+83,Paranormal Activity 2,0,http://www.nytimes.com/2010/10/23/movies/23para.html,19,5,negative
+84,Epic,0,http://www.nytimes.com/2013/05/24/movies/epic-directed-by-chris-wedge.html,28,14,negative
+85,The Expendables,0,http://www.nytimes.com/2010/08/13/movies/13expendables.html,35,23,negative
+86,Sweet Home Alabama,0,http://www.nytimes.com/movie/review?res=9E0DE6D71139F934A1575AC0A9649C8B63,28,41,positive
+87,Girls Trip,0,http://www.nytimes.com/2017/07/19/movies/girls-trip-review-dargis-queen-latifah-regina-hall-tiffany-haddish-jada-pinkett-smith.html,34,23,negative
+88,Madea Goes To Jail,0,http://www.nytimes.com/2009/02/21/movies/21made.html,19,16,negative
+89,The Good Dinosaur,1,http://www.nytimes.com/2015/11/25/movies/review-the-good-dinosaur-pixar-human-and-apatosaurus.html,40,31,negative
+90,The Devil Wears Prada,0,http://www.nytimes.com/2006/06/30/movies/30devi.html,66,49,negative
+91,The Green Hornet,0,http://www.nytimes.com/2011/01/14/movies/14green.html,29,34,positive
+92,Couples Retreat,0,http://www.nytimes.com/2009/10/09/movies/09couples.html,36,11,negative
+93,The Sum of All Fears,0,http://www.nytimes.com/movie/review?res=9D05E6DF163AF932A05756C0A9649C8B63,55,25,negative
+94,Jackass Presents: Bad Grandpa,0,http://www.nytimes.com/2013/10/25/movies/jackass-presents-bad-grandpa-with-more-pranks.html,7,3,negative
+95,The Magnificent Seven,0,http://www.nytimes.com/2016/09/23/movies/magnificent-seven-review-denzel-washington.html,33,26,negative
+96,The Scorpion King,0,http://www.nytimes.com/movie/review?res=9C05E5DE143FF93AA25757C0A9649C8B63,47,14,negative
+97,Bringing Down the House,0,http://www.nytimes.com/movie/review?res=9E0CE0DD133FF934A35750C0A9659C8B63,32,25,negative
+98,Blade Runner 2049,0,http://www.nytimes.com/2017/10/02/movies/blade-runner-2049-review-ryan-gosling-harrison-ford.html,40,41,positive
+99,The Book of Eli,0,http://www.nytimes.com/2010/01/15/movies/15eli.html,35,18,negative
+100,Horrible Bosses,0,http://www.nytimes.com/2011/07/08/movies/horrible-bosses-with-jason-bateman-review.html,75,25,negative
+101,Bad Teacher,0,http://www.nytimes.com/2011/06/24/movies/cameron-diaz-in-bad-teacher-review.html,45,33,negative
+102,Bridesmaids,1,http://www.nytimes.com/2011/05/13/movies/bridesmaids-with-kristen-wiig-maya-rudolph-review.html,45,35,negative
+103,Terminator: Genisys,0,http://www.nytimes.com/2015/07/01/movies/review-terminator-genisys-shows-that-arnold-schwarzenegger-is-most-assuredly-back.html,30,24,negative
+104,Due Date,0,http://www.nytimes.com/2010/11/05/movies/05due.html,42,14,negative
+105,Norbit,0,http://www.nytimes.com/2007/02/09/movies/09norb.html,42,24,negative
+106,Crazy Rich Asians,0,http://www.nytimes.com/2018/08/14/movies/crazy-rich-asians-review.html,35,43,positive
+107,Wrath of the Titans,0,http://www.nytimes.com/2012/03/30/movies/wrath-of-the-titans-starring-sam-worthington.html,14,9,negative
+108,Ride Along 2,0,http://www.nytimes.com/2016/01/15/movies/review-ride-along-2-reloads-twin-barrels-of-ice-cube-and-kevin-hart.html,14,12,negative
+109,Ted 2,0,http://www.nytimes.com/2015/06/26/movies/review-in-ted-2-the-foulmouthed-bear-tries-to-prove-hes-human.html,65,18,negative
+110,The Help,0,http://www.nytimes.com/2011/08/10/movies/the-help-spans-two-worlds-white-and-black-review.html,51,24,negative
+111,Edge of Tomorrow,0,http://www.nytimes.com/2014/06/06/movies/tom-cruise-battles-invaders-in-edge-of-tomorrow.html,39,40,positive
+112,The Departed,1,http://www.nytimes.com/2006/10/06/movies/06depa.html,50,19,negative
+113,Beowulf,0,http://www.nytimes.com/2007/11/16/movies/16beow.html,22,25,positive
+114,Erin Brockovich,0,http://www.nytimes.com/movie/review?res=9805EED8163AF934A25750C0A9669C8B63,48,33,negative
+115,He's Just Not That Into You,0,http://www.nytimes.com/2009/02/06/movies/06into.html,39,23,negative
+116,The Pursuit of Happyness,0,http://www.nytimes.com/2006/12/15/movies/15happ.html,39,43,positive
+117,John Carter,0,http://www.nytimes.com/2012/03/09/movies/john-carter-with-taylor-kitsch-and-lynn-collins.html,29,28,negative
+118,Non-Stop,0,http://www.nytimes.com/2014/02/28/movies/non-stop-with-liam-neeson-lives-up-to-its-title.html,41,17,negative
+119,Collateral,1,http://www.nytimes.com/movie/review?res=9800E4DE123CF935A3575BC0A9629C8B63,45,31,negative
+120,Beverly Hills Chihuahua,0,http://www.nytimes.com/2008/10/03/movies/03chih.html,12,8,negative
+121,The Princess Diaries,0,http://www.nytimes.com/movie/review?res=9E04E4D9143CF930A3575BC0A9679C8B63,22,30,positive
+122,The Purge: Anarchy,0,http://www.nytimes.com/2014/07/18/movies/the-purge-anarchy-with-zach-gilford.html,22,18,negative
+123,Murder on the Orient Express,0,http://www.nytimes.com/2017/11/08/movies/murder-on-the-orient-express-review-kenneth-branagh.html,24,13,negative
+124,The Campaign,0,http://www.nytimes.com/2012/08/10/movies/the-campaign-starring-will-ferrell-and-zach-galifianakis.html,47,30,negative
+125,Cats & Dogs,0,http://www.nytimes.com/movie/review?res=9803E4DC1E39F937A35754C0A9679C8B63,28,25,negative
+126,Christopher Robin,0,http://www.nytimes.com/2018/08/02/movies/christopher-robin-review-ewan-mcgregor.html,7,7,neutral
+127,The A-Team,0,http://www.nytimes.com/2010/06/11/movies/11ateam.html,42,24,negative
+128,Saw IV,0,http://www.nytimes.com/2007/10/27/movies/27saw.html,16,6,negative
+129,The Best Man Holiday,0,http://www.nytimes.com/2013/11/15/movies/the-best-man-holiday-a-sequel-about-former-college-friends.html,8,7,negative
+130,Brüno,0,http://www.nytimes.com/2009/07/10/movies/10bruno.html,71,34,negative
+131,A Good Day to Die Hard,0,http://www.nytimes.com/2013/02/14/movies/a-good-day-to-die-hard-with-bruce-willis.html,42,19,negative
+132,"Me, Myself & Irene",0,http://www.nytimes.com/movie/review?res=9406E6DF1F31F930A15755C0A9669C8B63,49,44,negative
+133,The Emoji Movie,0,http://www.nytimes.com/2017/07/27/movies/the-emoji-movie-review.html,11,15,positive
+134,Date Night,0,http://www.nytimes.com/2010/04/09/movies/09date.html,41,29,negative
+135,Tammy,0,http://www.nytimes.com/2014/07/02/movies/in-tammy-melissa-mccarthy-hits-the-road.html,39,28,negative
+136,A Nightmare on Elm Street,0,http://www.nytimes.com/2010/04/30/movies/30nightmare.html,36,19,negative
+137,Peter Rabbit,0,http://www.nytimes.com/2018/02/08/movies/peter-rabbit-review.html,8,18,positive
+138,Think Like a Man Too,0,http://www.nytimes.com/2014/06/20/movies/think-like-a-man-too-the-wedding-full-of-partying.html,10,7,negative
+139,Madea's Family Reunion,0,http://www.nytimes.com/2006/02/25/movies/25made.html,14,10,negative
+140,The Other Woman,0,http://www.nytimes.com/2014/04/25/movies/the-other-woman-stars-cameron-diaz-and-leslie-mann.html,28,14,negative
+141,Skyscraper,0,http://www.nytimes.com/2018/07/11/movies/skyscraper-review-dwayne-johnson.html,23,14,negative
+142,Obsessed,0,http://www.nytimes.com/2009/04/25/movies/25obse.html,29,17,negative
+143,Bridge to Terabithia,1,http://www.nytimes.com/2007/02/16/movies/16tera.html,15,22,positive
+144,Dinner for Schmucks,0,http://www.nytimes.com/2010/07/30/movies/30dinner.html,46,38,negative
+145,Save the Last Dance,0,http://www.nytimes.com/movie/review?res=9901E7DC1F3AF931A25752C0A9679C8B63,23,24,positive
+146,Knowing,0,http://www.nytimes.com/2009/03/20/movies/20know.html,33,12,negative
+147,The Social Network,1,http://www.nytimes.com/2010/09/24/movies/24nyffsocial.html,59,34,negative
+148,Pixels,0,http://www.nytimes.com/2015/07/24/movies/review-in-pixels-attack-of-the-retro-video-games.html,8,6,negative
+149,War Horse,1,http://www.nytimes.com/2011/12/23/movies/war-horse-directed-by-steven-spielberg-review.html,61,52,negative
+150,10 Cloverfield Lane,1,http://www.nytimes.com/2016/03/11/movies/10-cloverfield-lane-review.html,11,12,positive
+151,Act of Valor,0,http://www.nytimes.com/2012/02/24/movies/act-of-valor-starring-navy-seal-members.html,5,8,positive
+152,Dawn of the Dead,0,http://www.nytimes.com/movie/review?res=9A06EED61231F93AA25750C0A9629C8B63,50,21,negative
+153,The Monuments Men,0,http://www.nytimes.com/2014/02/07/movies/clooney-and-company-hunt-for-treasures-in-monuments-men.html,23,33,positive
+154,Total Recall,0,http://www.nytimes.com/2012/08/03/movies/movie-review-total-recall-with-colin-farrell.html,32,17,negative
+155,The Taking of Pelham 123,1,http://www.nytimes.com/2009/06/12/movies/12pelham.html,56,26,negative
+156,Monster House,1,http://www.nytimes.com/2006/07/21/movies/21mons.html,47,26,negative
+157,Arrival,1,http://www.nytimes.com/2016/11/11/movies/arrival-review-amy-adams-jeremy-renner.html,26,35,positive
+158,The First Purge,0,http://www.nytimes.com/2018/07/03/movies/the-first-purge-review.html,17,6,negative
+159,Paul Blart: Mall Cop 2,0,http://www.nytimes.com/2015/04/18/movies/review-paul-blart-mall-cop-2-starring-kevin-james-heads-to-las-vegas.html,11,10,negative
+160,The Game Plan,0,http://www.nytimes.com/2007/09/28/movies/28game.html,2,10,positive
+161,Two Weeks Notice,0,http://www.nytimes.com/movie/review?res=9A00E2D6103DF933A15751C1A9649C8B63,27,30,positive
+162,Argo,1,http://www.nytimes.com/2012/10/12/movies/argo-directed-by-ben-affleck.html,39,25,negative
+163,Heaven is for Real,0,http://www.nytimes.com/2014/04/16/movies/heaven-is-for-real-stars-greg-kinnear.html,8,23,positive
+164,Jackass: The Movie,0,http://www.nytimes.com/movie/review?res=9C0CEFD6113CF935A15753C1A9649C8B63,29,8,negative
+165,The Omen,0,http://www.nytimes.com/2006/06/06/movies/06omen.html,29,13,negative
+166,The Predator,0,http://www.nytimes.com/2018/09/13/movies/the-predator-review.html,7,5,negative
+167,Madea's Big Happy Family,0,http://www.nytimes.com/2011/04/25/movies/madea-big-happy-family-with-tyler-perry-review.html,24,24,neutral
+168,Vantage Point,0,http://www.nytimes.com/2008/02/22/movies/22vant.html,15,13,negative
+169,We Were Soldiers,0,http://www.nytimes.com/movie/review?res=9900E6DD1331F932A35750C0A9649C8B63,52,37,negative
+170,The Adventures of Tintin,0,http://www.nytimes.com/2011/12/21/movies/the-adventures-of-tintin-by-steven-spielberg-review.html,37,17,negative
+171,The Boss,0,http://www.nytimes.com/2016/04/08/movies/the-boss-review-melissa-mccarthy.html,35,29,negative
+172,Chronicle,0,http://www.nytimes.com/2012/02/03/movies/dane-dehaan-in-chronicle-directed-by-josh-trank.html,32,24,negative
+173,The Time Machine,0,http://www.nytimes.com/movie/review?res=9E07E3D91330F93BA35750C0A9649C8B63,33,30,negative
+174,17 Again,0,http://www.nytimes.com/2009/04/17/movies/17seve.html,15,23,positive
+175,John Q,0,http://www.nytimes.com/movie/review?res=9803EED7143FF936A25751C0A9649C8B63,42,21,negative
+176,Jack Reacher: Never Go Back,0,http://www.nytimes.com/2016/10/21/movies/jack-reacher-never-go-back-review-tom-cruise.html,29,22,negative
+177,Project X,1,http://www.nytimes.com/2012/03/02/movies/project-x-from-nima-nourizadeh.html,5,12,positive
+178,Life of Pi,0,http://www.nytimes.com/2012/11/21/movies/life-of-pi-directed-by-ang-lee.html,33,56,positive
+179,No Strings Attached,0,http://www.nytimes.com/2011/01/21/movies/21nostringsattached.html,31,32,positive
+180,Baywatch,0,http://www.nytimes.com/2017/05/24/movies/baywatch-review-zac-efron-dwayne-johnson.html,27,24,negative
+181,The Family Man,0,http://www.nytimes.com/movie/review?res=9400E2D71F39F931A15751C1A9669C8B63,42,42,neutral
+182,The Stepford Wives,0,http://www.nytimes.com/movie/review?res=9A0DE2DA1430F932A25755C0A9629C8B63,42,27,negative
+183,The BFG,0,http://www.nytimes.com/2016/07/01/movies/the-bfg-review-steven-spielberg-mark-rylance.html,36,36,neutral
+184,Exodus: Gods and Kings,0,http://www.nytimes.com/2014/12/12/movies/exodus-gods-and-kings-ridley-scotts-biblical-drama.html,43,28,negative
+185,Snow Dogs,0,http://www.nytimes.com/movie/review?res=9400EFDF1E38F93BA25752C0A9649C8B63,25,15,negative
+186,The Adjustment Bureau,1,http://www.nytimes.com/2011/03/04/movies/04adjust.html,41,34,negative
+187,Prisoners,0,http://www.nytimes.com/2013/09/20/movies/prisoners-stars-hugh-jackman-and-jake-gyllenhaal.html,67,25,negative
+188,The Bounty Hunter,0,http://www.nytimes.com/2010/03/19/movies/19bounty.html,54,19,negative
+189,Rise of the Guardians,0,http://www.nytimes.com/2012/11/21/movies/in-rise-of-the-guardians-childhood-naivete-wins.html,30,25,negative
+190,I Can Do Bad All By Myself,0,http://www.nytimes.com/2009/09/12/movies/12tyler.html,27,17,negative
+191,Hotel for Dogs,0,http://www.nytimes.com/2009/01/16/movies/16dogs.html,14,24,positive
+192,Blockers,0,http://www.nytimes.com/2018/04/05/movies/blockers-review.html,36,20,negative
+193,Takers,0,http://www.nytimes.com/2010/08/27/movies/27takers.html,31,28,negative
+194,The Strangers,1,http://www.nytimes.com/2008/05/30/movies/30stra.html,17,9,negative
+195,The Haunting in Connecticut,0,http://www.nytimes.com/2009/03/27/movies/27haun.html,13,3,negative
+196,The Time Traveler's Wife,0,http://www.nytimes.com/2009/08/14/movies/14time.html,23,14,negative
+197,Me Before You,0,http://www.nytimes.com/2016/06/03/movies/me-before-you-review.html,23,19,negative
+198,Déjà Vu,0,http://www.nytimes.com/2006/11/22/movies/22deja.html,41,23,negative
+199,Warm Bodies,0,http://www.nytimes.com/2013/02/01/movies/warm-bodies-written-and-directed-by-jonathan-levine.html,37,31,negative
+200,This is 40,0,http://www.nytimes.com/2012/12/21/movies/this-is-40-from-judd-apatow-and-starring-paul-rudd.html,59,38,negative
+201,Holes,1,http://www.nytimes.com/movie/review?res=9B0CEFD7163AF93BA25757C0A9659C8B63,59,36,negative
+202,The Shaggy Dog,0,http://www.nytimes.com/movie/review?res=9A05E3DB1038EF3BBC4851DFB5668382649EDE,15,23,positive
+203,Forgetting Sarah Marshall,0,http://www.nytimes.com/2008/04/18/movies/18forg.html,38,39,positive
+204,The Good Shepherd,0,http://www.nytimes.com/2006/12/22/movies/22shep.html,46,37,negative
+205,Coraline,1,http://www.nytimes.com/2009/02/06/movies/06cora.html,39,36,negative
+206,Stuart Little 2,1,http://www.nytimes.com/movie/review?res=9802EED91039F93AA25754C0A9649C8B63,30,35,positive
+207,Kick-Ass,0,http://www.nytimes.com/2010/04/16/movies/16kick.html,35,18,negative
+208,Assassin’s Creed,0,http://www.nytimes.com/2016/12/20/movies/assassins-creed-review-michael-fassbender.html,15,14,negative
+209,Along Came a Spider,0,http://www.nytimes.com/movie/review?res=9A0CEFD7143EF935A35757C0A9679C8B63,32,18,negative
+210,Last Vegas,0,http://www.nytimes.com/2013/11/01/movies/last-vegas-stars-de-niro-freeman-douglas-and-kline.html,21,12,negative
+211,Just Married,0,http://www.nytimes.com/movie/review?res=9D05E1D6113EF933A25752C0A9659C8B63,33,26,negative
+212,Percy Jackson: Sea of Monsters,0,http://www.nytimes.com/2013/08/07/movies/percy-jackson-sea-of-monsters-with-logan-lerman.html,6,9,positive
+213,Secret Window,0,http://www.nytimes.com/movie/review?res=9A07E5DB133EF931A25750C0A9629C8B63,34,16,negative
+214,Changing Lanes,0,http://www.nytimes.com/movie/review?res=9D02EEDB163CF931A25757C0A9649C8B63,59,26,negative
+215,Year One,1,http://www.nytimes.com/2009/06/19/movies/19year.html,33,18,negative
+216,Water for Elephants,0,http://www.nytimes.com/2011/04/22/movies/reese-witherspoon-in-water-for-elephants-review.html,45,27,negative
+217,The Shack,0,http://www.nytimes.com/2017/03/02/movies/the-shack-review-sam-worthington-octavia-spencer.html,8,9,positive
+218,The Others,0,http://www.nytimes.com/movie/review?res=9C0DE7DF153FF933A2575BC0A9679C8B63,48,26,negative
+219,The Boxtrolls,0,http://www.nytimes.com/2014/09/26/movies/the-boxtrolls-is-an-adaptation-of-here-be-monsters.html,32,18,negative
+220,The One,0,http://www.nytimes.com/2011/10/07/movies/the-one-a-coming-out-film-by-caytha-jentis-review.html,18,11,negative
+221,Notorious,0,http://www.nytimes.com/2009/01/16/movies/16noto.html,47,40,negative
+222,Southpaw,0,http://www.nytimes.com/2015/07/24/movies/review-in-southpaw-jake-gyllenhaal-tries-to-box-his-way-back-from-tragedy.html,33,24,negative
+223,Premonition,0,http://www.nytimes.com/2007/03/16/movies/16prem.html,40,10,negative
+224,K-PAX,0,http://www.nytimes.com/movie/review?res=9E07E2DB1331F935A15753C1A9679C8B63,54,38,negative
+225,Ghost in the Shell,0,http://www.nytimes.com/2017/03/30/movies/ghost-in-the-shell-review-scarlett-johansson.html,26,23,negative
+226,Mona Lisa Smile,0,http://www.nytimes.com/movie/review?res=9C0CE0DD173FF93AA25751C1A9659C8B63,24,46,positive
+227,The Internship,0,http://www.nytimes.com/2013/06/07/movies/the-internship-with-vince-vaughn-and-owen-wilson.html,16,10,negative
+228,Life of the Party,0,http://www.nytimes.com/2018/05/10/movies/life-of-the-party-review-melissa-mccarthy.html,15,16,positive
+229,American Made,0,http://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html,38,23,negative
+230,For Colored Girls,1,http://www.nytimes.com/2010/11/05/movies/05for.html,47,31,negative
+231,Identity,0,http://www.nytimes.com/movie/review?res=9907E5DB163DF936A15757C0A9659C8B63,41,16,negative
+232,Uncle Drew,0,http://www.nytimes.com/2018/06/28/movies/uncle-drew-review-kyrie-irving.html,11,2,negative
+233,Rambo,0,http://www.nytimes.com/2008/01/25/movies/25ramb.html,35,12,negative
+234,Gangs of New York,1,http://www.nytimes.com/movie/review?res=9E06E4D8103DF933A15751C1A9649C8B63,74,52,negative
+235,The Recruit,0,http://www.nytimes.com/movie/review?res=9A07E3D71F39F932A05752C0A9659C8B63,41,19,negative
+236,Sucker Punch,0,http://www.nytimes.com/2011/03/25/movies/sucker-punch-from-zack-snyder-review.html,55,21,negative
+237,Catwoman,0,http://www.nytimes.com/movie/review?res=9804EEDD1E3AF931A15754C0A9629C8B63,46,39,negative
+238,I Feel Pretty,0,http://www.nytimes.com/2018/04/19/movies/i-feel-pretty-review-amy-schumer.html,39,38,negative
+239,Open Range,0,http://www.nytimes.com/movie/review?res=9F02E1D71630F936A2575BC0A9659C8B63,37,23,negative
+240,Reign of Fire,0,http://www.nytimes.com/movie/review?res=9C06E4D81330F931A25754C0A9649C8B63,43,23,negative
+241,The Prestige,1,http://www.nytimes.com/2006/10/20/movies/20pres.html,54,58,positive
+242,Welcome Home Roscoe Jenkins,0,http://www.nytimes.com/2008/02/08/movies/08rosc.html,19,18,negative
+243,Krampus,0,http://www.nytimes.com/2015/12/04/movies/review-in-krampus-the-holiday-involves-a-demonic-santa.html,19,6,negative
+244,Righteous Kill,0,http://www.nytimes.com/2008/09/12/movies/12righ.html,26,20,negative
+245,The Whole Nine Yards,0,http://www.nytimes.com/movie/review?res=9404EEDC1131F93BA25751C0A9669C8B63,25,30,positive
+246,Rock of Ages,0,http://www.nytimes.com/2012/06/15/movies/review-rock-of-ages-a-musical-starring-tom-cruise.html,21,15,negative
+247,Apocalypto,0,http://www.nytimes.com/2006/12/08/movies/08apoc.html,55,30,negative
+248,Miracles from Heaven,0,http://www.nytimes.com/2016/03/16/movies/review-miracles-from-heaven-starring-jennifer-garner-as-the-mother-of-a-sick-child.html,16,22,positive
+249,Final Destination 2,0,http://www.nytimes.com/movie/review?res=9903E4D81F39F932A05752C0A9659C8B63,49,18,negative
+250,The Beach,0,http://www.nytimes.com/movie/review?res=9C00EFDE103EF932A25751C0A9669C8B63,37,37,neutral
+251,John Wick,1,http://www.nytimes.com/2014/10/24/movies/in-john-wick-keanu-reeves-as-an-avenger.html,25,27,positive
+252,The Crazies,0,http://www.nytimes.com/2010/02/26/movies/26crazies.html,11,8,negative
+253,The Tale of Despereaux,0,http://www.nytimes.com/2008/12/19/movies/19tale.html,19,38,positive
+254,Jersey Boys,0,http://www.nytimes.com/2014/06/20/movies/jersey-boys-eastwoods-take-on-showbiz-myth.html,49,28,negative
+255,Jeepers Creepers II,0,http://www.nytimes.com/movie/review?res=9C07EED81E39F93AA1575BC0A9659C8B63,14,9,negative
+256,Peter Pan: Return to Neverland,0,http://www.nytimes.com/movie/review?res=980DE3D7143FF936A25751C0A9649C8B63,31,20,negative
+257,Enough,0,http://www.nytimes.com/movie/review?res=9D00E0DB1F38F937A15756C0A9649C8B63,45,27,negative
+258,Money Monster,0,http://www.nytimes.com/2016/05/13/movies/review-in-money-monster-review-george-clooney-julia-roberts-jodie-foster.html,40,29,negative
+259,Showtime,0,http://www.nytimes.com/movie/review?res=9A05EFD81039F936A25750C0A9649C8B63,38,22,negative
+260,Insidious,0,http://www.nytimes.com/2011/04/01/movies/insidious-directed-by-james-wan-review.html,15,5,negative
+261,Serendipity,0,http://www.nytimes.com/movie/review?res=9903E7DD163CF936A35753C1A9679C8B63,23,31,positive
+262,Next Friday,0,http://www.nytimes.com/movie/review?res=9A0CEFDF163AF931A25752C0A9669C8B63,35,9,negative
+263,American Assassin,0,http://www.nytimes.com/2017/09/14/movies/american-assassin-review-michael-keaton.html,20,14,negative
+264,Domestic Disturbance,0,http://www.nytimes.com/movie/review?res=9B05E5DD1130F931A35752C1A9679C8B63,41,11,negative
+265,Australia,0,http://www.nytimes.com/2008/11/26/movies/26aust.html,50,25,negative
+266,End of Watch,0,http://www.nytimes.com/2012/09/21/movies/end-of-watch-with-jake-gyllenhaal-and-michael-pena.html,21,16,negative
+267,Blow,0,http://www.nytimes.com/movie/review?res=9D01E1DE153EF935A35757C0A9679C8B63,51,24,negative
+268,The Roommate,0,http://www.nytimes.com/2011/02/04/movies/roundup2.html,17,4,negative
+269,Jumping the Broom,0,http://www.nytimes.com/2011/05/06/movies/jumping-the-broom-with-angela-bassett-review.html,26,15,negative
+270,Duplicity,1,http://www.nytimes.com/2009/03/20/movies/20dupl.html,56,42,negative
+271,Good Boy!,0,http://www.nytimes.com/movie/review?res=9D01E0DC143FF933A25753C1A9659C8B63,13,11,negative
+272,Lakeview Terrace,0,http://www.nytimes.com/2008/09/19/movies/19terr.html,37,14,negative
+273,The Watch,0,http://www.nytimes.com/2012/07/27/movies/the-watch-with-ben-stiller-and-vince-vaughn.html,34,10,negative
+274,Max,0,http://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html,18,22,positive
+275,The 15:17 to Paris,0,http://www.nytimes.com/2018/02/07/movies/the-1517-to-paris-review-clint-eastwood.html,25,29,positive
+276,Bridget Jones's Diary,1,http://www.nytimes.com/movie/review?res=9F04E2DB1531F930A25757C0A9679C8B63,48,59,positive
+277,Concussion,0,http://www.nytimes.com/2015/12/25/movies/review-in-concussion-a-doctors-cri-de-coeur-against-footballs-risks.html,37,21,negative
+278,Head of State,0,http://www.nytimes.com/movie/review?res=9C0DE5D81E30F93BA15750C0A9659C8B63,46,23,negative
+279,The Holiday,0,http://www.nytimes.com/2006/12/08/movies/08holi.html,29,35,positive
+280,Stealth,0,http://www.nytimes.com/2005/07/29/movies/traveling-to-exotic-places-and-blowing-things-to-bits.html,26,13,negative
+281,The Spy Who Dumped Me,0,http://www.nytimes.com/2018/08/01/movies/the-spy-who-dumped-me-review.html,31,16,negative
+282,The Punisher,0,http://www.nytimes.com/movie/review?res=9E0CE7DD153BF935A25757C0A9629C8B63,56,29,negative
+283,Raising Helen,0,http://www.nytimes.com/movie/review?res=980DE4D6133EF93BA15756C0A9629C8B63,37,40,positive
+284,Runaway Jury,0,http://www.nytimes.com/movie/review?res=9A06E2D6173EF934A25753C1A9659C8B63,45,23,negative
+285,The Last House on the Left,1,http://www.nytimes.com/2009/03/13/movies/13left.html,26,7,negative
+286,Death Wish,0,http://www.nytimes.com/2018/03/01/movies/review-death-wish-eli-roth-bruce-willis.html,14,2,negative
+287,Malibu's Most Wanted,0,http://www.nytimes.com/movie/review?res=9A01EFD7163AF93BA25757C0A9659C8B63,23,8,negative
+288,Priest,0,http://www.nytimes.com/2011/05/14/movies/priest-review.html,7,8,positive
+289,Rugrats Go Wild,0,http://www.nytimes.com/movie/review?res=9C06E4D81F39F930A25755C0A9659C8B63,20,14,negative
+290,The Hundred-Foot Journey,0,http://www.nytimes.com/2014/08/08/movies/in-the-hundred-foot-journey-kitchen-wars-break-out.html,35,32,negative
+291,Zodiac,1,http://www.nytimes.com/2007/03/02/movies/02zodi.html,56,28,negative
+292,Nerve,0,http://www.nytimes.com/2016/07/27/movies/nerve-review-emma-roberts.html,15,8,negative
+293,"Love, Simon",0,http://www.nytimes.com/2018/03/15/movies/love-simon-review.html,19,21,positive
+294,Charlie St. Cloud,0,http://www.nytimes.com/2010/07/30/movies/30charlie.html,42,25,negative
+295,The Ladykillers,0,http://www.nytimes.com/movie/review?res=9401E2DB1230F935A15750C0A9629C8B63,40,31,negative
+296,Trouble with the Curve,0,http://www.nytimes.com/2012/09/21/movies/trouble-with-the-curve-with-clint-eastwood-and-amy-adams.html,39,21,negative
+297,Fist Fight,0,http://www.nytimes.com/2017/02/16/movies/fist-fight-review-ice-cube-charlie-day.html,31,16,negative
+298,BlacKkKlansman,1,http://www.nytimes.com/2018/08/09/movies/blackkklansman-review-spike-lee.html,64,41,negative
+299,The Age of Adaline,0,http://www.nytimes.com/2015/04/24/movies/review-the-age-of-adaline-coasts-through-the-decades.html,22,18,negative
+300,Hanna,0,http://www.nytimes.com/2011/04/08/movies/hanna-with-eric-bana-and-saoirse-ronan-review.html,48,24,negative
+301,Death Race,1,http://www.nytimes.com/2008/08/22/movies/22race.html,44,15,negative
+302,Here Comes the Boom,0,http://www.nytimes.com/2012/10/12/movies/kevin-james-in-here-comes-the-boom.html,5,13,positive
+303,License to Wed,0,http://www.nytimes.com/2007/07/03/movies/03wed.html,40,30,negative
+304,Gods of Egypt,0,http://www.nytimes.com/2016/02/26/movies/gods-of-egypt-review.html,26,16,negative
+305,The Men Who Stare at Goats,0,http://www.nytimes.com/2009/11/06/movies/06themen.html,24,29,positive
+306,Entourage,0,http://www.nytimes.com/2015/06/03/movies/review-entourage-the-screen-is-bigger-but-nothing-is-better.html,20,25,positive
+307,40 Days and 40 Nights,0,http://www.nytimes.com/movie/review?res=9504E7DE1331F932A35750C0A9649C8B63,32,22,negative
+308,Mother’s Day,0,http://www.nytimes.com/2016/04/29/movies/mothers-day-review.html,15,2,negative
+309,Scary Movie 5,0,http://www.nytimes.com/2013/04/13/movies/scary-movie-v-starring-ashley-tisdale.html,13,8,negative
+310,Dan in Real Life,0,http://www.nytimes.com/2007/10/26/movies/26dan.html,27,28,positive
+311,When the Bough Breaks,0,http://www.nytimes.com/2016/09/10/movies/review-when-the-bough-breaks-blame-a-scary-pregnancy-surrogate.html,12,6,negative
+312,Crimson Peak,0,http://www.nytimes.com/2015/10/16/movies/crimson-peak-a-guillermo-del-toro-gothic-romance-in-high-bloody-style.html,45,19,negative
+313,Lincoln,1,http://www.nytimes.com/2012/11/09/movies/lincoln-by-steven-spielberg-stars-daniel-day-lewis.html,66,63,negative
+314,Point Break,0,http://www.nytimes.com/2015/12/26/movies/review-point-break-an-x-games-remake.html,15,13,negative
+315,Life,0,http://www.nytimes.com/2017/03/23/movies/life-review-jake-gyllenhaal-ryan-reynolds.html,14,8,negative
+316,Marmaduke,0,http://www.nytimes.com/2010/06/04/movies/04marmaduke.html,13,6,negative
+317,House at the End of the Street,0,http://www.nytimes.com/2012/09/22/movies/the-house-at-the-end-of-the-street-with-jennifer-lawrence.html,22,6,negative
+318,Arthur,0,http://www.nytimes.com/2011/04/08/movies/arthur-with-russell-brand-helen-mirren-review.html,40,31,negative
+319,The Star,0,http://www.nytimes.com/movie/review?res=940DE7DC1F3AE53ABC4151DFB7668388649EDE,51,18,negative
+320,Hannibal Rising,0,http://www.nytimes.com/2007/02/09/movies/09hann.html,33,13,negative
+321,"McFarland, USA",0,http://www.nytimes.com/2015/02/20/movies/review-in-mcfarland-usa-kevin-costner-coaches-cross-country-runners.html,25,33,positive
+322,Pitch Perfect,0,http://www.nytimes.com/2012/09/28/movies/pitch-perfect-starring-anna-kendrick.html,9,9,neutral
+323,Hollywood Homicide,0,http://www.nytimes.com/movie/review?res=9D04E5D81E39F930A25755C0A9659C8B63,45,35,negative
+324,The Eye,0,http://www.nytimes.com/2008/02/02/movies/02eye.html,12,8,negative
+325,Drive,0,http://www.nytimes.com/2011/09/16/movies/drive-with-ryan-gosling-review.html,45,32,negative
+326,Heartbreakers,1,http://www.nytimes.com/movie/review?res=980DE5DB173CF930A15750C0A9679C8B63,48,40,negative
+327,The Mothman Prophecies,0,http://www.nytimes.com/movie/review?res=9502E1DC1F3BF936A15752C0A9649C8B63,40,30,negative
+328,The Boy,0,http://www.nytimes.com/2016/01/23/movies/the-boy-review.html,14,4,negative
+329,Oculus,0,http://www.nytimes.com/2014/04/11/movies/in-oculus-from-mike-flanagan-a-mirror-holds-secrets.html,10,7,negative
+330,Accepted,0,http://www.nytimes.com/2006/08/18/movies/18acce.html,11,12,positive
+331,Machete,0,http://www.nytimes.com/2010/09/03/movies/03machete.html,44,21,negative
+332,3 Days to Kill,0,http://www.nytimes.com/2014/02/21/movies/3-days-to-kill-stars-kevin-costner.html,34,13,negative
+333,Zack and Miri Make a Porno,0,http://www.nytimes.com/2008/10/31/movies/31zack.html,31,30,negative
+334,"Definitely, Maybe",0,http://www.nytimes.com/2008/02/14/movies/14maybe.html,42,45,positive
+335,Jay and Silent Bob Strike Back,0,http://www.nytimes.com/movie/review?res=9500E1D71531F937A1575BC0A9679C8B63,34,32,negative
+336,The Mountain Between Us,0,http://www.nytimes.com/2017/10/05/movies/the-mountain-between-us-review-kate-winslet-idris-elba.html,16,11,negative
+337,How to Be a Latin Lover,0,http://www.nytimes.com/2017/04/28/movies/how-to-be-a-latin-lover-review-eugenio-derbez.html,12,16,positive
+338,Million Dollar Arm,0,http://www.nytimes.com/2014/05/16/movies/in-million-dollar-arm-baseball-talent-from-overseas.html,32,31,negative
+339,One Missed Call,0,http://www.nytimes.com/2008/01/05/movies/05miss.html,24,4,negative
+340,Breach,0,http://www.nytimes.com/2007/02/16/movies/16brea.html,41,19,negative
+341,Mirrors,0,http://www.nytimes.com/2008/08/16/movies/16mirr.html,15,6,negative
+342,Deck the Halls,0,http://www.nytimes.com/2006/11/22/movies/22deck.html,24,11,negative
+343,The Fighting Temptations,0,http://www.nytimes.com/movie/review?res=9403E1DC123AF93AA2575AC0A9659C8B63,25,24,negative
+344,Basic,0,http://www.nytimes.com/movie/review?res=9507E7D61E30F93BA15750C0A9659C8B63,49,29,negative
+345,The Bye Bye Man,0,http://www.nytimes.com/2017/01/12/movies/the-bye-bye-man-review.html,10,9,negative
+346,Soul Surfer,0,http://www.nytimes.com/2011/04/08/movies/soul-surfer-is-bethany-hamiltons-shark-tale-review.html,10,15,positive
+347,Honey,0,http://www.nytimes.com/2011/03/25/movies/a-sons-quest-with-nature-as-a-guide.html,8,17,positive
+348,The DUFF,0,http://www.nytimes.com/2015/02/20/movies/in-the-duff-a-wounded-teenage-girl-combats-mockery.html,11,2,negative
+349,The Art of War,0,http://www.nytimes.com/movie/review?res=9B0CE5D71431F936A1575BC0A9669C8B63,30,4,negative
+350,We Own the Night,0,http://www.nytimes.com/2007/10/12/movies/12nigh.html,39,26,negative
+351,Run All Night,0,http://www.nytimes.com/2015/03/13/movies/review-in-run-all-night-liam-neeson-sticks-to-what-works.html,8,3,negative
+352,One for the Money,0,http://www.nytimes.com/2012/01/28/movies/katherine-heigl-in-film-based-on-janet-evanovich-novel.html,18,12,negative
+353,Dracula 2000,0,http://www.nytimes.com/movie/review?res=9B05EFD91738F930A15751C1A9669C8B63,31,11,negative
+354,Hugo,1,http://www.nytimes.com/2011/11/23/movies/martin-scorseses-hugo-with-ben-kingsley-and-sacha-baron-cohen-review.html,34,35,positive
+355,Lawless,1,http://www.nytimes.com/2017/03/16/movies/song-to-song-review-terrence-malick.html,35,41,positive
+356,Hardball,0,http://www.nytimes.com/movie/review?res=9402E0D71E38F936A2575AC0A9679C8B63,39,23,negative
+357,Kidnap,0,http://www.nytimes.com/2017/08/03/movies/kidnap-review-halle-berry.html,13,3,negative
+358,Dance Flick,0,http://www.nytimes.com/2009/05/22/movies/22flic.html,38,17,negative
+359,Kevin Hart: What Now?,1,http://www.nytimes.com/2016/10/14/movies/kevin-hart-what-now-review.html,13,7,negative
+360,The Missing,0,http://www.nytimes.com/movie/review?res=940DEFDB1F3BF935A15752C1A9659C8B63,33,14,negative
+361,Black Knight,0,http://www.nytimes.com/movie/review?res=9B01EEDF1F3BF932A15752C1A9679C8B63,44,14,negative
+362,Blood Diamond,0,http://www.nytimes.com/2006/12/08/movies/08diam.html,51,26,negative
+363,Keeping the Faith,0,http://www.nytimes.com/movie/review?res=9C0CE3DE113EF937A25757C0A9669C8B63,23,26,positive
+364,The Spy Next Door,0,http://www.nytimes.com/2010/01/15/movies/15spy.html,13,9,negative
+365,The Debt,0,http://www.nytimes.com/2016/07/08/movies/the-debt-review.html,25,9,negative
+366,Sinister 2,0,http://www.nytimes.com/2015/08/21/movies/review-in-sinister-2-a-murderous-being-returns-for-more-mayhem.html,16,3,negative
+367,The Strangers: Prey at Night,0,http://www.nytimes.com/2018/03/08/movies/strangers-prey-at-night-review.html,17,3,negative
+368,Murder by Numbers,0,http://www.nytimes.com/movie/review?res=9404E5DE143FF93AA25757C0A9649C8B63,63,18,negative
+369,Piranha 3D,0,http://www.nytimes.com/2010/08/23/movies/23piranha.html,26,14,negative
+370,See Spot Run,0,http://www.nytimes.com/movie/review?res=9E01E0DC163BF931A35750C0A9679C8B63,24,21,negative
+371,15 Minutes,0,http://www.nytimes.com/movie/review?res=9E05E1D8163AF93AA35750C0A9679C8B63,43,28,negative
+372,Frequency,1,http://www.nytimes.com/movie/review?res=940CE6DA1E30F93BA15757C0A9669C8B63,33,25,negative
+373,The Watcher,0,http://www.nytimes.com/movie/review?res=9A03E3D71539F93BA3575AC0A9669C8B63,33,12,negative
+374,The Lazarus Effect,0,http://www.nytimes.com/2015/02/27/movies/review-in-the-lazarus-effect-young-scientists-play-god.html,9,4,negative
+375,Fighting,0,http://www.nytimes.com/2009/04/24/movies/24figh.html,30,24,negative
+376,Winchester,0,http://www.nytimes.com/2018/02/02/movies/winchester-review-helen-mirren.html,11,8,negative
+377,Angel Eyes,0,http://www.nytimes.com/movie/review?res=9A0CE7DF113AF93BA25756C0A9679C8B63,27,24,negative
+378,The International,0,http://www.nytimes.com/2009/02/13/movies/13inte.html,35,23,negative
+379,War,0,http://www.nytimes.com/2007/08/25/movies/25WAR.html,20,10,negative
+380,The Happytime Murders,0,http://www.nytimes.com/2018/08/22/movies/the-happytime-murders-review-melissa-mccarthy.html,33,12,negative
+381,Nanny McPhee Returns,0,http://www.nytimes.com/2010/08/20/movies/20nanny.html,24,13,negative
+382,Beastly,0,http://www.nytimes.com/2011/03/04/movies/04beast.html,20,25,positive
+383,21 and Over,0,http://www.nytimes.com/2013/03/02/movies/21-over-directed-by-jon-lucas-and-scott-moore.html,9,2,negative
+384,Proud Mary,0,http://www.nytimes.com/2018/01/12/movies/proud-mary-review-taraji-p-henson.html,10,8,negative
+385,Conan the Barbarian,0,http://www.nytimes.com/2011/08/19/movies/conan-the-barbarian-with-jason-momoa-review.html,27,13,negative
+386,You Again,0,http://www.nytimes.com/2010/09/24/movies/24you.html,20,9,negative
+387,The Guilt Trip,0,http://www.nytimes.com/2012/12/19/movies/the-guilt-trip-with-barbra-streisand-and-seth-rogen.html,34,13,negative
+388,Hearts in Atlantis,0,http://www.nytimes.com/movie/review?res=9904E6DA1E3AF93BA1575AC0A9679C8B63,40,20,negative
+389,Ramona and Beezus,0,http://www.nytimes.com/2010/07/23/movies/23ramona.html,6,5,negative
+390,Aloha,0,http://www.nytimes.com/2015/05/29/movies/review-aloha-a-hangout-movie-with-bradley-cooper-and-emma-stone-in-hawaii.html,34,20,negative
+391,Gamer,0,http://www.nytimes.com/2009/09/05/movies/05gamer.html,9,8,negative
+392,Courageous,0,http://www.nytimes.com/2011/10/03/movies/courageous-directed-by-alex-kendrick-review.html,10,14,positive
+393,Biker Boyz,0,http://www.nytimes.com/movie/review?res=9C05E1D61F39F932A05752C0A9659C8B63,31,17,negative
+394,The Covenant,0,http://www.nytimes.com/2006/09/09/movies/09cove.html,9,14,positive
+395,"As Above, So Below",0,http://www.nytimes.com/2014/08/30/movies/as-above-so-below-stars-perdita-weeks.html,9,6,negative
+396,Blood Work,0,http://www.nytimes.com/movie/review?res=9904E6DF173AF93AA3575BC0A9649C8B63,47,20,negative
+397,Waist Deep,0,http://www.nytimes.com/2006/06/23/movies/23wais.html,36,21,negative
+398,Haywire,0,http://www.nytimes.com/2012/01/20/movies/steven-soderberghs-haywire-with-gina-carano-review.html,47,29,negative
+399,Free State of Jones,1,http://www.nytimes.com/2016/06/24/movies/free-state-of-jones-review-matthew-mcconaughey.html,45,35,negative
+400,The Eagle,0,http://www.nytimes.com/2011/02/11/movies/11eagle.html,39,24,negative
+401,Apollo 18,0,http://www.nytimes.com/2011/09/03/movies/apollo-18-directed-by-gonzalo-lopez-gallego-review.html,17,6,negative
+402,Looney Tunes: Back in Action,0,http://www.nytimes.com/movie/review?res=9D0DE4D91438F937A25752C1A9659C8B63,46,26,negative
+403,The Three Musketeers,0,http://www.nytimes.com/2011/10/22/movies/the-three-musketeers-with-christoph-waltz-review.html,20,15,negative
+404,Little Black Book,0,http://www.nytimes.com/movie/review?res=9900E6D6153CF935A3575BC0A9629C8B63,19,18,negative
+405,Cold Creek Manor,0,http://www.nytimes.com/movie/review?res=9A01EFDC123AF93AA2575AC0A9659C8B63,48,14,negative
+406,My Best Friend's Girl,0,http://www.nytimes.com/2008/09/20/movies/20best.html,13,10,negative
+407,Chernobyl Diaries,0,http://www.nytimes.com/2012/05/26/movies/chernobyl-diaries-co-produced-by-oren-peli.html,17,7,negative
+408,Dream House,0,http://www.nytimes.com/2011/10/01/movies/dream-house-with-daniel-craig-and-rachel-weisz-in-review.html,14,6,negative
+409,Traitor,0,http://www.nytimes.com/2008/08/27/movies/27trai.html,44,28,negative
+410,The Big Wedding,0,http://www.nytimes.com/2013/04/26/movies/the-big-wedding-a-farce-with-keaton-and-de-niro.html,9,11,positive
+411,Boys and Girls,0,http://www.nytimes.com/movie/review?res=9C01E2D7113EF935A25755C0A9669C8B63,32,20,negative
+412,A Haunted House 2,0,http://www.nytimes.com/2014/04/19/movies/a-haunted-house-2-stars-marlon-wayans.html,18,2,negative
+413,Norm of the North,0,http://www.nytimes.com/2016/01/15/movies/review-in-norm-of-the-north-a-polar-bear-takes-a-stand.html,17,8,negative
+414,School for Scoundrels,0,http://www.nytimes.com/2006/09/29/movies/29scou.html,12,9,negative
+415,Going the Distance,0,http://www.nytimes.com/2010/09/03/movies/03going.html,42,35,negative
+416,Remember Me,0,http://www.nytimes.com/2010/03/12/movies/12remember.html,21,14,negative
+417,The Hot Chick,0,http://www.nytimes.com/movie/review?res=9B0CE6D8133AF930A25751C1A9649C8B63,33,29,negative
+418,National Lampoon's Van Wilder,0,http://www.nytimes.com/movie/review?res=9802E7D9163DF936A35757C0A9649C8B63,8,8,neutral
+419,Ella Enchanted,1,http://www.nytimes.com/movie/review?res=9407E5DB1538F93AA35757C0A9629C8B63,21,13,negative
+420,You're Next,1,http://www.nytimes.com/2013/08/23/movies/youre-next-a-home-invasion-thriller-with-tweaks.html,19,10,negative
+421,The Bank Job,0,http://www.nytimes.com/2008/03/07/movies/07bank.html,32,28,negative
+422,Dead Silence,0,http://www.nytimes.com/2007/03/17/movies/17dead.html,18,8,negative
+423,The Box,0,http://www.nytimes.com/2009/11/06/movies/06thebox.html,42,25,negative
+424,Black Christmas,0,http://www.nytimes.com/2006/12/27/movies/27blac.html,23,5,negative
+425,Down to You,0,http://www.nytimes.com/movie/review?res=9401E6DE103DF931A15752C0A9669C8B63,18,21,positive
+426,Devil's Due,0,http://www.nytimes.com/2014/01/18/movies/in-devils-due-the-horned-one-is-up-to-his-old-mischief.html,14,2,negative
+427,Superfly,0,http://www.nytimes.com/2018/06/12/movies/superfly-review.html,27,25,negative
+428,Father Figures,0,http://www.nytimes.com/2017/12/21/movies/father-figures-review-ed-helms-owen-wilson.html,11,7,negative
+429,Eurotrip,0,http://www.nytimes.com/movie/review?res=9F04E0DD103DF933A15751C0A9629C8B63,38,17,negative
+430,Piglet's Big Movie,0,http://www.nytimes.com/movie/review?res=9401E4DD1E31F932A15750C0A9659C8B63,6,16,positive
+431,The Fighter,1,http://www.nytimes.com/2010/12/10/movies/10fighter.html,73,50,negative
+432,Parker,0,http://www.nytimes.com/2013/01/25/movies/parker-starring-jennifer-lopez-and-jason-statham.html,29,34,positive
+433,Jennifer's Body,0,http://www.nytimes.com/2009/09/18/movies/18jennifer.html,77,31,negative
+434,The Four Feathers,0,http://www.nytimes.com/movie/review?res=9E06E4DA1030F933A1575AC0A9649C8B63,43,25,negative
+435,The Invention of Lying,0,http://www.nytimes.com/2009/10/02/movies/02invention.html,56,31,negative
+436,The Raven,0,http://www.nytimes.com/2012/04/27/movies/the-raven-with-john-cusack-directed-by-james-mcteigue.html,51,32,negative
+437,The Last Exorcism Part II,0,http://www.nytimes.com/2013/03/02/movies/the-last-exorcism-part-ii-starring-ashley-bell.html,17,6,negative
+438,Jobs,1,http://www.nytimes.com/2015/10/09/movies/review-steve-jobs-apples-visionary-ceo-dissected.html,43,43,neutral
+439,A Thousand Words,0,http://www.nytimes.com/2012/03/09/movies/a-thousand-words-directed-by-brian-robbins.html,9,10,positive
+440,Armored,0,http://www.nytimes.com/2009/12/05/movies/05armored.html,52,18,negative
+441,Get Carter,0,http://www.nytimes.com/movie/review?res=980CE5DE153CF934A35753C1A9669C8B63,34,18,negative
+442,Solaris,1,http://www.nytimes.com/movie/review?res=9405E1DC1638F934A15752C1A9649C8B63,64,31,negative
+443,Welcome to Mooseport,0,http://www.nytimes.com/movie/review?res=9B0DE2D9113DF933A15751C0A9629C8B63,13,23,positive
+444,Adventureland,1,http://www.nytimes.com/2009/04/03/movies/03adve.html,35,33,negative
+445,Lockout,0,http://www.nytimes.com/2012/04/13/movies/guy-pearce-in-lockout.html,33,19,negative
+446,Soul Plane,0,http://www.nytimes.com/movie/review?res=940DE3D9103EF93BA15756C0A9629C8B63,31,14,negative
+447,Empire,0,http://www.nytimes.com/movie/review?res=9D06E6D9123BF935A35751C1A9649C8B63,21,18,negative
+448,New York Minute,0,http://www.nytimes.com/movie/review?res=9B01E4DC163CF934A35756C0A9629C8B63,36,18,negative
+449,Awake,0,http://www.nytimes.com/2007/12/01/movies/01awak.html,10,4,negative
+450,Silent House,0,http://www.nytimes.com/2012/03/09/movies/silent-house-horror-film-with-elizabeth-olsen.html,5,8,positive
+451,Disaster Movie,0,http://www.nytimes.com/2008/08/30/movies/30disa.html,11,8,negative
+452,Bait,0,http://www.nytimes.com/movie/review?res=9E03E3D61238F936A2575AC0A9669C8B63,31,11,negative
+453,Glee: The 3D Concert Movie,0,http://www.nytimes.com/2011/08/12/movies/glee-the-3d-concert-movie-review.html,16,44,positive
+454,Triple 9,0,http://www.nytimes.com/2016/02/26/movies/triple-9-review.html,28,13,negative
+455,Self/Less,0,http://www.nytimes.com/2015/07/10/movies/review-in-self-less-immortality-at-a-cost.html,28,12,negative
+456,Almost Famous,1,http://www.nytimes.com/movie/review?res=950DE5D91738F930A2575AC0A9669C8B63,62,67,positive
+457,Juwanna Mann,0,http://www.nytimes.com/movie/review?res=9C06EEDA113BF932A15755C0A9649C8B63,36,15,negative
+458,Burnt,0,http://www.nytimes.com/2015/10/30/movies/review-burnt-with-bradley-cooper-as-a-chef-fresh-from-rehab.html,17,17,neutral
+459,Unaccompanied Minors,0,http://www.nytimes.com/2006/12/08/movies/08mino.html,19,13,negative
+460,Changeling,0,http://www.nytimes.com/2008/10/24/movies/24chan.html,66,27,negative
+461,The 33,0,http://www.nytimes.com/2015/11/13/movies/review-the-33-recalls-a-chilean-mine-disaster-and-the-men-who-endured-it.html,26,24,negative
+462,All the Pretty Horses,0,http://www.nytimes.com/movie/review?res=940CE4D71538F936A15751C1A9669C8B63,40,45,positive
+463,Strange Magic,0,http://www.nytimes.com/2015/01/23/movies/gary-rydstroms-strange-magic-from-a-george-lucas-story.html,10,12,positive
+464,One Day,0,http://www.nytimes.com/2011/08/19/movies/one-day-directed-by-lone-scherfig-review.html,27,37,positive
+465,Meet Dave,0,http://www.nytimes.com/2008/07/11/movies/11dave.html,21,13,negative
+466,Soul Men,0,http://www.nytimes.com/2008/11/07/movies/07soul.html,19,19,neutral
+467,12 Rounds,0,http://www.nytimes.com/2009/03/28/movies/28roun.html,18,3,negative
+468,Unforgettable,0,http://www.nytimes.com/2017/04/20/movies/unforgettable-review-katherine-heigl-rosario-dawson.html,11,6,negative
+469,Before I Fall,0,http://www.nytimes.com/2017/03/01/movies/before-i-fall-review-zoey-deutch.html,27,8,negative
+470,Sorority Row,0,http://www.nytimes.com/2009/09/12/movies/12sorority.html,20,9,negative
+471,The Gunman,0,http://www.nytimes.com/2015/03/20/movies/review-in-the-gunman-sean-penn-plays-a-remorseful-sniper-on-the-run.html,37,13,negative
+472,Whip It,0,http://www.nytimes.com/2009/10/02/movies/02whip.html,33,36,positive
+473,Extract,0,http://www.nytimes.com/2009/09/04/movies/04extract.html,49,16,negative
+474,The Last Kiss,0,http://www.nytimes.com/2006/09/15/movies/15kiss.html,55,30,negative
+475,The Crew,0,http://www.nytimes.com/movie/review?res=980CEFD81431F936A1575BC0A9669C8B63,36,21,negative
+476,Abandon,0,http://www.nytimes.com/movie/review?res=980DE3D8153DF93BA25753C1A9649C8B63,34,30,negative
+477,Bullet to the Head,0,http://www.nytimes.com/2013/02/01/movies/bullet-to-the-head-stars-sylvester-stallone.html,22,13,negative
+478,The Express,0,http://www.nytimes.com/2008/10/10/movies/10expr.html,21,23,positive
+479,Stop-Loss,0,http://www.nytimes.com/2008/03/28/movies/28stop.html,76,18,negative
+480,Ponyo,1,http://www.nytimes.com/2009/08/14/movies/14ponyo.html,29,30,positive
+481,Hardcore Henry,0,http://www.nytimes.com/2016/04/08/movies/review-in-hardcore-henry-a-semi-robotic-soldier-has-a-personal-mission.html,15,4,negative
+482,Death Sentence,0,http://www.nytimes.com/2007/08/30/movies/31sent.html,17,2,negative
+483,Here on Earth,0,http://www.nytimes.com/movie/review?res=9402EFDD143DF937A15750C0A9669C8B63,26,20,negative
+484,Midnight Sun,0,http://www.nytimes.com/2018/03/23/movies/midnight-sun-review.html,16,12,negative
+485,Next Day Air,1,http://www.nytimes.com/2009/05/08/movies/08next.html,15,8,negative
+486,Cirque du Soleil: Worlds Away,0,http://www.nytimes.com/2012/12/21/movies/cirque-du-soleil-worlds-away-in-3-d.html,8,10,positive
+487,The Legend of Drunken Master,0,http://www.nytimes.com/movie/review?res=9C0CEED6123EF933A15753C1A9669C8B63,44,34,negative
+488,Death to Smoochy,0,http://www.nytimes.com/movie/review?res=9A0DE2D71E3BF93AA15750C0A9649C8B63,46,18,negative
+489,MacGruber,0,http://www.nytimes.com/2010/05/22/movies/22macgruber.html,17,16,negative
+490,The Conspirator,0,http://www.nytimes.com/2011/04/15/movies/the-conspirator-directed-by-robert-redford-review.html,52,27,negative
+491,Rock Dog,0,http://www.nytimes.com/2017/02/23/movies/rock-dog-review.html,5,7,positive
+492,Searching,0,http://www.nytimes.com/2018/08/23/movies/searching-review-john-cho.html,15,8,negative
+493,The Space Between Us,0,http://www.nytimes.com/2017/02/02/movies/review-the-space-between-us-the-story-of-a-boy-who-fell-to-earth.html,8,7,negative
+494,A Good Year,0,http://www.nytimes.com/2006/11/10/movies/10year.html,31,30,negative
+495,My Life in Ruins,0,http://www.nytimes.com/2009/06/05/movies/05ruin.html,23,19,negative
+496,The Collector,0,http://www.nytimes.com/2009/08/01/movies/01collect.html,11,2,negative
+497,About Time,0,http://www.nytimes.com/2013/11/01/movies/about-time-a-british-confection-from-richard-curtis.html,32,27,negative
+498,Bug,0,http://www.nytimes.com/2007/05/24/movies/25bug.html,22,10,negative
+499,Isle of Dogs,1,http://www.nytimes.com/2018/03/22/movies/isle-of-dogs-review-wes-anderson.html,41,40,negative
+500,Taking Woodstock,1,http://www.nytimes.com/2009/08/26/movies/26woodstock.html,42,32,negative
+501,Our Brand is Crisis,0,http://www.nytimes.com/2015/10/30/movies/review-in-our-brand-is-crisis-the-war-room-goes-to-bolivia.html,25,27,positive
+502,Nothing Like the Holidays,0,http://www.nytimes.com/2008/12/12/movies/12holi.html,35,12,negative
+503,Cadillac Records,1,http://www.nytimes.com/2008/12/05/movies/05cadi.html,43,36,negative
+504,Nine,0,http://www.nytimes.com/2009/12/18/movies/18nine.html,45,28,negative
+505,Black Nativity,0,http://www.nytimes.com/2013/11/27/movies/black-nativity-with-angela-bassett-and-jennifer-hudson.html,26,21,negative
+506,Just Getting Started,0,http://www.nytimes.com/2017/12/11/movies/just-getting-started-review-morgan-freeman-tommy-lee-jones.html,19,13,negative
+507,The Master,1,http://www.nytimes.com/2012/09/14/movies/review-the-master-from-paul-thomas-anderson.html,70,62,negative
+508,La La Land,1,http://www.nytimes.com/2016/12/08/movies/la-la-land-review-ryan-gosling-emma-stone.html,35,54,positive
+509,Post Grad,0,http://www.nytimes.com/2009/08/21/movies/21post.html,12,13,positive
+510,Miss Pettigrew Lives for a Day,0,http://www.nytimes.com/2008/03/07/movies/07pett.html,37,33,negative
+511,It Runs in the Family,1,http://www.nytimes.com/movie/review?res=9E06E6DA163DF936A15757C0A9659C8B63,43,28,negative
+512,Pirate Radio,0,http://www.nytimes.com/2009/11/13/movies/13pirateradio.html,27,18,negative
+513,Suburbicon,0,http://www.nytimes.com/2017/10/26/movies/suburbicon-review-george-clooney-matt-damon-julianne-moore.html,31,14,negative
+514,Under the Same Moon,0,http://www.nytimes.com/2008/03/19/movies/19moon.html,27,15,negative
+515,Bandslam,0,http://www.nytimes.com/2009/08/14/movies/14bandslam.html,9,18,positive
+516,The Apparition,0,http://www.nytimes.com/2018/09/06/movies/the-apparition-review.html,5,4,negative
+517,Little Boy,0,http://www.nytimes.com/2015/04/24/movies/review-little-boy-is-a-fable-about-faith-versus-magical-thinking.html,11,15,positive
+518,Battle of the Sexes,0,http://www.nytimes.com/2017/09/21/movies/review-battle-of-the-sexes-billie-jean-king-bobby-riggs.html,32,44,positive
+519,Casa de mi Padre,0,http://www.nytimes.com/2012/03/16/movies/will-ferrell-in-casa-de-mi-padre.html,25,14,negative
+520,Deception,0,http://www.nytimes.com/2008/04/25/movies/25dece.html,15,7,negative
+521,Babies,1,http://www.nytimes.com/2010/05/07/movies/07babies.html,34,28,negative
+522,True Story,0,http://www.nytimes.com/2015/04/17/movies/review-true-story-stars-jonah-hill-and-james-franco.html,44,16,negative
+523,Prem Ratan Dhan Payo,0,http://www.nytimes.com/2015/11/16/movies/review-prem-ratan-dhan-payo-a-bollywood-tale-of-a-prince-and-plebe-double.html,9,19,positive
+524,90 Minutes in Heaven,0,http://www.nytimes.com/2015/09/11/movies/review-90-minutes-in-heaven-then-a-long-road-back.html,19,9,negative
+525,The Best Exotic Marigold Hotel,1,http://www.nytimes.com/2012/05/04/movies/the-best-exotic-marigold-hotel-with-judi-dench.html,24,26,positive
+526,Hell or High Water,1,http://www.nytimes.com/2016/08/12/movies/hell-or-high-water-review.html,31,15,negative
+527,Witless Protection,0,http://www.nytimes.com/2008/02/23/movies/23witl.html,15,6,negative
+528,Absolutely Fabulous: The Movie,0,http://www.nytimes.com/2016/07/22/movies/abfab-absolutely-fabulous-review.html,23,22,negative
+529,The Cold Light of Day,0,http://www.nytimes.com/2012/09/08/movies/bruce-willis-stars-in-the-cold-light-of-day.html,18,9,negative
+530,Charlie Bartlett,0,http://www.nytimes.com/2008/02/22/movies/22char.html,35,19,negative
+531,Gotti,0,http://www.nytimes.com/2018/06/15/movies/review-gotti-john-travolta.html,29,7,negative
+532,Stronger,0,http://www.nytimes.com/2017/09/21/movies/review-jake-gyllenhaal-as-marathon-victim-in-stronger.html,19,15,negative
+533,We Are Your Friends,0,http://www.nytimes.com/2015/08/28/movies/review-angelenos-long-for-life-beyond-the-valley-in-we-are-your-friends.html,10,4,negative
+534,The To Do List,1,http://www.nytimes.com/2013/07/26/movies/aubrey-plaza-stars-in-the-to-do-list.html,23,14,negative
+535,(500) Days of Summer,0,http://www.nytimes.com/2009/07/17/movies/17five.html,47,57,positive
+536,Milk,1,http://www.nytimes.com/2008/11/26/movies/26milk.html,50,55,positive
+537,7 Days in Entebbe,0,http://www.nytimes.com/2018/03/14/movies/7-days-in-entebbe-review.html,19,13,negative
+538,Shine a Light,1,http://www.nytimes.com/2008/04/04/movies/04shin.html,27,31,positive
+539,The Fifth Estate,0,http://www.nytimes.com/2013/10/18/movies/the-fifth-estate-with-benedict-cumberbatch-as-julian-assange.html,45,28,negative
+540,Veronica Mars,0,http://www.nytimes.com/2014/03/14/movies/veronica-mars-returns-on-the-big-screen-this-time.html,21,19,negative
+541,The Road,1,http://www.nytimes.com/2012/05/11/movies/the-road-by-the-philippine-director-yam-laranas.html,17,5,negative
+542,Spare Parts,0,http://www.nytimes.com/2015/01/16/movies/george-lopez-helps-students-build-a-robot-in-spare-parts.html,14,7,negative
+543,The Identical,0,http://www.nytimes.com/2014/09/05/movies/the-identical-a-movie-musical-about-separated-twins.html,9,6,negative
+544,A Hologram for the King,1,http://www.nytimes.com/2016/04/22/movies/review-a-hologram-for-the-king-is-elevated-by-tom-hankss-portrayal-of-an-american-everyman.html,54,23,negative
+545,Gracie,1,http://www.nytimes.com/2007/05/31/movies/01grac.html,15,8,negative
+546,Anthropoid,1,http://www.nytimes.com/2016/08/12/movies/anthropoid-review.html,15,5,negative
+547,The Bling Ring,0,http://www.nytimes.com/2013/06/14/movies/a-bling-ring-lusting-after-celebrity-trinkets.html,31,37,positive
+548,Choke,0,http://www.nytimes.com/2008/09/26/movies/26chok.html,57,15,negative
+549,Thoroughbreds,0,http://www.nytimes.com/2018/03/08/movies/thoroughbreds-review.html,13,19,positive
+550,Our Kind of Traitor,0,http://www.nytimes.com/2016/07/01/movies/review-a-professor-drawn-to-the-mob-in-our-kind-of-traitor.html,19,15,negative
+551,The Way Back,0,http://www.nytimes.com/2011/01/21/movies/21way.html,48,32,negative
+552,Wish I Was Here,0,http://www.nytimes.com/2014/07/18/movies/zach-braff-directs-and-stars-in-wish-i-was-here.html,22,16,negative
+553,The Way Way Back,0,http://www.nytimes.com/2013/07/05/movies/the-way-way-back-from-nat-faxon-and-jim-rash.html,19,23,positive
+554,Demolition,0,http://www.nytimes.com/2016/04/08/movies/demolition-review-jake-gyllenhaal.html,29,13,negative
+555,The Kids Are All Right,1,http://www.nytimes.com/2010/07/09/movies/09kids.html,49,34,negative
+556,Spotlight,1,http://www.nytimes.com/2015/11/06/movies/review-in-spotlight-the-boston-globe-digs-up-the-catholic-churchs-dirt.html,46,22,negative
+557,Begin Again,0,http://www.nytimes.com/2014/06/27/movies/begin-again-from-the-once-director-john-carney.html,32,30,negative
+558,Jeff Who Lives at Home,0,http://www.nytimes.com/2012/03/16/movies/jeff-who-lives-at-home-a-duplass-brothers-comedy.html,52,42,negative
+559,Assassination Nation,0,http://www.nytimes.com/2018/09/20/movies/assassination-nation-review.html,17,5,negative
+560,Good Hair,0,http://www.nytimes.com/2009/10/09/movies/09hair.html,21,24,positive
+561,Free Fire,1,http://www.nytimes.com/2017/04/20/movies/free-fire-review.html,17,8,negative
+562,Everybody Loves Somebody,0,http://www.nytimes.com/2017/02/16/movies/everybody-loves-somebody-review.html,11,12,positive
+563,The Runaways,0,http://www.nytimes.com/2010/03/19/movies/19runaways.html,30,35,positive
+564,The Company Men,1,http://www.nytimes.com/2010/12/10/movies/10company.html,38,20,negative
+565,Bodyguard,0,http://www.nytimes.com/2011/09/01/movies/bodyguard-with-salman-khan-review.html,12,19,positive
+566,Battle for Terra,0,http://www.nytimes.com/2009/05/01/movies/01terr.html,9,8,negative
+567,The Shape of Water,1,http://www.nytimes.com/2017/11/30/movies/the-shape-of-water-review-guillermo-del-toro.html,40,34,negative
+568,The Art of Getting By,0,http://www.nytimes.com/2011/06/17/movies/the-art-of-getting-by-by-gavin-wiesen-review.html,24,17,negative
+569,The Revenant,0,http://www.nytimes.com/2015/12/25/movies/review-the-revenant-welcome-to-paradise-now-prepare-to-fall.html,55,34,negative
+570,Victoria and Abdul,0,http://www.nytimes.com/2017/09/21/movies/victoria-and-abdul-review-judi-dench.html,7,4,negative
+571,Mohenjo Daro,0,http://www.nytimes.com/2016/08/15/movies/review-mohenjo-daro-depicts-a-go-to-heros-exertions-in-antiquity.html,12,11,negative
+572,Desierto,0,http://www.nytimes.com/2016/10/14/movies/desierto-review-jonas-cuaron-gael-garca-bernal.html,17,4,negative
+573,"Hello, My Name is Doris",0,http://www.nytimes.com/2016/03/11/movies/sally-field-hello-my-name-is-doris-review.html,30,23,negative
+574,Child 44,0,http://www.nytimes.com/2015/04/17/movies/review-child-44-a-secret-police-thriller-in-soviet-russia.html,43,18,negative
+575,The Namesake,0,http://www.nytimes.com/2007/03/09/movies/09name.html,23,30,positive
+576,The Ultimate Life,0,http://www.nytimes.com/2013/09/06/movies/the-ultimate-life-shows-what-money-can-and-cannot-buy.html,13,9,negative
+577,The Ghost Writer,1,http://www.nytimes.com/2010/02/19/movies/19ghost.html,45,39,negative
+578,Chef,0,http://www.nytimes.com/2014/05/09/movies/chef-a-culinary-comedy-by-jon-favreau.html,20,21,positive
+579,Sunshine Cleaning,0,http://www.nytimes.com/2009/03/13/movies/13suns.html,50,21,negative
+580,Enough Said,1,http://www.nytimes.com/2013/09/18/movies/enough-said-stars-james-gandolfini-and-julia-louis-dreyfus.html,60,57,negative
+581,There Will Be Blood,1,http://www.nytimes.com/2007/12/26/movies/26bloo.html,72,45,negative
+582,Elvis & Nixon,0,http://www.nytimes.com/2016/04/22/movies/elvis-and-nixon-review.html,19,14,negative
+583,Frost/Nixon,0,http://www.nytimes.com/2008/12/05/movies/05fros.html,43,23,negative
+584,The Duchess,0,http://www.nytimes.com/2008/09/19/movies/19duch.html,16,15,negative
+585,A Serious Man,1,http://www.nytimes.com/2009/10/02/movies/02serious.html,37,14,negative
+586,He Named Me Malala,0,http://www.nytimes.com/2015/10/02/movies/review-he-named-me-malala-on-a-taliban-target-and-nobel-laureate.html,8,7,negative
+587,Leave No Trace,1,http://www.nytimes.com/2018/06/28/movies/leave-no-trace-review-ben-foster.html,27,29,positive
+588,Love & Friendship,1,http://www.nytimes.com/2016/05/13/movies/love-and-friendship-review.html,22,38,positive
+589,Away We Go,0,http://www.nytimes.com/2009/06/05/movies/05away.html,47,44,negative
+590,The Little Stranger,0,http://www.nytimes.com/2018/08/30/movies/the-little-stranger-review.html,31,17,negative
+591,Win Win,1,http://www.nytimes.com/2011/03/18/movies/win-win-with-paul-giamatti-review.html,46,54,positive
+592,Bad Words,0,http://www.nytimes.com/2014/03/14/movies/jason-bateman-stars-in-and-directs-bad-words.html,32,21,negative
+593,The Wrestler,1,http://www.nytimes.com/2008/12/17/movies/17wres.html,54,38,negative
+594,Blue Valentine,0,http://www.nytimes.com/2010/12/29/movies/29blue.html,44,35,negative
+595,Disobedience,0,http://www.nytimes.com/2018/04/25/movies/disobedience-review-rachel-mcadams.html,24,23,negative
+596,Belle,0,http://www.nytimes.com/2014/05/02/movies/belle-centers-on-a-biracial-aristocrat-in-the-18th-century.html,22,29,positive
+597,Peepli Live,0,http://www.nytimes.com/2010/08/13/movies/13peepli.html,7,6,negative
+598,Wilson,0,http://www.nytimes.com/2017/03/22/movies/wilson-review-with-woody-harrelson.html,24,10,negative
+599,The Book Thief,0,http://www.nytimes.com/2013/11/08/movies/the-book-thief-world-war-ii-tale-with-geoffrey-rush.html,29,20,negative
+600,Fantastic Mr. Fox,1,http://www.nytimes.com/2009/11/13/movies/13fantastic.html,49,40,negative
+601,Patriots Day,0,http://www.nytimes.com/2016/12/20/movies/patriots-day-boston-marathon-review.html,30,7,negative
+602,Legend,0,http://www.nytimes.com/2015/11/20/movies/review-legend-starring-tom-hardy-as-the-gangster-twins-ronnie-and-reggie-kray.html,24,31,positive
+603,Mumbai Diaries,0,http://www.nytimes.com/2011/01/21/movies/21roundup-DHOBIGHATMUM_RVW.html,6,12,positive
+604,Fireworks,0,http://www.nytimes.com/movie/review?res=9A01E5DC173AF934A1575AC0A961958260,31,20,negative
+605,Nebraska,1,http://www.nytimes.com/2013/11/15/movies/nebraska-directed-by-alexander-payne-stars-bruce-dern.html,74,41,negative
+606,You Were Never Really Here,0,http://www.nytimes.com/2018/04/04/movies/you-were-never-really-here-review-joaquin-phoenix.html,39,12,negative
+607,Black Sea,0,http://www.nytimes.com/2015/01/23/movies/black-sea-stars-jude-law-as-a-seething-adventurer.html,32,18,negative
+608,Beasts of the Southern Wild,1,http://www.nytimes.com/2012/06/27/movies/beasts-of-the-southern-wild-directed-by-benh-zeitlin.html,42,40,negative
+609,Diary of the Dead,0,http://www.nytimes.com/2008/02/15/movies/15dead.html,52,21,negative
+610,Like Crazy,0,http://www.nytimes.com/2017/05/04/movies/like-crazy-review.html,9,14,positive
+611,Phantom,0,http://www.nytimes.com/2013/03/01/movies/phantom-a-thriller-directed-by-todd-robinson.html,22,4,negative
+612,Ingrid Goes West,0,http://www.nytimes.com/2017/08/10/movies/ingrid-goes-west-review.html,10,4,negative
+613,Princess Kaiulani,0,http://www.nytimes.com/2010/05/14/movies/14princess.html,15,11,negative
+614,Phillauri,0,http://www.nytimes.com/2017/03/26/movies/phillauri-review.html,21,12,negative
+615,Nowhere Boy,0,http://www.nytimes.com/2010/10/08/movies/08nowhere.html,17,18,positive
+616,The Killing of a Sacred Deer,0,http://www.nytimes.com/2017/10/19/movies/the-killing-of-a-sacred-deer-review-colin-farrell-nicole-kidman.html,57,12,negative
+617,Thank You,0,http://www.nytimes.com/2011/04/11/movies/thank-you-bollywood-comedy-with-akshay-kumar-review.html,7,7,neutral
+618,Baaghi,0,http://www.nytimes.com/2016/05/02/movies/baaghi-review.html,12,12,neutral
+619,Mistress America,1,http://www.nytimes.com/2015/08/14/movies/review-mistress-america-a-noah-baumbach-comedy-on-getting-by-in-a-backbiting-world.html,35,29,negative
+620,Midnight Special,0,http://www.nytimes.com/2016/03/18/movies/review-in-midnight-special-on-the-run-with-a-highly-unusual-child.html,36,32,negative
+621,Calvary,0,http://www.nytimes.com/2014/08/01/movies/calvary-john-michael-mcdonaghs-murder-mystery.html,43,18,negative
+622,Macbeth,0,http://www.nytimes.com/2015/12/04/movies/review-macbeth-starring-michael-fassbender-awash-in-gorgeous-carnage.html,27,19,negative
+623,The Danish Girl,0,http://www.nytimes.com/2015/11/27/movies/review-the-danish-girl-about-a-transgender-pioneer.html,17,42,positive
+624,Denial,0,http://www.nytimes.com/2016/09/30/movies/denial-review-rachel-weisz-denial.html,30,18,negative
+625,Stone,0,http://www.nytimes.com/2010/10/08/movies/08stone.html,24,15,negative
+626,Good Time,0,http://www.nytimes.com/2017/08/10/movies/good-time-review-robert-pattinson.html,66,25,negative
+627,The East,0,http://www.nytimes.com/2013/05/31/movies/the-east-written-by-zal-batmanglij-and-brit-marling.html,41,21,negative
+628,Darkest Hour,0,http://www.nytimes.com/2017/11/21/movies/darkest-hour-review-gary-oldman.html,31,38,positive
+629,By the Sea,0,http://www.nytimes.com/2015/11/13/movies/review-in-angelina-jolie-pitts-by-the-sea-an-unhappy-menage-and-tear-streaked-mascara.html,37,41,positive
+630,Danny Collins,0,http://www.nytimes.com/2015/03/20/movies/review-al-pacino-in-danny-collins-plays-a-dissolute-pop-star.html,25,22,negative
+631,RocknRolla,0,http://www.nytimes.com/2008/10/08/movies/08rock.html,36,15,negative
+632,American Pastoral,0,http://www.nytimes.com/2016/10/21/movies/american-pastoral-review-ewan-mcgregor.html,47,23,negative
+633,Noah's Arc: Jumping the Broom,0,http://www.nytimes.com/2008/10/24/movies/24noah.html,3,6,positive
+634,The Visitor,1,http://www.nytimes.com/2008/04/11/movies/11visi.html,32,31,negative
+635,A Ghost Story,1,http://www.nytimes.com/2017/07/05/movies/review-a-ghost-story.html,52,20,negative
+636,Lion,0,http://www.nytimes.com/2016/11/24/movies/lion-review-dev-patel.html,30,27,negative
+637,Suffragette,0,http://www.nytimes.com/2015/10/23/movies/review-in-suffragette-feminist-insight-thats-about-more-than-the-vote.html,25,16,negative
+638,Himmatwala,0,http://www.nytimes.com/2013/04/01/movies/himmatwala-a-bollywood-disco-remake.html,12,6,negative
+639,Hunt for the Wilderpeople,1,http://www.nytimes.com/2016/06/24/movies/hunt-for-the-wilderpeople-review.html,39,23,negative
+640,The Railway Man,0,http://www.nytimes.com/2014/04/11/movies/the-railway-man-a-true-tale-of-wartime-torment-and-reconciliation.html,40,21,negative
+641,Meet the Patels,0,http://www.nytimes.com/2015/09/11/movies/review-in-meet-the-patels-a-son-submits-to-a-marriage-quest.html,3,11,positive
+642,Last Flag Flying,0,http://www.nytimes.com/2017/11/02/movies/last-flag-flying-review-steve-carell-bryan-cranston-laurence-fishburne-richard-linklater.html,29,18,negative
+643,Jimi: All is By My Side,0,http://www.nytimes.com/2014/09/26/movies/jimi-all-is-by-my-side-a-jimi-hendrix-biopic.html,16,17,positive
+644,Buried,0,http://www.nytimes.com/2010/09/24/movies/24buried.html,37,12,negative
+645,Finding Your Feet,0,http://www.nytimes.com/2018/03/29/movies/finding-your-feet-review.html,10,14,positive
+646,A Royal Night Out,0,http://www.nytimes.com/2015/12/04/movies/review-after-the-terrors-of-the-blitz-comes-a-royal-night-out.html,16,17,positive
+647,Sin Nombre,0,http://www.nytimes.com/2009/03/20/movies/20nomb.html,42,16,negative
+648,Flower,1,http://www.nytimes.com/2018/03/15/movies/flower-review-zoey-deutch.html,18,15,negative
+649,The History Boys,1,http://www.nytimes.com/2006/11/21/movies/21hist.html,25,25,neutral
+650,Beast,1,http://www.nytimes.com/2018/05/10/movies/beast-review.html,24,9,negative
+651,Escobar: Paradise Lost,0,http://www.nytimes.com/2015/06/26/movies/review-escobar-paradise-lost-stars-benicio-del-toro-as-drug-lord.html,17,16,negative
+652,Rabbit Hole,0,http://www.nytimes.com/2010/12/17/movies/17rabbit.html,53,22,negative
+653,Adam,0,http://www.nytimes.com/2009/07/29/movies/29adam.html,6,12,positive
+654,Reprise,1,http://www.nytimes.com/2008/05/16/movies/16repr.html,40,25,negative
+655,The Party,0,http://www.nytimes.com/2018/02/15/movies/the-party-review-timothy-spall-kristin-scott-thomas.html,25,15,negative
+656,Confetti,0,http://www.nytimes.com/2006/09/15/movies/15conf.html,32,15,negative
+657,Risk,0,http://www.nytimes.com/2017/05/04/movies/risk-review-julian-assange-laura-poitras.html,40,21,negative
+658,Freeheld,0,http://www.nytimes.com/2015/10/02/movies/review-in-freeheld-a-dying-detective-fights-for-gay-rights.html,12,15,positive
+659,Goodnight Mommy,1,http://www.nytimes.com/2015/09/11/movies/review-twin-terrors-haunt-goodnight-mommy.html,19,19,neutral
+660,Lean on Pete,1,http://www.nytimes.com/2018/04/05/movies/lean-on-pete-review.html,47,33,negative
+661,Turtle: The Incredible Journey,0,http://www.nytimes.com/2011/06/24/movies/turtle-the-incredible-journey-a-loggerhead-epic-review.html,31,31,neutral
+662,The Future,1,http://www.nytimes.com/2013/09/06/movies/two-orphans-wonder-what-now.html,15,7,negative
+663,The Sapphires,0,http://www.nytimes.com/2013/03/22/movies/the-sapphires-chronicles-4-australian-singers-in-the-1960s.html,33,26,negative
+664,Gemini,0,http://www.nytimes.com/2018/03/29/movies/gemini-review-lola-kirke-zoe-kravitz.html,36,14,negative
+665,Me and Orson Welles,1,http://www.nytimes.com/2009/11/25/movies/25orson.html,23,37,positive
+666,Beach Rats,1,http://www.nytimes.com/2017/08/24/movies/beach-rats-review.html,11,4,negative
+667,La Soga,0,http://www.nytimes.com/2010/08/13/movies/13soga.html,23,6,negative
+668,Lola Versus,0,http://www.nytimes.com/2012/06/08/movies/daryl-weins-lola-versus-with-greta-gerwig.html,29,11,negative
+669,10 Years,0,http://www.nytimes.com/2012/09/14/movies/10-years-a-comedy-directed-by-jamie-linden.html,24,14,negative
+670,Being Flynn,0,http://www.nytimes.com/2012/03/02/movies/paul-weitzs-being-flynn-starring-robert-de-niro.html,38,29,negative
+671,Blaze,1,http://www.nytimes.com/2018/09/06/movies/blaze-review-ethan-hawke.html,32,29,negative
+672,The Foot Fist Way,1,http://www.nytimes.com/2008/05/30/movies/30foot.html,16,9,negative
+673,After.Life,0,http://www.nytimes.com/2010/04/09/movies/09after.html,25,9,negative
+674,Project Nim,1,http://www.nytimes.com/2011/07/08/movies/project-nim-about-a-chimpanzee-subjected-to-research-review.html,44,33,negative
+675,When Marnie Was There,0,http://www.nytimes.com/2015/05/22/movies/review-when-marnie-was-there-by-studio-ghibli-animates-a-friendship-with-ominous-undertones.html,25,17,negative
+676,The Romantics,0,http://www.nytimes.com/2010/09/10/movies/10romantics.html,27,28,positive
+677,Gun Hill Road,0,http://www.nytimes.com/2011/08/05/movies/a-different-kind-of-bronx-tale.html,16,10,negative
+678,Motherhood,0,http://www.nytimes.com/2009/10/23/movies/23mother.html,31,19,negative
+679,A Monster Calls,0,http://www.nytimes.com/2016/12/22/movies/a-monster-calls-review.html,31,8,negative
+680,The Secret of Kells,1,http://www.nytimes.com/2010/03/05/movies/05secret.html,20,22,positive
+681,I Spit on Your Grave,0,http://www.nytimes.com/2010/10/08/movies/08spit.html,15,10,negative
+682,Tea with the Dames,1,http://www.nytimes.com/2018/09/20/movies/tea-with-the-dames-review.html,6,8,positive
+683,Victor,0,http://www.nytimes.com/movie/review?res=9C0CE4D61530F934A15750C0A96F958260,18,13,negative
+684,Other People,0,http://www.nytimes.com/2016/09/09/movies/other-people-review.html,19,6,negative
+685,Eating Animals,0,http://www.nytimes.com/2018/06/14/movies/eating-animals-review.html,6,2,negative
+686,Waking Sleeping Beauty,0,http://www.nytimes.com/2010/03/26/movies/26waking.html,18,29,positive
+687,Arctic Tale,0,http://www.nytimes.com/2007/07/25/movies/25arct.html,4,10,positive
+688,The Breadwinner,1,http://www.nytimes.com/2017/11/16/movies/the-breadwinner-review.html,9,6,negative
+689,Louder Than Bombs,0,http://www.nytimes.com/2016/04/08/movies/louder-than-bombs-review.html,31,14,negative
+690,Christine,0,http://www.nytimes.com/2016/10/14/movies/christine-review-rebecca-hall.html,36,15,negative
+691,"Life, Animated",0,http://www.nytimes.com/2016/07/01/movies/review-life-animated.html,17,12,negative
+692,Bran Nue Dae,0,http://www.nytimes.com/2010/09/10/movies/10bran.html,17,10,negative
+693,In a Valley of Violence,0,http://www.nytimes.com/2016/10/21/movies/in-a-valley-of-violence-review.html,32,7,negative
+694,Shanghai,0,http://www.nytimes.com/2015/10/02/movies/review-in-shanghai-john-cusack-is-a-naval-intelligence-operative-in-a-bind.html,12,8,negative
+695,Wild Target,0,http://www.nytimes.com/2010/10/29/movies/29wild.html,42,32,negative
+696,Toys in the Attic,0,http://www.nytimes.com/2012/09/07/movies/toys-in-the-attic-directed-by-jiri-barta.html,19,19,neutral
+697,Lost River,1,http://www.nytimes.com/2015/04/10/movies/review-in-lost-river-by-ryan-gosling-surreal-scenes-of-urban-decline.html,19,4,negative
+698,Paan Singh Tomar,0,http://www.nytimes.com/2012/03/02/movies/irrfan-khan-stars-in-paan-singh-tomar.html,10,6,negative
+699,Beautiful Boy,0,http://www.nytimes.com/2018/10/11/movies/beautiful-boy-review-steve-carell.html,33,23,negative
+700,No Greater Love,0,http://www.nytimes.com/movie/review?res=9906E4DE113CE03ABC4D51DFB466838F659EDE,22,7,negative
+701,Margaret,0,http://www.nytimes.com/2011/09/30/movies/margaret-directed-by-kenneth-lonergan-review.html,31,26,negative
+702,Big Sonia,0,http://www.nytimes.com/2017/11/16/movies/review-big-sonia-review-holocaust-survivor.html,7,5,negative
+703,The War of the Buttons,0,http://www.nytimes.com/2012/10/12/movies/war-of-the-buttons-directed-by-christophe-barratier.html,10,3,negative
+704,Immigration Tango,0,http://www.nytimes.com/2011/02/18/movies/18immigration-tango.html,8,6,negative
+705,BPM (Beats per Minute),1,http://www.nytimes.com/2017/10/19/movies/bpm-beats-per-minute-review-aids-activism.html,29,18,negative
+706,Panic,0,http://www.nytimes.com/movie/review?res=9B02E5D61F3DF93AA25752C0A9679C8B63,34,24,negative
+707,Hemingway's Garden of Eden,0,http://www.nytimes.com/2010/12/10/movies/10hemingway.html,27,9,negative
+708,The Last Dalai Lama?,0,http://www.nytimes.com/2017/07/27/movies/the-last-dalai-lama-review.html,4,9,positive
+709,On the Beach at Night Alone,0,http://www.nytimes.com/2017/11/16/movies/on-the-beach-at-night-alone-review-hong-sang-soo.html,23,9,negative
+710,The Challenger,0,http://www.nytimes.com/movie/review?res=9E04E4DA1531E633A25755C1A9619C946394D6CF,9,11,positive
+711,Dina,0,http://www.nytimes.com/2017/10/05/movies/dina-review.html,10,8,negative
+712,A Kid Like Jake,0,http://www.nytimes.com/2018/05/31/movies/a-kid-like-jake-review-claire-danes-jim-parsons.html,5,12,positive
+713,Alphaville,0,http://www.nytimes.com/movie/review?res=9D03E6D91F30E23ABC4E51DFB667838E679EDE,29,29,neutral
+714,Skateland,0,http://www.nytimes.com/2011/05/13/movies/skateland-review.html,17,9,negative
+715,Crime + Punishment,1,http://www.nytimes.com/2018/08/22/movies/crime-punishment-review.html,25,15,negative
+716,Jayne Mansfield's Car,0,http://www.nytimes.com/2013/09/13/movies/billy-bob-thornton-directs-jayne-mansfields-car.html,29,6,negative
+717,Sympathy for Delicious,0,http://www.nytimes.com/2011/04/29/movies/sympathy-for-delicious-with-mark-ruffalo-review.html,24,16,negative
+718,Zombeavers,0,http://www.nytimes.com/2015/03/20/movies/review-in-zombeavers-the-flesheaters-have-overbites.html,11,8,negative
+719,When You Read This Letter,0,http://www.nytimes.com/2018/09/11/movies/when-you-read-this-letter-review.html,24,16,negative
+720,All These Sleepless Nights,0,http://www.nytimes.com/2017/04/13/movies/all-these-sleepless-nights-review.html,6,11,positive
+721,White Wedding,0,http://www.nytimes.com/2010/09/03/movies/03roundup-005.html,3,9,positive
+722,5 Days of War,0,http://www.nytimes.com/2011/08/19/movies/5-days-of-war-shows-russia-and-georgia-in-conflict.html,39,17,negative
+723,Junction 48,1,http://www.nytimes.com/2017/03/02/movies/junction-48-review.html,6,5,negative
+724,Violet Tendencies,0,http://www.nytimes.com/2010/11/05/movies/05violet.html,11,8,negative
+725,Gayby,0,http://www.nytimes.com/2012/10/12/movies/gayby-a-short-extended-by-jonathan-lisecki.html,6,6,neutral
+726,The Girl Without Hands,1,http://www.nytimes.com/2017/07/20/movies/the-girl-without-hands-review.html,9,13,positive
+727,Tanner Hall,0,http://www.nytimes.com/2011/09/09/movies/tanner-hall-starring-rooney-mara-review.html,7,7,neutral
+728,Vamps,0,http://www.nytimes.com/2012/11/02/movies/vamps-by-amy-heckerling-with-alicia-silverstone.html,8,10,positive
